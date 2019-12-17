@@ -59,7 +59,14 @@ lantoniotrento@gmail.com
   <body>
   <div class="wrapper">	  	  
       <!--Home page style--> 
-      {% include themes/bootstrap/nav-bar.html %}  
+      {% include themes/bootstrap/nav-bar.html %}
+      <div class="row">
+        <div class="col-md-10">
+      {% if page.banner %}
+      <img src="{{ BASE_PATH }}/assets/images/slider/{{ page.banner }}" alt="{{ page.banner }}">
+      {% endif %}
+        </div>
+      </div>
       {{ content }}
 	  <br />
       {% include themes/bootstrap/footer.html %}
