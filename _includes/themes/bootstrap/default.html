@@ -60,22 +60,20 @@ lantoniotrento@gmail.com
   <div class="wrapper">	  	  
       <!--Home page style--> 
       {% include themes/bootstrap/nav-bar.html %}
-      {% unless page.name == index %}
         <!-- titre -->
       <div class="page-header-title">
         <h2 class="heading-title text-center">{{ page.title }}</h2>
       </div>
       <div class="row">
         <div class="col-md-10 offset-md-1">
-      {% endunless %}
       {% if page.banner %}
       <img src="{{ BASE_PATH }}/assets/images/slider/{{ page.banner }}" alt="{{ page.banner }}">
       {% endif %}
+        </div>
+        <div class="col-md-10 offset-md-1">
       {{ content }}
-      {% unless page.name == index %}
         </div>
       </div>
-      {% endunless %}
 	  <br />
       {% include themes/bootstrap/footer.html %}
   </div>
