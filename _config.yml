@@ -6,7 +6,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: null
 markdown: kramdown
 extensions: [fenced_code_blocks]
-excerpt_separator: "<!--more-->"
+excerpt_separator: "<!-- Voir plus -->"
 url: https://rlabe.github.io
 baseurl: "/rlabe.github.io"
 # Themes are encouraged to use these universal variables
@@ -15,29 +15,29 @@ baseurl: "/rlabe.github.io"
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: 2973388149
-data-ad-client: ca-pub-9204963049240271
-google_ad_client: ca-pub-9204963049240271
+data-ad-client: 
+google_ad_client: 
 
 post_limit: 5
 
 
-title : Helium Jekyll
+title : CFS
 tagline: Bootstrap 4 UI kit for jekyll
 author : 
   name : Antonio Trento
-  site: https://lantoniotrento.github.io
-  description : I&#39;m a web master interested in communication applied to web marketing.
+  site: 
+  description : ASBL sportive
   image : social-image.png
-  email : lantoniotrento@gmail.com
-  github : antoniotrento
-  twitter : lantoniotrento
-  facebook: lantoniotrento
-  linkedin: antoniotrento
-  instagram: lantoniotrento
-  pinterest: antoniotrento
+  email : 
+  github : 
+  twitter : 
+  facebook: 
+  linkedin: 
+  instagram: 
+  pinterest: 
   feedburner : 
 
-twitter_username: lantoniotrento
+twitter_username: 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
@@ -121,13 +121,13 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-94080000-1'
+        tracking_id : ''
     getclicky :
       site_id :
     mixpanel :
         token : '_MIXPANEL_TOKEN_'
     piwik :
-        baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
+        baseURL : '' # Piwik installation address (without protocol)
         idsite : '1'                   # the id of the site on Piwik
 
   # Settings for sharing helper.
