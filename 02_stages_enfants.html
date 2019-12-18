@@ -12,14 +12,11 @@ banner: large-slider1.jpg
 <!-- Content Area Start -->
 <div id="content">
 
-<div class="row">
-	{% include carte-stages.html nom="Psycho" description="Une belle description" lieu="Liège" places="5" %}
-	{% include carte-stages.html nom="Psycho" description="Une belle description" lieu="Liège" places="5" %}
-	{% include carte-stages.html nom="Psycho" description="Une belle description" lieu="Liège" places="5" %}
-	{% include carte-stages.html nom="Psycho" description="Une belle description" lieu="Liège" places="5" %}
-	{% include carte-stages.html nom="Psycho" description="Une belle description" lieu="Liège" places="5" %}
-	{% include carte-stages.html nom="Psycho" description="Une belle description" lieu="Liège" places="5" %}
-</div>
+{% for stage in site.data.stages %}
+{% if stage.online == oui %}
+<h3">{{ stage.name }}</h3>
+{% endif %}
+{% endfor %}
 
 </div>
 <!-- Content Area End -->
