@@ -12,8 +12,49 @@ banner: large-slider1.jpg
 <!-- Content Area Start -->
 <div id="content">
 
-{% for stage in site.data.stages %}
-<h3">{{ stage.name }}</h3>
+{% for stage in site.data.stages.stages %}
+
+<div class="col-md-4 col-xs-6">
+  <div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+      <div class="card-2">
+        <div class="image">
+          <img src="{{ BASE_PATH }}{{ stage.img }}">
+        </div>
+        <div class="card-block">
+          <h3 class="card-title">{{ stage.name }}</h3>
+          <div class="meta">
+            <a>Friends</a>
+          </div>
+          <div class="description">
+            {{ stage.description }}
+          </div>
+          {% if stage.infos %}
+          <div class="description">
+            {{ stage.infos }}
+          </div>
+          {% endif %}
+        </div>
+        <div class="extra">
+          {% if stage.lieu %}
+          <span class="right">
+            📍 {{ stage.lieu }}
+          </span>
+          {% endif %}
+          {% if stage.places %}
+          <span>
+            <i class="fa fa-user"></i>
+            {{ stage.places }} places
+          </span>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+    <div class="col-md-2"></div>
+  </div>
+</div>
+
 {% endfor %}
 
 </div>
