@@ -1,0 +1,66 @@
+slider:
+  - nom: "Bonne année"
+    image: "/assets/images/slider/bonneanner2020.png"
+    bouton1: "Bonne année"
+    type1: 
+    bouton2: "Insciption nouvel an"
+    type2: 
+  - nom: "Feu d'artifice"
+    image: "/assets/images/slider/bonneannee2020bis.png"
+    bouton1: "Bonne année"
+    type1: 
+    bouton2: "Insciption nouvel an"
+    type2:
+
+images:
+  - selection:
+    - titre: 
+      soustitre: 
+      image:
+      lien:
+    - titre: 
+      soustitre: 
+      image:
+      lien:
+    - titre: 
+      soustitre: 
+      image:
+      lien:
+    - titre: 
+      soustitre: 
+      image:
+      lien:
+  - une:
+    - titre: 
+      soustitre: 
+      image:
+      lien:
+    - titre: 
+      soustitre: 
+      image:
+      lien:
+    - titre: 
+      soustitre: 
+      image:
+      lien:
+    - titre: 
+      soustitre: 
+      image:
+      lien:
+  - activites:
+    - titre: 
+      soustitre: 
+      image:
+      lien:
+    - titre: 
+      soustitre: 
+      image:
+      lien:
+    - titre: 
+      soustitre: 
+      image:
+      lien:
+    - titre: 
+      soustitre: 
+      image:
+      lien:
