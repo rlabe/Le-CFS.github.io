@@ -1480,9 +1480,15 @@ nav#menu span.fa.fa-bars:hover{
     -webkit-transition:all 0.3s ease-in-out 0s;
     -o-transition:all 0.3s ease-in-out 0s
 }
-.bulle{
+.bulle3{
     border-radius: 50% !important;
     width: 75% !important;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
+.bulle4{
+    border-radius: 50% !important;
     margin: auto;
     left: 0;
     right: 0;
