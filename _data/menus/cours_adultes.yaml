@@ -1,22 +1,22 @@
 docs:
 
 - title: "Abdos fessiers"
-  url: introduction.html
+  url: /cours_adultes/abdos_fessiers/
 
 - title: "Aquabike"
-  url: configuration.html
+  url: /cours_adultes/aquabike/
 
 - title: "Aquagym"
-  url: deployment.html
+  url: /cours_adultes/aquagym/
 
 - title: "Aqua mix"
-  url: introduction.html
+  url: /cours_adultes/aquamix/
 
 - title: "Fit dance"
-  url: configuration.html
+  url: /cours_adultes/fitdance/
   
 - title: "Gym entretien"
-  url: deployment.html
+  url: /cours_adultes/gymentretien/
 
 - title: "Swiss jump"
-  url: deployment.html
+  url: /cours_adultes/swissjump/

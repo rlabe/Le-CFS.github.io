@@ -1,25 +1,25 @@
 docs:
 
 - title: "Anniversaires"
-  url: introduction.html
+  url: /anniversaires/
 
 - title: "EVG"
-  url: configuration.html
+  url: /events/evg/
 
 - title: "Tournois"
-  url: deployment.html
+  url: /events/tournois/
 
 - title: "Journées du personnel"
-  url: introduction.html
+  url: /events/journees_du_personnel/
 
 - title: "Journées sportives"
-  url: configuration.html
+  url: /events/journees_sportives/
   
 - title: "Journées pédagogiques"
-  url: deployment.html
+  url: /events/journees_pedagogiques/
 
 - title: "Fancy-Fair"
-  url: deployment.html
+  url: /events/fancy_fair/
 
 - title: "Location de matériel"
-  url: deployment.html
+  url: /events/location_de_materiel/

@@ -1,10 +1,10 @@
 docs:
 
 - title: "À domicile"
-  url: introduction.html
+  url: /anniversaires/domicile/
 
 - title: "Dans un lieu sportif et fun"
-  url: configuration.html
+  url: /anniversaires/lieu_sportif_et_fun/
 
 - title: "À la piscine"
-  url: deployment.html
+  url: /anniversaires/piscine/

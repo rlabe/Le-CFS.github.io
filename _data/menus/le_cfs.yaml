@@ -1,22 +1,22 @@
 docs:
 
 - title: "À propos"
-  url: introduction.html
+  url: /centre_de_formation_sportive/a_propos/
 
 - title: "Réductions et cartes de membres"
-  url: configuration.html
+  url: /centre_de_formation_sportive/reductions/
 
 - title: "Questions fréquentes"
-  url: deployment.html
+  url: /centre_de_formation_sportive/questions_frequentes/
 
 - title: "Nos brochures"
-  url: introduction.html
+  url: /centre_de_formation_sportive/nos_brochures/
 
 - title: "Les centres CFS"
-  url: configuration.html
+  url: /centre_de_formation_sportive/les_centres_cfs/
   
 - title: "Partenaires"
-  url: deployment.html
+  url: /centre_de_formation_sportive/partenaires/
 
 - title: "Conditions générales"
-  url: deployment.html
+  url: /centre_de_formation_sportive/conditions_generales/
