@@ -1,0 +1,13 @@
+docs:
+
+- title: "Extrascolaire pour tous"
+  url: introduction.html
+
+- title: "École de natation"
+  url: configuration.html
+
+- title: "CFS Academy"
+  url: deployment.html
+
+- title: "Parascolaire dans mon école"
+  url: introduction.html

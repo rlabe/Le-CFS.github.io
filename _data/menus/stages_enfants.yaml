@@ -1,0 +1,22 @@
+docs:
+
+- title: "Trouver un stage"
+  url: introduction.html
+
+- title: "Activités"
+  url: configuration.html
+
+- title: "Nos lieux de stage"
+  url: deployment.html
+
+- title: "Garderies"
+  url: introduction.html
+
+- title: "Réductions"
+  url: configuration.html
+  
+- title: "Informations pratiques"
+  url: deployment.html
+
+- title: "Nos partenaires de stage"
+  url: deployment.html

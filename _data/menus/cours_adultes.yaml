@@ -1,0 +1,22 @@
+docs:
+
+- title: "Abdos fessiers"
+  url: introduction.html
+
+- title: "Aquabike"
+  url: configuration.html
+
+- title: "Aquagym"
+  url: deployment.html
+
+- title: "Aqua mix"
+  url: introduction.html
+
+- title: "Fit dance"
+  url: configuration.html
+  
+- title: "Gym entretien"
+  url: deployment.html
+
+- title: "Swiss jump"
+  url: deployment.html

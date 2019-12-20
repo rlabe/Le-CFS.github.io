@@ -1,0 +1,22 @@
+docs:
+
+- title: "À propos"
+  url: introduction.html
+
+- title: "Réductions et cartes de membres"
+  url: configuration.html
+
+- title: "Questions fréquentes"
+  url: deployment.html
+
+- title: "Nos brochures"
+  url: introduction.html
+
+- title: "Les centres CFS"
+  url: configuration.html
+  
+- title: "Partenaires"
+  url: deployment.html
+
+- title: "Conditions générales"
+  url: deployment.html

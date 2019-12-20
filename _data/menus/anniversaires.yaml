@@ -1,0 +1,10 @@
+docs:
+
+- title: "À domicile"
+  url: introduction.html
+
+- title: "Dans un lieu sportif et fun"
+  url: configuration.html
+
+- title: "À la piscine"
+  url: deployment.html
