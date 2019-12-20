@@ -201,8 +201,8 @@ strong{
     margin-bottom:80px
 }
 .page-header-title{
-    padding-top:60px;
-    padding-bottom:60px
+    padding-top:20px;
+    padding-bottom:0px
 }
 .page-header-title .heading-title{
     color:#444;
@@ -635,7 +635,7 @@ footer .menu li a:hover{
     padding:5px 8px
 }
 .btn-rounded{
-    border-radius:4px !important
+    border-radius:5% !important
 }
 .btn-pill{
     border-radius:50px !important
@@ -3492,9 +3492,6 @@ ul.nav-tabs li a{
     }
     .sub-title{
         font-size:20px
-    }
-    .top-menu{
-        height:70px
     }
     .top-menu .right{
         float:left
