@@ -8,7 +8,7 @@ css:
 banner: 
 index: 
 permalink: /activites/
-menu: activites_enfants
+menu: activites
 ---
 {% include JB/setup %}
 <div class="row">
@@ -17,7 +17,7 @@ menu: activites_enfants
 <div id="content">
 
 {% if page.menu %}
-{% include menus/menu_left_activites.html %}
+{% include menus/menu_left_{{ page.menu }}.html %}
 {% endif %}
 
 <!-- Selection CFS 4 colonnes -->	

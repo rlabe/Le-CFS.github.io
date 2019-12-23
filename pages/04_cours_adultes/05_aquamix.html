@@ -7,7 +7,7 @@ css:
 banner: 
 index: 
 permalink: /cours_adultes/aquamix/
-menu: cours_adultes
+menu: adultes
 ---
 {% include JB/setup %}
 <div class="row">
@@ -15,7 +15,7 @@ menu: cours_adultes
 <!-- Content Area Start -->
 <div id="content">
 {% if page.menu %}
-{% include menus/menu_left_adultes.html %}
+{% include menus/menu_left_{{ page.menu }}.html %}
 {% endif %}
 
 {% if page.menu %}

@@ -7,7 +7,7 @@ css:
 banner: 
 index: 
 permalink: /stages/reductions/
-menu: stages_enfants
+menu: stages
 ---
 {% include JB/setup %}
 <div class="row">
@@ -15,7 +15,7 @@ menu: stages_enfants
 <!-- Content Area Start -->
 <div id="content">
 {% if page.menu %}
-{% include menus/menu_left_stages.html %}
+{% include menus/menu_left_{{ page.menu }}.html %}
 {% endif %}
 
 
