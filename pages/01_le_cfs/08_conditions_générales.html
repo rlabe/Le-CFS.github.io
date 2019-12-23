@@ -16,38 +16,14 @@ menu: le_cfs
 <div id="content">
 
 {% if page.menu %}
-
-<section class="blog">
-    <div class="container">
-      <div class="row">
-
-        <!-- sidebar area -->
-        <div class="col-sm-12 col-md-3">
-
-          <div class="blog-block categories-sidebar-widget">
-            <h4>Menu</h4>
-
-            {% for item in site.data.menus.le_cfs.docs %}
-            <div class="post-category">
-              <a href="{{ item.url }}">{{ item.title }}</a>
-            </div>
-            {% endfor %}
-
-          </div>
-        </div>
-
-        <!-- content area -->
-
-        <div class="col-sm-12 col-md-9">
+{% include menus/menu_left_cfs.html %}
 {% endif %}
+
 
 {% if page.menu %}
-        </div>
-
-      </div>
-    </div>
-  </section>
+{% include menus/menu_left_end.html %}
 {% endif %}
+
 </div>
 <!-- Content Area End -->
 </div>

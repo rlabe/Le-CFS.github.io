@@ -1,0 +1,24 @@
+{% assign menu_principal = site.data.menus.stages_enfants %}
+
+<section class="blog">
+    <div class="container">
+      <div class="row">
+
+        <!-- sidebar area -->
+        <div class="col-sm-12 col-md-3">
+
+          <div class="blog-block categories-sidebar-widget">
+            <h4><a href="{{ menu_principal.menu.url }}">{{ menu_principal.menu.titre }}</a></h4>
+
+            {% for item in menu_principal.docs %}
+            <div class="post-category">
+              <a href="{{ item.url }}">{{ item.title }}</a>
+            </div>
+            {% endfor %}
+
+          </div>
+        </div>
+
+        <!-- content area -->
+
+        <div class="col-sm-12 col-md-9">

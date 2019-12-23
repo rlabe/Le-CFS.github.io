@@ -1,0 +1,63 @@
+slider:
+  - image: 
+    lien: 
+
+selection:
+  - name: "Sélection du CFS"
+    image:
+    - title: "Atelier Robotique"
+      subtitle: ""
+      image: 
+      lien:
+    - title: "École de natation"
+      subtitle: ""
+      image: 
+      lien:
+    - title: "Stages Carnaval"
+      subtitle: ""
+      image: 
+      lien:
+    - title: "Tournoi mini-foot"
+      subtitle: ""
+      image: 
+      lien:
+
+selection:
+  - name: "Stage à la Une"
+    image:
+    - title: "Atelier Robotique"
+      subtitle: ""
+      image: 
+      lien:
+    - title: "École de natation"
+      subtitle: ""
+      image: 
+      lien:
+    - title: "Stages Carnaval"
+      subtitle: ""
+      image: 
+      lien:
+    - title: "Tournoi mini-foot"
+      subtitle: ""
+      image: 
+      lien:
+
+selection:
+  - name: "Nos activités"
+    image:
+    - title:  "Atelier Robotique"
+      subtitle: ""
+      image: 
+      lien:
+    - title: "École de natation"
+      subtitle: ""
+      image: 
+      lien:
+    - title: "Stages Carnaval"
+      subtitle: ""
+      image: 
+      lien:
+    - title: "Tournoi mini-foot"
+      subtitle: ""
+      image: 
+      lien:
