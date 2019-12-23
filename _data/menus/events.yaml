@@ -1,3 +1,7 @@
+menu: 
+  titre: "events"
+  url: /events/
+
 docs:
 
 - title: "Anniversaires"

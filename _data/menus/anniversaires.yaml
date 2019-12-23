@@ -1,3 +1,7 @@
+menu: 
+  titre: "Anniversaires"
+  url: /anniversaires/
+
 docs:
 
 - title: "À domicile"
@@ -8,3 +12,6 @@ docs:
 
 - title: "À la piscine"
   url: /anniversaires/piscine/
+
+- title: "En savoir plus"
+  url: /anniversaires/en_savoir_plus/

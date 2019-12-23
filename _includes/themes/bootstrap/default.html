@@ -60,6 +60,11 @@ lantoniotrento@gmail.com
   <div class="wrapper">	  	  
       <!--Home page style--> 
       {% include themes/bootstrap/nav-bar.html %}
+      <div class="row">
+        <div class="col-md-5 offset-md-3">
+          {% include breadcrumbs.html %}
+        </div>
+      </div>
         <!-- titre -->
       <div class="page-header-title">
         <h2 class="heading-title text-center">{{ page.title }}</h2>

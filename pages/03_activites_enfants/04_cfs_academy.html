@@ -15,134 +15,14 @@ menu: activites_enfants
 <!-- Content Area Start -->
 <div id="content">
 
-  {% if page.menu %}
-
-<section class="blog">
-    <div class="container">
-      <div class="row">
-
-        <!-- sidebar area -->
-        <div class="col-sm-12 col-md-3">
-
-          <div class="blog-block categories-sidebar-widget">
-            <h4>Menu</h4>
-
-            {% for item in site.data.menus.activites_enfants.docs %}
-            <div class="post-category">
-              <a href="{{ item.url }}">{{ item.title }}</a>
-            </div>
-            {% endfor %}
-
-          </div>
-        </div>
-
-        <!-- content area -->
-
-        <div class="col-sm-12 col-md-9">
+{% if page.menu %}
+{% include menus/menu_left_activites.html %}
 {% endif %}
 
-<!-- Selection CFS 4 colonnes -->	
-      <div class="container">	                  
-            <div class="team-members-tow mtb-50">
-              <div class="row">
-                <div class="col-sm-6 col-md-3">
-                  <!-- Team Item Starts -->
-                  <figure>
-                    <img src="https://media.discordapp.net/attachments/656057943346642945/656125320667201546/accueilstagecarnaval.png" style="border-radius: 50%;" alt="">
-                    <div class="image-overlay bulle4">
-                      <div class="overlay-text text-center">
-                        <div class="info-text">
-                          <strong>Activités extrascolaires</strong>
-                          <span>TROP BIEN</span>
-                        </div>
-                        <hr class="small-divider border-white">
-                        <ul class="social-icons">
-                          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </figure>
-                  <!-- Team Item Ends -->
-                </div>
-                <div class="col-sm-6 col-md-3">
-                  <!-- Team Item Starts -->
-                  <figure>
-                    <img src="https://media.discordapp.net/attachments/656057943346642945/656122120396603415/accueilatelierrobotique.png" style="border-radius: 50%;" alt="">
-                    <div class="image-overlay bulle4">
-                      <div class="overlay-text text-center">
-                        <div class="info-text">
-                          <strong>École de natation</strong>
-                          <span>TROP BIEN</span>
-                        </div>
-                        <hr class="small-divider border-white">
-                        <ul class="social-icons">
-                          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </figure>
-                  <!-- Team Item Ends -->
-                </div>
 
-                <div class="col-sm-6 col-md-3">
-                  <!-- Team Item Starts -->
-                  <figure>
-                    <img src="https://media.discordapp.net/attachments/656057943346642945/656167963937865748/ecolenatation.png" style="border-radius: 50%;" alt="">
-                    <div class="image-overlay bulle4">
-                      <div class="overlay-text text-center">
-                        <div class="info-text">
-                          <strong>CFS Academy</strong>
-                          <span>TROP BIEN</span>
-                        </div>
-                        <hr class="small-divider border-white">
-                        <ul class="social-icons">
-                          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </figure>
-                  <!-- Team Item Ends -->
-                </div>
-
-                <div class="col-sm-6 col-md-3">
-                  <!-- Team Item Starts -->
-                  <figure>
-                    <img src="https://media.discordapp.net/attachments/656057943346642945/656122121281339412/accueiltournoiminifoot.png" style="border-radius: 50%;" alt="">
-                    <div class="image-overlay bulle4">
-                      <div class="overlay-text text-center">
-                        <div class="info-text">
-                          <strong>Activités parascolaires</strong>
-                          <span>TROP BIEN</span>
-                        </div>
-                        <hr class="small-divider border-white">
-                        <ul class="social-icons">
-                          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </figure>
-                  <!-- Team Item Ends -->
-                </div>
-
-              </div>
-            </div>            	      	      	      
-      </div>      
-      <!-- End Team Members 04 -->
 
 {% if page.menu %}
-        </div>
-
-      </div>
-    </div>
-  </section>
+{% include menus/menu_left_end.html %}
 {% endif %}
 
 </div>

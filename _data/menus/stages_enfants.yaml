@@ -1,31 +1,17 @@
+menu: 
+  titre: "Stages enfants"
+  url: /stages/
+
 docs:
 
-- title: "Les Petits Bouts"
-  url: /stages/trouver_un_stage/
-
-- title: "Découvertes sportives et culturelles"
+- title: "Activités"
   url: /stages/activites/
 
-- title: "Danse et Gymnastique"
+- title: "Lieux de stage"
   url: /stages/lieux_de_stage/
 
-- title: "Activités Fun"
-  url: /stages/garderies/
-
-- title: "Activités Sportives"
-  url: /stages/garderies/
-
-- title: "Activités artistiques et loisir"
-  url: /stages/garderies/
-
-- title: "Nos lieux de stage"
-  url: /stages/garderies/
-
 - title: "Garderie"
-  url: /stages/garderies/
-
-- title: "Garderie"
-  url: /stages/garderies/
+  url: /stages/garderie/
 
 - title: "Réductions"
   url: /stages/reductions/
@@ -37,4 +23,4 @@ docs:
   url: /stages/nos_partenaires_de_stage/
 
 - title: "Nos lieux d'excursion"
-  url: /stages/nos_partenaires_de_stage/
+  url: /stages/nos_lieux_excursion/
