@@ -1,0 +1,54 @@
+---
+layout: index
+title: Conditions générales
+img : 
+img-mobile : 
+css: 
+banner:
+index: 
+permalink: /centre_de_formation_sportive/conditions_generales/
+menu: le_cfs
+---
+{% include JB/setup %}
+<div class="row">
+<div class="col-md-10 offset-md-1">
+<!-- Content Area Start -->
+<div id="content">
+
+{% if page.menu %}
+
+<section class="blog">
+    <div class="container">
+      <div class="row">
+
+        <!-- sidebar area -->
+        <div class="col-sm-12 col-md-3">
+
+          <div class="blog-block categories-sidebar-widget">
+            <h4>Menu</h4>
+
+            {% for item in site.data.menus.le_cfs.docs %}
+            <div class="post-category">
+              <a href="{{ item.url }}">{{ item.title }}</a>
+            </div>
+            {% endfor %}
+
+          </div>
+        </div>
+
+        <!-- content area -->
+
+        <div class="col-sm-12 col-md-9">
+{% endif %}
+
+{% if page.menu %}
+        </div>
+
+      </div>
+    </div>
+  </section>
+{% endif %}
+</div>
+<!-- Content Area End -->
+</div>
+</div>

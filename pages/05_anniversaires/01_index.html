@@ -1,0 +1,160 @@
+---
+layout: index
+title: Anniversaires
+img : 
+img-mobile : 
+group : navigation
+css: 
+banner: 
+index: 
+permalink: /anniversaires/
+menu: anniversaires
+---
+{% include JB/setup %}
+<div class="row">
+<div class="col-md-10 offset-md-1">
+<!-- Content Area Start -->
+<div id="content">
+{% if page.menu %}
+
+<section class="blog">
+    <div class="container">
+      <div class="row">
+
+        <!-- sidebar area -->
+        <div class="col-sm-12 col-md-3">
+
+          <div class="blog-block categories-sidebar-widget">
+            <h4>Menu</h4>
+
+            {% for item in site.data.menus.anniversaires.docs %}
+            <div class="post-category">
+              <a href="{{ item.url }}">{{ item.title }}</a>
+            </div>
+            {% endfor %}
+
+          </div>
+        </div>
+
+        <!-- content area -->
+
+        <div class="col-sm-12 col-md-9">
+{% endif %}
+	<div class="row">
+		<div class="col-md-10 offset-md-1">
+			<!-- Image de ballons -->
+			<div class="row">
+				<div class="col-md-4 offset-md-4">
+					<img src="https://www12.iclub.be/images/upload/559/ballons_annif.jpg" style="width: 100%; height: auto;">
+				</div>
+	</div>
+			<!-- Boutons de présentation -->
+			<div class="row">
+				<div class="col-md-4">
+					<a href="#" class="btn btn-block btn-success-filled" style="margin-top: 15px;">À MON DOMICILE</a>
+				</div>
+				<div class="col-md-4">
+					<a href="#" class="btn btn-block btn-danger-filled" style="margin-top: 15px;">DANS UN LIEU SPORTIF ET FUN</a>
+				</div>
+				<div class="col-md-4">
+					<a href="#" class="btn btn-block btn-info-filled" style="margin-top: 15px;">À LA PISCINE</a>
+				</div>
+			</div>
+			<br><br>
+			<center>2H00 D'ANIMATION ENCADREES PAR UN MONITEUR DU CFS<br>LES NOUVEAUTES A PARTIR D'AVRIL</center>
+
+			<!-- 3 bulle3s -->
+			<div class="team-members-tow mtb-50">
+				<div class="row" style="text-align: center !important;">
+					<div class="col-sm-6 col-md-4">
+						<!-- Bulle3 1 -->
+						<figure>
+							<img src="https://media.discordapp.net/attachments/656057943346642945/656061360148316172/sitestagescarnavalbrt.png" alt="" style="border-radius: 5%; width:75%;">
+							<div class="image-overlay bulle3">
+								<div class="overlay-text">
+									<div class="info-text">
+										<strong>Carnaval<br/>Brabant</strong>
+										<span></span>
+									</div>
+									<hr class="small-divider border-white">
+									<ul class="social-icons">
+										<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+										<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+									</ul>
+								</div>
+							</div>
+						</figure>
+						<!-- Fin Bulle3 1 -->
+					</div>
+					<div class="col-sm-6 col-md-4">
+						<!-- Bulle3 2 -->
+						<figure>
+							<img src="https://media.discordapp.net/attachments/656057943346642945/656061357333938216/sitestagescarnavalbxl.png" alt="" style="border-radius: 5%; width:75%;">
+							<div class="image-overlay bulle3">
+								<div class="overlay-text">
+									<div class="info-text">
+										<strong>Carnaval<br/>Bruxelles</strong>
+										<span></span>
+									</div>
+									<hr class="small-divider border-white">
+									<ul class="social-icons">
+										<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+										<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+									</ul>
+								</div>
+							</div>
+						</figure>
+						<!-- Fin Bulle3 2 -->
+					</div>
+
+					<div class="col-sm-6 col-md-4">
+						<!-- Bulle3 3 -->
+						<figure>
+							<img src="https://media.discordapp.net/attachments/656057943346642945/656061359221637121/sitestagescarnavallie.png" alt="" style="border-radius: 5%; width:75%;">
+							<div class="image-overlay bulle3">
+								<div class="overlay-text">
+									<div class="info-text">
+										<strong>Carnaval<br/>Liège</strong>
+										<span></span>
+									</div>
+									<hr class="small-divider border-white">
+									<ul class="social-icons">
+										<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+										<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+									</ul>
+								</div>
+							</div>
+						</figure>
+						<!-- Fin Bulle3 3 -->
+					</div>
+
+				</div>
+			</div>
+			<!-- Fin des 3 bulle3s -->
+
+			<!-- Boutons de fin -->
+			<div class="row">
+				<div class="col-md-6">
+					<a href="#" class="btn btn-block btn-info-filled" style="margin-top: 15px;">INSCRIPTION</a>
+				</div>
+				<div class="col-md-6">
+					<a href="#" class="btn btn-block btn-info-filled" style="margin-top: 15px;">PLUS D'INFORMATIONS</a>
+				</div>
+			</div>
+			<!-- Fin des boutons de fin -->
+		</div>
+	</div>
+{% if page.menu %}
+        </div>
+
+      </div>
+    </div>
+  </section>
+{% endif %}
+</div>
+<!-- Content Area End -->
+</div>
+</div>

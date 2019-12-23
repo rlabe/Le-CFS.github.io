@@ -1,0 +1,25 @@
+docs:
+
+- title: "Anniversaires"
+  url: /anniversaires/
+
+- title: "EVG"
+  url: /events/evg/
+
+- title: "Tournois"
+  url: /events/tournois/
+
+- title: "Journées du personnel"
+  url: /events/journees_du_personnel/
+
+- title: "Journées sportives"
+  url: /events/journees_sportives/
+  
+- title: "Journées pédagogiques"
+  url: /events/journees_pedagogiques/
+
+- title: "Fancy-Fair"
+  url: /events/fancy_fair/
+
+- title: "Location de matériel"
+  url: /events/location_de_materiel/

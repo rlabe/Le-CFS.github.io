@@ -1298,7 +1298,7 @@ nav#menu span.fa.fa-bars:hover{
 }
 .sub-title{
     color:#999;
-    font-size:24px;
+    font-size:40px;
     font-weight:400
 }
 .image-service-box h4{
@@ -1481,14 +1481,14 @@ nav#menu span.fa.fa-bars:hover{
     -o-transition:all 0.3s ease-in-out 0s
 }
 .bulle3{
-    border-radius: 50% !important;
-    width: 75% !important;
+    border-radius: 5% !important;
+    width: 100% !important;
     margin: auto;
     left: 0;
     right: 0;
 }
 .bulle4{
-    border-radius: 50% !important;
+    border-radius: 5% !important;
     margin: auto;
     left: 0;
     right: 0;
