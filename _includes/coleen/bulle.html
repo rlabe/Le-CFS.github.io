@@ -1,0 +1,15 @@
+<!-- Team Item Starts -->
+<figure>
+  <img src="{{ include.src }}" alt="" style="border-radius: 5%;">
+  <div class="image-overlay bulle3">
+    <div class="overlay-text text-center">
+      <div class="info-text">
+        <strong>{{ include.title }}</strong>
+        <span>{{ include.subtitle }}</span>
+      </div>
+      <hr class="small-divider border-white">
+      <a href="{% if include.href %}{{ include.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" class="btn btn-block btn-success-filled" style="margin-top: 15px; color: #fff !important;">{% if include.link %}{{ include.link }}{% else %}<i class="fa fa-edit"></i> Inscription</a>{% endif %}</a>
+    </div>
+  </div>
+</figure>
+<!-- Team Item Ends -->

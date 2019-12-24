@@ -23,10 +23,10 @@ js: sliders.js
                 </ol>
                 <div class="carousel-inner" role="listbox">
                   <div class="carousel-item active">
-                    <a href="#"><img src="{{ BASE_PATH }}/assets/images/slider/bonneannee2020.png" alt=""></a>
+                    <a href="#"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/bonneannee2020bis.png" alt=""></a>
                   </div>
                   <div class="carousel-item">
-                    <a href="#"><img src="{{ BASE_PATH }}/assets/images/slider/bonneannee2020bis.png" alt=""></a>
+                    <a href="#"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/carnavalpaques.png" alt=""></a>
                   </div>
                 </div>
                 <a class="carousel-control-prev" href="#carousel-slider" role="button" data-slide="prev">
@@ -51,91 +51,21 @@ js: sliders.js
                 <span>Sélection du CFS</span>
               </div>
               <div class="row">
+
                 <div class="col-xs-6 col-md-3">
-                  <!-- Team Item Starts -->
-                  <figure>
-                    <img src="https://media.discordapp.net/attachments/656057943346642945/656125320667201546/accueilstagecarnaval.png" style="border-radius: 5%; border: 2px solid; padding: 10px;" alt="">
-                    <div class="image-overlay" style="border-radius: 5%;">
-                      <div class="overlay-text text-center">
-                        <div class="info-text">
-                          <strong>Stages Carnaval</strong>
-                          <span>TROP BIEN</span>
-                        </div>
-                        <hr class="small-divider border-white">
-                        <ul class="social-icons">
-                          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </figure>
-                  <!-- Team Item Ends -->
-                </div>
-                <div class="col-xs-6 col-md-3">
-                  <!-- Team Item Starts -->
-                  <figure>
-                    <img src="https://media.discordapp.net/attachments/656057943346642945/656122120396603415/accueilatelierrobotique.png" style="border-radius: 5%;  border: 2px solid; padding: 10px; box-shadow: 5px 10px #888888;" alt="">
-                    <div class="image-overlay" style="border-radius: 5%;">
-                      <div class="overlay-text text-center">
-                        <div class="info-text">
-                          <strong>Atelier robotique</strong>
-                          <span>TROP BIEN</span>
-                        </div>
-                        <hr class="small-divider border-white">
-                        <ul class="social-icons">
-                          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </figure>
-                  <!-- Team Item Ends -->
+                  {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656125320667201546/accueilstagecarnaval.png" title="Stages Carnaval" href="#" %}
                 </div>
 
                 <div class="col-xs-6 col-md-3">
-                  <!-- Team Item Starts -->
-                  <figure>
-                    <img src="https://media.discordapp.net/attachments/656057943346642945/656167963937865748/ecolenatation.png" style="border-radius: 5%; border: 2px solid;" alt="">
-                    <div class="image-overlay" style="border-radius: 5%;">
-                      <div class="overlay-text text-center">
-                        <div class="info-text">
-                          <strong>École de natation</strong>
-                          <span>TROP BIEN</span>
-                        </div>
-                        <hr class="small-divider border-white">
-                        <ul class="social-icons">
-                          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </figure>
-                  <!-- Team Item Ends -->
+                  {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656122120396603415/accueilatelierrobotique.png" title="Atelier robotique" href="#" %}
                 </div>
 
                 <div class="col-xs-6 col-md-3">
-                  <!-- Team Item Starts -->
-                  <figure>
-                    <img src="https://media.discordapp.net/attachments/656057943346642945/656122121281339412/accueiltournoiminifoot.png" style="border-radius: 5%;" alt="">
-                    <div class="image-overlay" style="border-radius: 5%;">
-                      <div class="overlay-text text-center">
-                        <div class="info-text">
-                          <strong>Tournoi mini-foot</strong>
-                          <span>TROP BIEN</span>
-                        </div>
-                        <hr class="small-divider border-white">
-                        <ul class="social-icons">
-                          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </figure>
-                  <!-- Team Item Ends -->
+                  {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656167963937865748/ecolenatation.png" title="École de natation" href="#" %}
+                </div>
+
+                <div class="col-xs-6 col-md-3">
+                  {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656122121281339412/accueiltournoiminifoot.png" title="Tournoi de mini-foot" href="#" %}
                 </div>
 
               </div>
@@ -151,91 +81,21 @@ js: sliders.js
                 <span>Stages à la Une</span>
               </div>
               <div class="row">
+
                 <div class="col-xs-6 col-md-3">
-                  <!-- Team Item Starts -->
-                  <figure>
-                    <img src="https://media.discordapp.net/attachments/656057943346642945/656122124028608512/accueilfootballeuro.png" style="border-radius: 5%;" alt="">
-                    <div class="image-overlay" style="border-radius: 5%;">
-                      <div class="overlay-text text-center">
-                        <div class="info-text">
-                          <strong>Football EURO 2020</strong>
-                          <span>TROP BIEN</span>
-                        </div>
-                        <hr class="small-divider border-white">
-                        <ul class="social-icons">
-                          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </figure>
-                  <!-- Team Item Ends -->
-                </div>
-                <div class="col-xs-6 col-md-3">
-                  <!-- Team Item Starts -->
-                  <figure>
-                    <img src="https://media.discordapp.net/attachments/656057943346642945/656122127342370837/accueilstagedebrouillar.png" style="border-radius: 5%;" alt="">
-                    <div class="image-overlay" style="border-radius: 5%;">
-                      <div class="overlay-text text-center">
-                        <div class="info-text">
-                          <strong>Stage débrouillard</strong>
-                          <span>TROP BIEN</span>
-                        </div>
-                        <hr class="small-divider border-white">
-                        <ul class="social-icons">
-                          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </figure>
-                  <!-- Team Item Ends -->
+                  {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656122124028608512/accueilfootballeuro.png" title="Football EURO 2020" href="#" %}
                 </div>
 
                 <div class="col-xs-6 col-md-3">
-                  <!-- Team Item Starts -->
-                  <figure>
-                    <img src="https://media.discordapp.net/attachments/656057943346642945/656122124880052224/accueilkohlanta.png" style="border-radius: 5%;" alt="">
-                    <div class="image-overlay" style="border-radius: 5%;">
-                      <div class="overlay-text text-center">
-                        <div class="info-text">
-                          <strong>Stage Koh Lanta</strong>
-                          <span>TROP BIEN</span>
-                        </div>
-                        <hr class="small-divider border-white">
-                        <ul class="social-icons">
-                          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </figure>
-                  <!-- Team Item Ends -->
+                  {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656122127342370837/accueilstagedebrouillar.png" title="Stage débrouillard" href="#" %}
                 </div>
 
                 <div class="col-xs-6 col-md-3">
-                  <!-- Team Item Starts -->
-                  <figure>
-                    <img src="https://media.discordapp.net/attachments/656057943346642945/656149506093744138/accueilfunpaintballetvtt.png" style="border-radius: 5%;" alt="">
-                    <div class="image-overlay" style="border-radius: 5%;">
-                      <div class="overlay-text text-center">
-                        <div class="info-text">
-                          <strong>Fun, Paintball & VTT</strong>
-                          <span>TROP BIEN</span>
-                        </div>
-                        <hr class="small-divider border-white">
-                        <ul class="social-icons">
-                          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </figure>
-                  <!-- Team Item Ends -->
+                  {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656122124880052224/accueilkohlanta.png" title="Stage Koh Lanta" href="#" %}
+                </div>
+
+                <div class="col-xs-6 col-md-3">
+                  {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656149506093744138/accueilfunpaintballetvtt.png" title="Fun, Paintball & VTT" href="#" %}
                 </div>
 
               </div>
@@ -252,91 +112,21 @@ js: sliders.js
                 <span>Nos activités</span>
               </div>
               <div class="row">
+
                 <div class="col-xs-6 col-md-3">
-                  <!-- Team Item Starts -->
-                  <figure>
-                    <img src="https://cdn.discordapp.com/attachments/656057943346642945/656134488891326476/stagesenfants.png" style="border-radius: 5%;" alt="">
-                    <div class="image-overlay" style="border-radius: 5%;">
-                      <div class="overlay-text text-center">
-                        <div class="info-text">
-                          <strong>Stages enfants</strong>
-                          <span>TROP BIEN</span>
-                        </div>
-                        <hr class="small-divider border-white">
-                        <ul class="social-icons">
-                          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </figure>
-                  <!-- Team Item Ends -->
-                </div>
-                <div class="col-xs-6 col-md-3">
-                  <!-- Team Item Starts -->
-                  <figure>
-                    <img src="https://cdn.discordapp.com/attachments/656057943346642945/656134877233807390/activitextra.png" style="border-radius: 5%;" alt="">
-                    <div class="image-overlay" style="border-radius: 5%;">
-                      <div class="overlay-text text-center">
-                        <div class="info-text">
-                          <strong>Activités extrascolaires</strong>
-                          <span>TROP BIEN</span>
-                        </div>
-                        <hr class="small-divider border-white">
-                        <ul class="social-icons">
-                          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </figure>
-                  <!-- Team Item Ends -->
+                  {% include coleen/bulle.html src="https://cdn.discordapp.com/attachments/656057943346642945/656134488891326476/stagesenfants.png" title="Stages enfants" href="#" %}
                 </div>
 
                 <div class="col-xs-6 col-md-3">
-                  <!-- Team Item Starts -->
-                  <figure>
-                    <img src="https://cdn.discordapp.com/attachments/656057943346642945/656133929790734337/coursadultes.png" style="border-radius: 5%;" alt="">
-                    <div class="image-overlay" style="border-radius: 5%;">
-                      <div class="overlay-text text-center">
-                        <div class="info-text">
-                          <strong>Cours adultes</strong>
-                          <span>TROP BIEN</span>
-                        </div>
-                        <hr class="small-divider border-white">
-                        <ul class="social-icons">
-                          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </figure>
-                  <!-- Team Item Ends -->
+                  {% include coleen/bulle.html src="https://cdn.discordapp.com/attachments/656057943346642945/656134877233807390/activitextra.png" title="Activités extrascolaires" href="#" %}
                 </div>
 
                 <div class="col-xs-6 col-md-3">
-                  <!-- Team Item Starts -->
-                  <figure>
-                    <img src="https://cdn.discordapp.com/attachments/656057943346642945/656133595722940429/evenements.png" style="border-radius: 5%;" alt="">
-                    <div class="image-overlay" style="border-radius: 5%;">
-                      <div class="overlay-text text-center">
-                        <div class="info-text">
-                          <strong>Évènements</strong>
-                          <span>TROP BIEN</span>
-                        </div>
-                        <hr class="small-divider border-white">
-                        <ul class="social-icons">
-                          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                          <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </figure>
-                  <!-- Team Item Ends -->
+                  {% include coleen/bulle.html src="https://cdn.discordapp.com/attachments/656057943346642945/656133929790734337/coursadultes.png" title="Cours adultes" href="#" %}
+                </div>
+
+                <div class="col-xs-6 col-md-3">
+                  {% include coleen/bulle.html src="https://cdn.discordapp.com/attachments/656057943346642945/656133595722940429/evenements.png" title="Évènements" href="#" %}
                 </div>
 
               </div>
