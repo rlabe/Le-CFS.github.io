@@ -14,14 +14,13 @@
             <div class="post-category">
               <a href="{{ item.url }}">{{ item.title }}</a>
             </div>
-            {% if item.sousmenu[0] %}
-              <ul>
+            {% if item.url == page.url %}
                 {% for brol in item.sousmenu %}
-                <li><a href="{{brol.url}}">{{ brol.title}}</a></li>
-              </ul>
+                <div class="post-category" style="border-bottom: 0px !important; padding-left: 35px !important;">
+                <a href="{{brol.url}}">{{ brol.title}}</a>
+                </div>
                 {% endfor %}
             {% endif %}
-
             {% endfor %}
 
           </div>
