@@ -7,7 +7,7 @@ css:
 banner:
 index: 
 permalink: /centre_de_formation_sportive/nos_brochures/
-menu: le_cfs
+menu: cfs
 ---
 {% include JB/setup %}
 <div class="row">
@@ -16,7 +16,7 @@ menu: le_cfs
 <div id="content">
 
 {% if page.menu %}
-{% include menus/menu_left_cfs.html %}
+{% include menus/menu_left_{{ page.menu }}.html %}
 {% endif %}
 
 
