@@ -19,11 +19,29 @@ menu: stages
 {% endif %}
 
 <div class="row">
-{% include coleen/carte_stage.html nom="Pré-psychomotricité" age="3 ans" description="Ce sont des tout petits et ils sont mignons." localisation="Bruxelles - Brabant Wallon" %}
-
-{% include coleen/carte_stage.html nom="Pré-psychomotricité" age="3 ans" description="Ce sont des tout petits et ils sont mignons." localisation="Bruxelles - Brabant Wallon" %}
-
-{% include coleen/carte_stage.html nom="Pré-psychomotricité" age="3 ans" description="Ce sont des tout petits et ils sont mignons." localisation="Bruxelles - Brabant Wallon" %}
+	{% for stage in site.data.stages.stages %}
+<div class="col-md-4 col-xs-6">
+    <div class="card-2">
+      <div class="image">
+        <img src="{{ BASE_PATH }}/assets/images/stages{{ stage.img }}">
+      </div>
+      <div class="card-block">
+        <h3 class="card-title">{{ stage.name }}</h3>
+        <div class="meta">
+          3 ans
+        </div>
+        <div class="description">
+          {{ stage.description }}
+        </div>
+      </div>
+      <div class="extra">
+        <span>
+          <i class="fa fa-user"> {{ stage.lieu }}</i>
+        </span>
+      </div>
+    </div>
+</div>
+	{% endfor %}
 </div>
 
 {% if page.menu %}

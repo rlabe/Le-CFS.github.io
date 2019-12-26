@@ -1,644 +1,644 @@
 stages:
     -
         name: Pré-psychomotricité
-        img: '/assets/images/stages/lespetitsbouts/prepsycho.png'
+        img: '/lespetitsbouts/prepsycho.png'
         lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage propose un éveil psychomoteur adapté aux plus petits. Par le jeu, les enfants vont apprendre à percevoir leur corps et à coordonner leurs membres. Une sieste est prévue et encadrée.'
         infos: 
         online: oui
     -
         name: 'Psycho Découverte'
-        img: '/assets/images/stages/lespetitsbouts/psychodecouverte.png'
+        img: '/lespetitsbouts/psychodecouverte.png'
         lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage propose un mix de différentes facettes de la psychomotricité : jeux de coopération, parcours d''adresse, exercices de latéralité, éveil artistique, découverte de la nature environnante et du rythme.'
         infos: 
         online: oui
     -
         name: 'Psycho Grimpette'
-        img: '/assets/images/stages/lespetitsbouts/psychogrimpette.png'
+        img: '/lespetitsbouts/psychogrimpette.png'
         lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage vise le développement d''aspects essentiels de la motricité telles que l''audace, l''équilibre et le ''grimper'' chez l''enfant (espaliers, parcours d''obstacle, etc.). Le reste de la journée est consacrée à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Psycho Aqua'
-        img: '/assets/images/stages/lespetitsbouts/psychoaqua.png'
+        img: '/lespetitsbouts/psychoaqua.png'
         lieu:  Brabant Wallon - Brabant Wallon'
         description: 'Ce stage de psychomotricité est agrémenté, quotidiennement, d''une heure d''accoutumance à l''eau. Une aubaine pour les petits qui auront l''occasion de faire connaissance avec les joies de la piscine, en toute sécurité.'
         infos: 
         online: oui
     -
         name: 'Psycho Natation'
-        img: '/assets/images/stages/lespetitsbouts/psychonatation.png'
+        img: '/lespetitsbouts/psychonatation.png'
         lieu: 'Brabant Wallon'
         description: ""
         infos: 
         online: oui
     -
         name: 'Psycho Musique'
-        img: '/assets/images/stages/lespetitsbouts/psychomusique.png'
+        img: '/lespetitsbouts/psychomusique.png'
         lieu: 'Brabant Wallon'
         description: 'Découverte du rythme par le biais d''exercices ciblant l''éveil musical ainsi que la manipulation d''instruments basiques. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Psycho Nature'
-        img: '/assets/images/stages/lespetitsbouts/psychonature.png'
+        img: '/lespetitsbouts/psychonature.png'
         lieu: 'Brabant Wallon'
         description: 'Chaque matin, les enfants partiront dans les alentours de leur centre : découverte et sensibilisation à la nature seront au programme de leur balade. Une fois revenus, ils réaliseront un bricolage avec les richesses ramenées lors de leur expédition. A chaque jour son nouveau thème ! Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Psycho Vélo'
-        img: '/assets/images/stages/lespetitsbouts/psychovelo.png'
+        img: '/lespetitsbouts/psychovelo.png'
         lieu: 'Brabant Wallon'
         description: 'Initiation au vélo via des exercices d''équilibre et de prise de confiance. Les règles de sécurité sont abordées. Le CFS met ses Balance Bikes à disposition. L''enfant peut aussi apporter son propre vélo.'
         infos: 
         online: oui
     -
         name: 'Psycho Bricolage'
-        img: '/assets/images/stages/lespetitsbouts/psychobricolage.png'
+        img: '/lespetitsbouts/psychobricolage.png'
         lieu: Brabant Wallon
         description: 'Un stage de psychomotricité qui sera agrémenté quotidiennement d''un éveil artistique par le biais du bricolage et de la peinture.'
         infos: 
         online: oui
     -
         name: 'Psycho Cuisine'
-        img: '/assets/images/stages/lespetitsbouts/psychocuisine.png'
+        img: '/lespetitsbouts/psychocuisine.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Apprenti Vélo'
-        img: '/assets/images/stages/activitessportives/psychovelo.png'
+        img: '/activitessportives/psychovelo.png'
         lieu: Brabant Wallon
         description: 'Ce stage permettra à votre enfant d''apprendre à rouler à vélo ou de développer ses capacités. Des circuits sont prévus afin de familiariser votre enfant à la conduite. '
         infos: 
         online: oui
     -
         name: 'Astucieux'
-        img: '/assets/images/stages/activitessportives/astucieux.png'
+        img: '/activitessportives/astucieux.png'
         lieu: Brabant Wallon
         description: 'Aider un enfant à se débrouiller dans la vie de tous les jours. Une semaine de stage avec 10 ateliers pédagogiques mais sous forme de jeux. Les enfants pourront reprendre leurs petits carnet en fin de stage. Voici les thèmes abordés lors de ce stage: Entretenir et réparer son vélo / trottinette, les premiers secours, faire des nœuds et construire un abri, bricolage, notion d’outils et d’électricité, cuisiner, allumer et éteindre un feu, retrouver son chemin, s’orienter et lire une carte, escalader.'
         infos: 
         online: oui
     -
         name: 'Baby Danse & Gym'
-        img: '/assets/images/stages/activitessportives/babydansetgym.png'
+        img: '/activitessportives/babydansetgym.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Baby Foot'
-        img: '/assets/images/stages/activitessportives/babyfoot.png'
+        img: '/activitessportives/babyfoot.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Baby Gym'
-        img: '/assets/images/stages/activitessportives/babygym.png'
+        img: '/activitessportives/babygym.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Baby Multisports'
-        img: '/assets/images/stages/activitessportives/babymultisports.png'
+        img: '/activitessportives/babymultisports.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Baby Poney'
-        img: '/assets/images/stages/activitessportives/babyponey.png'
+        img: '/activitessportives/babyponey.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Baby Savant'
-        img: '/assets/images/stages/activitessportives/babysavant.png'
+        img: '/activitessportives/babysavant.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Baby Tennis'
-        img: '/assets/images/stages/activitessportives/babytennis.png'
+        img: '/activitessportives/babytennis.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Cirque Mômes'
-        img: '/assets/images/stages/activitessportives/cirquemomes.png'
+        img: '/activitessportives/cirquemomes.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Découverte Sportive'
-        img: '/assets/images/stages/activitessportives/decsportive.png'
+        img: '/activitessportives/decsportive.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Découverte Sportive & Musique'
-        img: '/assets/images/stages/activitessportives/psychomusique.png'
+        img: '/activitessportives/psychomusique.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Découverte Sportive & Natation'
-        img: '/assets/images/stages/activitessportives/psychonatation.png'
+        img: '/activitessportives/psychonatation.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Découverte Sportive & Poney'
-        img: '/assets/images/stages/activitessportives/babyponey.png'
+        img: '/activitessportives/babyponey.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Escalade Découverte'
-        img: '/assets/images/stages/activitessportives/escaladedecouverte.png'
+        img: '/activitessportives/escaladedecouverte.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Explorateur'
-        img: '/assets/images/stages/activitessportives/explorateur.png'
+        img: '/activitessportives/explorateur.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Mini Lanta'
-        img: '/assets/images/stages/activitessportives/lanta.png'
+        img: '/activitessportives/lanta.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Princesses & Pirates'
-        img: '/assets/images/stages/activitessportives/princessesetpirates.png'
+        img: '/activitessportives/princessesetpirates.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Quad & Vtt'
-        img: '/assets/images/stages/activitessportives/quadetvtt.png'
+        img: '/activitessportives/quadetvtt.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Dance For You'
-        img: '/assets/images/stages/danseetgymnastique/danceforyou.png'
+        img: '/danseetgymnastique/danceforyou.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Danse'
-        img: '/assets/images/stages/danseetgymnastique/danse.png'
+        img: '/danseetgymnastique/danse.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'GRS'
-        img: '/assets/images/stages/danseetgymnastique/grs.png'
+        img: '/danseetgymnastique/grs.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Gymnastique'
-        img: '/assets/images/stages/danseetgymnastique/gymnastique.png'
+        img: '/danseetgymnastique/gymnastique.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Gym Pro'
-        img: '/assets/images/stages/danseetgymnastique/gympro.png'
+        img: '/danseetgymnastique/gympro.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Hip-Hop Ragga'
-        img: '/assets/images/stages/danseetgymnastique/hiphopragga.png'
+        img: '/danseetgymnastique/hiphopragga.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Swiss Jump Kids'
-        img: '/assets/images/stages/danseetgymnastique/swissjumpkids.png'
+        img: '/danseetgymnastique/swissjumpkids.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Aventure'
-        img: '/assets/images/stages/activitesfun/aventure.png'
+        img: '/activitesfun/aventure.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Détective'
-        img: '/assets/images/stages/activitesfun/detective.png'
+        img: '/activitesfun/detective.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Evasion'
-        img: '/assets/images/stages/activitesfun/evasion.png'
+        img: '/activitesfun/evasion.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Fun Ado'
-        img: '/assets/images/stages/activitesfun/funado.png'
+        img: '/activitesfun/funado.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Fun Paintball & VTT'
-        img: '/assets/images/stages/activitesfun/funpaintballetvtt.png'
+        img: '/activitesfun/funpaintballetvtt.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Fun VTT'
-        img: '/assets/images/stages/activitesfun/funvtt.png'
+        img: '/activitesfun/funvtt.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Karting & Fun'
-        img: '/assets/images/stages/activitesfun/kartingetfun.png'
+        img: '/activitesfun/kartingetfun.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Koh Lanta'
-        img: '/assets/images/stages/activitesfun/lanta.png'
+        img: '/activitesfun/lanta.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Pilote'
-        img: '/assets/images/stages/activitesfun/pilote.png'
+        img: '/activitesfun/pilote.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Pro Skate / BMX / Trottinette'
-        img: '/assets/images/stages/activitesfun/proskatebmxtrot.png'
+        img: '/activitesfun/proskatebmxtrot.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Aqua Fun'
-        img: '/assets/images/stages/activitessportives/aquafun.png'
+        img: '/activitessportives/aquafun.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Badminton'
-        img: '/assets/images/stages/activitessportives/badminton.png'
+        img: '/activitessportives/badminton.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Equi Sport'
-        img: '/assets/images/stages/activitessportives/equisport.png'
+        img: '/activitessportives/equisport.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Equitation'
-        img: '/assets/images/stages/activitessportives/equitation.png'
+        img: '/activitessportives/equitation.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Escalade'
-        img: '/assets/images/stages/activitessportives/escalade.png'
+        img: '/activitessportives/escalade.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Football'
-        img: '/assets/images/stages/activitessportives/football.png'
+        img: '/activitessportives/football.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Football Euro 2020'
-        img: '/assets/images/stages/activitessportives/footballeuro2020.png'
+        img: '/activitessportives/footballeuro2020.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Fun & Multisports'
-        img: '/assets/images/stages/activitessportives/funetmulti.png'
+        img: '/activitessportives/funetmulti.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Fun Multisports & Natation'
-        img: '/assets/images/stages/activitessportives/funmultietnat.png'
+        img: '/activitessportives/funmultietnat.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Futsal'
-        img: '/assets/images/stages/activitessportives/futsal.png'
+        img: '/activitessportives/futsal.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Mini-Foot'
-        img: '/assets/images/stages/activitessportives/minifoot.png'
+        img: '/activitessportives/minifoot.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Multi Natation'
-        img: '/assets/images/stages/activitessportives/multinatation.png'
+        img: '/activitessportives/multinatation.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Multi Natation'
-        img: '/assets/images/stages/activitessportives/multinatation.png'
+        img: '/activitessportives/multinatation.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Padel'
-        img: '/assets/images/stages/activitessportives/padel.png'
+        img: '/activitessportives/padel.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Parkour'
-        img: '/assets/images/stages/activitessportives/parkour.png'
+        img: '/activitessportives/parkour.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Pilote Academy'
-        img: '/assets/images/stages/activitessportives/piloteacademy.png'
+        img: '/activitessportives/piloteacademy.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Ping Pong'
-        img: '/assets/images/stages/activitessportives/pingpong.png'
+        img: '/activitessportives/pingpong.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Plongée'
-        img: '/assets/images/stages/activitessportives/plongee.png'
+        img: '/activitessportives/plongee.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Raquettes'
-        img: '/assets/images/stages/activitessportives/raquettes.png'
+        img: '/activitessportives/raquettes.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Self Defense'
-        img: '/assets/images/stages/activitessportives/selfdefense.png'
+        img: '/activitessportives/selfdefense.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Sport Nature'
-        img: '/assets/images/stages/activitessportives/sportnature.png'
+        img: '/activitessportives/sportnature.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Tennis'
-        img: '/assets/images/stages/activitessportives/tennis.png'
+        img: '/activitessportives/tennis.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Volley Découverte'
-        img: '/assets/images/stages/activitessportives/volleydecouverte.png'
+        img: '/activitessportives/volleydecouverte.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Apprenti Savant'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/apprentisavant.png'
+        img: '/activitesartistiquesetloisirs/apprentisavant.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Artiste'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/artiste.png'
+        img: '/activitesartistiquesetloisirs/artiste.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Bande Dessinée'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/bd.png'
+        img: '/activitesartistiquesetloisirs/bd.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Bricoleur'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/bricoleur.png'
+        img: '/activitesartistiquesetloisirs/bricoleur.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Cirque'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/cirque.png'
+        img: '/activitesartistiquesetloisirs/cirque.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Comédie Musicale'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/comediemusicale.png'
+        img: '/activitesartistiquesetloisirs/comediemusicale.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Compo Musicale'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/compomusicale.png'
+        img: '/activitesartistiquesetloisirs/compomusicale.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Débrouillard'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/debrouillard.png'
+        img: '/activitesartistiquesetloisirs/debrouillard.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Détective'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/detective.png'
+        img: '/activitesartistiquesetloisirs/detective.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Diner Parfait'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/dinerparfait.png'
+        img: '/activitesartistiquesetloisirs/dinerparfait.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Food & Pleasure'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/foodandpleasure.png'
+        img: '/activitesartistiquesetloisirs/foodandpleasure.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Immersion Anglais'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/immersionanglais.png'
+        img: '/activitesartistiquesetloisirs/immersionanglais.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Immersion Néerlandais'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/immersioneerlandais.png'
+        img: '/activitesartistiquesetloisirs/immersioneerlandais.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Ma déco'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/madeco.png'
+        img: '/activitesartistiquesetloisirs/madeco.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Magie'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/magie.png'
+        img: '/activitesartistiquesetloisirs/magie.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Magie et Cirque'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/magietcirque.png'
+        img: '/activitesartistiquesetloisirs/magietcirque.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Magie et Fun'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/magietfun.png'
+        img: '/activitesartistiquesetloisirs/magietfun.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Photo Argentique'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/photoargentique.png'
+        img: '/activitesartistiquesetloisirs/photoargentique.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Robotique'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/robotique.png'
+        img: '/activitesartistiquesetloisirs/robotique.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Tennis Anglais'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/tennisanglaisneerlandais.png'
+        img: '/activitesartistiquesetloisirs/tennisanglaisneerlandais.png'
         lieu: Bruxelles
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Tennis Néerlandais'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/tennisanglaisneerlandais.png'
+        img: '/activitesartistiquesetloisirs/tennisanglaisneerlandais.png'
         lieu: Bruxelles
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Théâtre'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/theatre.png'
+        img: '/activitesartistiquesetloisirs/theatre.png'
         lieu: Bruxelles
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         online: oui
     -
         name: 'Vidéo reportage'
-        img: '/assets/images/stages/activitesartistiquesetloisirs/videoreportage.png'
+        img: '/activitesartistiquesetloisirs/videoreportage.png'
         lieu: Bruxelles
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
