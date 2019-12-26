@@ -497,7 +497,7 @@ stages:
         infos: 
         online: oui
     -
-        name: 'Bande Dessinée
+        name: 'Bande Dessinée'
         img: '/assets/images/stages/activitesartistiquesetloisirs/bd.png'
         lieu: Brabant Wallon
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
