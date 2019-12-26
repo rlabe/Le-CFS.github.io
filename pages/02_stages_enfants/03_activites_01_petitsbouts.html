@@ -20,6 +20,7 @@ menu: stages
 
 <div class="row">
 	{% for stage in site.data.stages.stages %}
+  {% if stage.online and stage.categorie contains "bouts" %}
 <div class="col-md-4 col-xs-6">
     <div class="card-2">
       <div class="image">
@@ -41,6 +42,7 @@ menu: stages
       </div>
     </div>
 </div>
+  {% endif %}
 	{% endfor %}
 </div>
 

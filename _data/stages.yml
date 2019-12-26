@@ -1,14 +1,43 @@
+# Faire TRÈS attention en modifiant ce fichier. Il faut garder le bon nombre d'espace avant le nom des champs.
+# name est le nom du stage. Doit être mis entre guillemets.
+# age est la tranche d'âge du stage. Il faut bien écrire "3 ans" ou "entre 4 et 8 ans". Doit être mis entre guillemets.
+# image est le lien 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+
 stages:
     -
-        name: Pré-psychomotricité
+        name: 'Pré-psychomotricité'
         age: 
         img: '/lespetitsbouts/prepsycho.png'
         lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage propose un éveil psychomoteur adapté aux plus petits. Par le jeu, les enfants vont apprendre à percevoir leur corps et à coordonner leurs membres. Une sieste est prévue et encadrée.'
         infos: 
         inscription: 
-        categorie: 
-        online: oui
+        categorie: bouts
+        online: 
     -
         name: 'Psycho Découverte'
         age: 
@@ -17,7 +46,7 @@ stages:
         description: 'Ce stage propose un mix de différentes facettes de la psychomotricité : jeux de coopération, parcours d''adresse, exercices de latéralité, éveil artistique, découverte de la nature environnante et du rythme.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: petits bouts
         online: oui
     -
         name: 'Psycho Grimpette'
@@ -27,7 +56,7 @@ stages:
         description: 'Ce stage vise le développement d''aspects essentiels de la motricité telles que l''audace, l''équilibre et le ''grimper'' chez l''enfant (espaliers, parcours d''obstacle, etc.). Le reste de la journée est consacrée à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: les petits bouts
         online: oui
     -
         name: 'Psycho Aqua'
