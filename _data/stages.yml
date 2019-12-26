@@ -34,7 +34,7 @@ stages:
         img: '/lespetitsbouts/prepsycho.png'
         lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage propose un éveil psychomoteur adapté aux plus petits. Par le jeu, les enfants vont apprendre à percevoir leur corps et à coordonner leurs membres. Une sieste est prévue et encadrée.'
-        infos: 
+        infos: Attention, il n'y a pas de garderie pour ce stage. Il faut apporter un lange de rechange si nécessaire.
         inscription: 
         categorie: bouts
         online: 
@@ -64,7 +64,7 @@ stages:
         img: '/lespetitsbouts/psychoaqua.png'
         lieu: 'Brabant Wallon'
         description: 'Ce stage de psychomotricité est agrémenté, quotidiennement, d''une heure d''accoutumance à l''eau. Une aubaine pour les petits qui auront l''occasion de faire connaissance avec les joies de la piscine, en toute sécurité.'
-        infos: 
+        infos: Bonnet de bain obligatoire
         inscription: 
         categorie: bouts
         online: oui
@@ -73,8 +73,8 @@ stages:
         age: 3-4 ans
         img: '/lespetitsbouts/psychonatation.png'
         lieu: 'Brabant Wallon'
-        description: ""
-        infos: 
+        description: "Apprentissage des mouvements de base de la natation par le biais d'activités ludiques (1h/j). Accoutumance au milieu aquatique dans une ambiance décontractée. En piscine, 2 moniteurs pour 6 enfants. Le reste de la journée est consacré à des activités de psychomotricité. NB : Les enfants doivent être propres. Sinon nous vous conseillons de les inscrire en pré-psycho."
+        infos: Dès le premier jour, prévoir maillot, bonnet et essuie de bain.
         inscription: 
         categorie: bouts
         online: oui
@@ -133,11 +133,11 @@ stages:
         age: 3-4 ans
         img: '/lespetitsbouts/psychocuisine.png'
         lieu: Brabant Wallon
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description:
         infos: 
         inscription: 
         categorie: bouts
-        online: 
+        online:
     -
         name: 'Apprenti Vélo'
         age: 4-5 ans
@@ -159,6 +159,16 @@ stages:
         categorie: decouvertes
         online: oui
     -
+        name: 'Baby Danse'
+        age: 4-6 ans
+        img: '/decouvertesportiveetculturelle/babydansetgym.png'
+        lieu: 'Brabant Wallon'
+        description: 'Ce stage offre une initiation au rythme à travers l'apprentissage de différentes chorégraphies adaptées aux plus petits. Les enfants auront l'occasion de présenter un spectacle le vendredi après-midi.'
+        infos: 
+        inscription: 
+        categorie: decouvertes
+        online: oui
+    -
         name: 'Baby Danse & Gym'
         age: 4-6 ans
         img: '/decouvertesportiveetculturelle/babydansetgym.png'
@@ -173,7 +183,7 @@ stages:
         age: 4-6 ans
         img: '/decouvertesportiveetculturelle/babyfoot.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Premier contact avec le ballon rond par des apprentissages techniques et des jeux. Le stage est complété par de la psychomotricité (jeux de coopérations, parcours d'adresse, d'audace).'
         infos: 
         inscription: 
         categorie: decouvertes
@@ -183,7 +193,7 @@ stages:
         age: 4-6 ans
         img: '/decouvertesportiveetculturelle/babygym.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Stage d'initiation à la gymnastique pour les plus petits. Parcours d'équilibre, d'audace et premières notions de gymnastique sportive.'
         infos: 
         inscription: 
         categorie: decouvertes
@@ -193,7 +203,7 @@ stages:
         age: 4-6 ans
         img: '/decouvertesportiveetculturelle/babymultisports.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Premier contact avec le sport et les jeux collectifs, par lequel votre enfant développera les différentes facettes de la motricité, le respect des règles et l'esprit d'équipe.'
         infos: 
         inscription: 
         categorie: decouvertes
@@ -203,7 +213,7 @@ stages:
         age: 4-6 ans
         img: '/decouvertesportiveetculturelle/babymultisports.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage se divise en plusieurs périodes dont une consacrée à la natation et les autres périodes à la découverte de différents sports.'
         infos: 
         inscription: 
         categorie: decouvertes
@@ -213,7 +223,7 @@ stages:
         age: 4-6 ans
         img: '/decouvertesportiveetculturelle/babyponey.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage est une pleine participation à la vie du manège : soins aux poneys et bien sûr, initiation à l'équitation.'
         infos: 
         inscription: 
         categorie: decouvertes
@@ -233,7 +243,7 @@ stages:
         age: 4-6 ans
         img: '/decouvertesportiveetculturelle/babytennis.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Une découverte du tennis, complétée par des ateliers de psychomotricité et de multisports. Les enfants découvrent la raquette en tant que prolongement du bras et apprennent à coordonner la vue avec le mouvement de la raquette.'
         infos: 
         inscription: 
         categorie: decouvertes
@@ -273,8 +283,8 @@ stages:
         age: 5-7 ans
         img: '/decouvertesportiveetculturelle/psychonatation.png'
         lieu: 'Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        description: 'Ce stage propose une initiation aux sports ballons, raquettes et jeux collectifs. De plus, les enfants iront quotidiennement à la piscine dans le but d''apprendre les 4 nages et de les rendre autonomes dans l''eau. En piscine : 2 moniteurs pour 8 enfants.'
+        infos: Dès le premier jour, prévoir maillot, bonnet et essuie de bain.
         inscription: 
         categorie: decouvertes
         online: oui
@@ -282,9 +292,9 @@ stages:
         name: 'Découverte Sportive & Poney'
         age: 5-7 ans 
         img: '/decouvertesportiveetculturelle/babyponey.png'
-        lieu: 'Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        lieu: 'Bruxelles - Brabant Wallon'
+        description: 'Après une matinée de jeux collectifs au centre sportif, les futurs cavaliers participent à la vie du manège durant l''après-midi : initiation à l'équitation et soins aux poneys.'
+        infos: Sur Bruxelles - Stage en partenariat avec Pony Plesure 
         inscription: 
         categorie: decouvertes
         online: oui
@@ -293,27 +303,27 @@ stages:
         age: 5-7 ans
         img: '/decouvertesportiveetculturelle/escaladedecouverte.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage propose une séance d’escalade par jour. Par cette initiation, l’enfant travaille des facettes spécifiques de la motricité telles que l’ascension et l’équilibre. Il développe des facteurs essentiels comme l’audace, la maîtrise de soi et la gestion du vertige. Le stage est complété par des activités multisports.'
         infos: 
         inscription: 
         categorie: decouvertes
         online: oui
     -
-        name: 'Explorateur'
+        name: 'Les explorateurs'
         age: 5-7 ans
         img: '/decouvertesportiveetculturelle/explorateur.png'
         lieu: 'Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Durant les vacances de Carnaval, les aventuriers débarquent à Rio. Confection de leur déguisement, bricolage, jeux à thèmes et visite de la ferme sont au programme de ce stage dépaysant. Prenez un vieux déguisement, des accessoires ou même des bouts de tissus dès le premier jour du stage : une couturière sera présente pour aider les enfants à confectionner leur déguisement pour le mardi gras.'
         infos: 
         inscription: 
         categorie: decouvertes
         online: oui
     -
         name: 'Expression Corporelle & Sport'
-        age: 5-7 ans
+        age: 4-6 ans
         img: '/decouvertesportiveetculturelle/explorateur.png'
-        lieu: Brabant Wallon
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        lieu: 'Brabant Wallon'
+        description: 'La danse, l'improvisation et l'art dramatique occupent la moitié du temps de ce stage. Une activité dite d'expression corporelle nécessite que l'individu exprime ses sentiments, ses émotions, sa personnalité, à travers sa démarche, ses gestes, les expressions de son visage et même son énergie. Elle permet entre autres d'améliorer la communication de l'enfant. Le reste de la journée est réservé à la découverte de sports collectifs.'
         infos: 
         inscription: 
         categorie: decouvertes
@@ -323,7 +333,7 @@ stages:
         age: 6-8 ans
         img: '/decouvertesportiveetculturelle/lanta.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocatching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage!'
         infos: 
         inscription: 
         categorie: decouvertes
@@ -343,8 +353,8 @@ stages:
         age: 6-8 ans
         img: '/decouvertesportiveetculturelle/quadetvtt.png'
         lieu: Brabant Wallon
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        description: 'Ce stage permettra aux enfants de découvrir les sensations que procure un quad. La matinée, ils découvrent les joies des quads électriques de notre circuit gonflable. Ils ont également l'occasion de se perfectionner en vélo l'après-midi en dévalant les descentes et en découvrant les sauts. Tout cela, en maîtrisant une bonne trajectoire. Sensation de vitesse garantie tout au long de la semaine.'
+        infos: Attention : VTT, gilet fluo, un cadenas, un casque ainsi qu'une chambre à air de rechange dès le premier jour de stage!
         inscription: 
         categorie: decouvertes
         online: 
@@ -353,8 +363,8 @@ stages:
         age: 8-14 ans
         img: '/danseetgymnastique/danceforyou.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        description: '5 types de chorégraphies sont proposées par stage : Funck-Jazz, Hip-Hop, Break-Dance, Ragga et New-Style. Un spectacle est prévu en fin de stage.'
+        infos: Stage en partenariat avec l'association 4UDance
         inscription: 
         categorie: danse
         online: oui
@@ -363,7 +373,7 @@ stages:
         age: 6-10 ans
         img: '/danseetgymnastique/danse.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage prévoit une initiation et/ou un perfectionnement de la danse Jazz. (musique, tempos, mouvements, danse en groupe). Les enfants réalisent également des chorégraphies. Un petit spectacle est prévu à la fin de la semaine!'
         infos: 
         inscription: 
         categorie: danse
@@ -373,7 +383,7 @@ stages:
         age: 6-14 ans
         img: '/danseetgymnastique/grs.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Par le biais de la musique et l'utilisation de ballons, cerceaux, rubans, cordes et massues, votre enfant développera le rythme, l'adresse et la dextérité et apprendra des chorégraphies.'
         infos: 
         inscription: 
         categorie: danse
@@ -383,7 +393,7 @@ stages:
         age: 6-12 ans
         img: '/danseetgymnastique/gymnastique.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Durant ce stage , les enfants vont découvrir les plaisirs de la gymnastique par un travail aux agrès dans le but de développer les qualités de base de cette discipline (force, souplesse, équilibre et audace) à raison de 2 séances par jour. Les 2 autres séances de la journée leur permettront de découvrir d'autres disciplines sportives.'
         infos: 
         inscription: 
         categorie: danse
@@ -423,7 +433,7 @@ stages:
         age: 8-14 ans
         img: '/activitesfun/aventure.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Le stage Aventure est l''un des stages phares du CFS. Il met au programme des sports et activités ludiques aussi variés que le Laser Game, les New Games, l''escalade, l''escrime et des Escape Game.'
         infos: 
         inscription: 
         categorie: fun
@@ -431,10 +441,10 @@ stages:
     -
         name: 'BMX Pro'
         age: 10-16 ans
-        img: '/activitesfun/proskatebmxtrot.png'
+        img: '/activitesfun/bmx.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        description: 'Ce stage prévoit une initiation et un perfectionnement au BMX. Les as du BMX vont apprendre de nouvelles figures dans une ambiance propre à ces sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés par des professionnels dans leur domaine. Chaque jour, les enfants partent découvrir un nouveau Skate Park. Les enfants doivent amener leur BMX et toutes les protections.'
+        infos: Stage en partenariat avec Max Extrême
         inscription: 
         categorie: fun
         online: oui
@@ -443,7 +453,7 @@ stages:
         age: 10-16 ans
         img: '/activitesfun/evasion.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage propose un menu alléchant: une journée à Aqualibi, des New games, une après-midi à Koezio, une initiation à la moto ( via des motos électriques ) ainsi que des Escapes Games.'
         infos: 
         inscription: 
         categorie: fun
@@ -453,7 +463,7 @@ stages:
         age: 12-16 ans
         img: '/activitesfun/funado.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Un menu taillé pour nos plus grands : une journée à Profondeville (bouée tractée, canoë, pédalo, padel et kayak),une journée consacrée aux New games (tchoukball, kinball, base ball, flag foot...), une journée au parc de loisir de Koézio, une journée au parc à trampoline Jump XL de Bruxelles et une journée au parc aventure de Wavre... avec le fameux jump en fin de journée!'
         infos: 
         inscription: 
         categorie: fun
@@ -463,8 +473,8 @@ stages:
         age: 10-16 ans 
         img: '/activitesfun/funpaintballetvtt.png'
         lieu: 'Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        description: 'Ce stage propose une semaine complète rythmée par des parties de Paintball (1x/semaine) et la pratique du VTT pour des enfants sachant déjà rouler à vélo. Les jeunes apprennent les règles et les astuces du paintball et s’initient à l’orientation en VTT. Le stage est agrémenté par une initiation à la moto trial et à une journée à la natation (prévoir maillot, bonnet et essuie de bain).'
+        infos: Il faut un VTT, un gilet fluo, un cadenas, un casque ainsi qu’une chambre à air de rechange dès le premier jour du stage !
         inscription: 
         categorie: fun
         online: oui
@@ -483,7 +493,7 @@ stages:
         age: 10-16 ans 
         img: '/activitesfun/kartingetfun.png'
         lieu: 'Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Les jeunes adolescents découvrent les joies du karting 3 après-midi par semaine au WIK (demi-finale / finale). Le reste de la semaine est complété par des activités fun.'
         infos: 
         inscription: 
         categorie: fun
@@ -493,7 +503,7 @@ stages:
         age: 8-12 ans 
         img: '/activitesfun/lanta.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocatching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage !'
         infos: 
         inscription: 
         categorie: fun
@@ -503,7 +513,7 @@ stages:
         age: 10-14 ans
         img: '/activitesfun/pilote.png'
         lieu: 'Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage permet de découvrir les sensations d’un vrai pilote… Concentration, adrénaline et amusement ! Au programme, apprentissage et maîtrise des différents véhicules : motos, quads et trottinettes. Egalement des courses de cuistax et tricycles dans notre circuit gonflable. Les plus aguerris ont l’occasion de rouler avec des quads thermiques. Afin de sensibiliser les jeunes au respect du matériel, des ateliers de mécano sont également prévus durant la semaine.'
         infos: 
         inscription: 
         categorie: fun
@@ -511,40 +521,40 @@ stages:
     -
         name: 'Skate Pro'
         age: 10-16 ans
-        img: '/activitesfun/pilote.png'
+        img: '/activitesfun/skatepro.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        description: 'Ce stage prévoit une initiation et un perfectionnement au skate board. Les as de la planche vont apprendre de nouvelles figures dans une ambiance propre à ces sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés par des professionnels dans leur domaine. Chaque jour, les enfants partent découvrir un nouveau Skate Park. Les enfants doivent amener leur skate et toutes les protections.'
+        infos: En partenariat avec Max Extrême
         inscription: 
         categorie: fun
         online: oui
     -
         name: 'Trottinette Pro'
         age: 10-16 ans
-        img: '/activitesfun/pilote.png'
+        img: '/activitesfun/trottinettepro.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        description: 'Ce stage prévoit une initiation et un perfectionnement à la trottinette. Les as de la trot' vont apprendre de nouvelles figures dans une ambiance propre à ces sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés par des professionnels dans leur domaine. Chaque jour, les enfants partent découvrir un nouveau Skate Park. Les enfants doivent amener leur trottinette et toutes les protections.'
+        infos: Stage en partenariat avec Max Extrême
         inscription: 
         categorie: fun
         online: oui
     -
         name: 'Tennis - Fun & Aventure'
         age: 6-12 ans
-        img: '/activitesfun/pilote.png'
+        img: '/activitesfun/tennisfunetaventure.png'
         lieu: Bruxelles
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        description: 'Lors de ce stage, les enfants ont l'occasion de pratiquer le tennis mais également de découvrir diverses activités funs et de faire des excursions comme le Laser Game, le Train World, une visite au musée, à l'atomium, une journée à la patinoire, une journée au Parc de loisir Koézio...'
+        infos: Stage en collaboration avec Lambert Tennis Academy
         inscription: 
         categorie: fun
         online: oui
     -
         name: 'X-TREM Sensation'
         age: 12-16 ans
-        img: '/activitesfun/pilote.png'
+        img: '/activitesfun/xtremsensation.png'
         lieu: 'Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        description: 'Un nouveau stage au programme alléchant : une journée inoubliable de Quad et de Paintball, deux courses de Karting au WIK-Wavre Indoor Karting (demi-finale/finale) ainsi que des activités funs pour compléter la semaine (Laser game, parcours d'obstacle gonflable, Arrow game et Bubble Soccer). Tous les déplacements se font en VTT pour se rendre aux différentes activités.'
+        infos: Attention! Pour le karting, la taille minimum de l'enfant doit être de 1m55! Prévoir un VTT, un gilet fluo, un cadenas, un casque ainsi qu'une chambre à air de rechange dès le premier jour du stage !
         inscription: 
         categorie: fun
         online: oui
@@ -563,7 +573,7 @@ stages:
         age: 8-14 ans
         img: '/activitessportives/badminton.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Une initiation et/ou un perfectionnement de la technique et de petits matchs entre participants. Un tournoi est organisé en fin de semaine.'
         infos: 
         inscription: 
         categorie: sportives
@@ -573,8 +583,8 @@ stages:
         age: 7-12 ans
         img: '/activitessportives/equisport.png'
         lieu: 'Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        description: 'Les enfants s’adonnent le matin aux joies du manège et de l’équitation. L’après-midi est consacrée à une autre activité au choix parmi : A Rixensart : badminton, football, sports raquettes, GRS, activités Funs ou bande dessinée et à Ottignies : mini-foot, sports raquettes, GRS, Gym Pro (pratique nécessaire de la gymnastique tout au long de l'année) ou magie'
+        infos: Les navettes seront assurées par le CFS.
         inscription: 
         categorie: sportives
         online: oui
@@ -583,7 +593,7 @@ stages:
         age: 7-16 ans
         img: '/activitessportives/equitation.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage fait découvrir tous les aspects d’une pratique de l’équitation : participation à la vie du Manège de la Motte, soins aux chevaux, dressage, cours théoriques et pratique équestre, promenades...'
         infos: 
         inscription: 
         categorie: sportives
@@ -593,7 +603,7 @@ stages:
         age: 8-14 ans
         img: '/activitessportives/escalade.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage prévoit 3 heures journalières d'apprentissage des techniques de base d' escalade sur mur ainsi que les consignes de sécurité s' y rapportant. Le reste de la journée est consacrée aux activités de multisports et new games.'
         infos: 
         inscription: 
         categorie: sportives
@@ -603,7 +613,7 @@ stages:
         age: 6-14 ans
         img: '/activitessportives/football.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage prévoit une alternance entre entraînements et petits matchs. Les mordus du ballon rond s'exercent aux techniques de ballon et de jeu. Chaque entraînement est abordé de manière ludique afin d'allier football et plaisir. La journée est répartie en 3 périodes de football et une période de multisports.'
         infos: 
         inscription: 
         categorie: sportives
@@ -623,7 +633,7 @@ stages:
         age: 6-8 ans
         img: '/activitessportives/funetmulti.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Coming Soon'
         infos: 
         inscription: 
         categorie: sportives
@@ -633,7 +643,7 @@ stages:
         age: 6-8 ans
         img: '/activitessportives/funmultietnat.png'
         lieu: Bruxelles
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Coming Soon'
         infos: 
         inscription: 
         categorie: sportives
@@ -643,8 +653,8 @@ stages:
         age: 6-14 ans
         img: '/activitessportives/futsal.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        description: 'Ce stage prévoit une alternance d'entraînements (technique ballon et technique de jeu) et de petits matchs.'
+        infos: Stage en collaboration avec CB Futsal Jette Bxl Cap
         inscription: 
         categorie: sportives
         online: oui
@@ -653,7 +663,7 @@ stages:
         age: 6-12 ans
         img: '/activitessportives/minifoot.png'
         lieu: 'Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Initiation au mini-foot (aspect technique, tactique et petits matchs). Chaque jour, 3 périodes d'1h25 de mini-foot et un complément d'activités multisports. Sport incontournable pour tous les futurs footballeurs qui souhaitent maîtriser le ballon.'
         infos: 
         inscription: 
         categorie: sportives
@@ -663,7 +673,7 @@ stages:
         age: 5-7 ans
         img: '/activitessportives/multinatation.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Une période par jour de natation. Le reste de la journée est consacré à des activités multisports.'
         infos: 
         inscription: 
         categorie: sportives
@@ -673,7 +683,7 @@ stages:
         age: 7-16 ans
         img: '/activitessportives/padel.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Le padel est un sport de raquettes dérivé du tennis et du squash. Ce sport très ludique est accessible aux débutants. Venez découvrir ce nouveau sport qui allie tactique, coordination et le plaisir du jeu!'
         infos: 
         inscription: 
         categorie: sportives
@@ -703,7 +713,7 @@ stages:
         age: 10-16 ans
         img: '/activitessportives/piloteacademy.png'
         lieu: 'Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage permet de se perfectionner en tant que pilote. Concentration, adrénaline et amusement ! Au programme, maîtrise des différents véhicules : motos, quads et trottinettes. Egalement des courses de cuistax et tricycles dans notre circuit gonflable. Les plus aguerris ont l’occasion de rouler avec des quads thermiques. Afin de sensibiliser les jeunes au respect du matériel, des ateliers de mécano sont également prévus durant la semaine.'
         infos: 
         inscription: 
         categorie: sportives
@@ -713,7 +723,7 @@ stages:
         age: 7-16 ans
         img: '/activitessportives/pingpong.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Découverte et/ou perfectionnement au tennis de table. Apprentissage du maniement de la raquette. Coups droits, services, revers et déplacements autour de la table. Le stage est complété par des activités de multisports.'
         infos: 
         inscription: 
         categorie: sportives
@@ -723,17 +733,17 @@ stages:
         age: 9-14 ans
         img: '/activitessportives/plongee.png'
         lieu: 'Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
-        inscription: 
+        description: 'Ce stage propose une initiation à la plongée sous-marine pour les enfants sachant nager au minimum 100 mètres. Au programme: 3 heures de plongée par groupe de 6, technique d'apnée, technique de bouteille, jeux aquatiques...'
+        infos: Stage en partenariat avec EPST - Ecole de Plongée Sportive et Technique
+        inscription: Possibilité à la demi-journée. 
         categorie: sportives
         online: oui
     -
-        name: 'Raquettes'
+        name: 'Sports Raquettes'
         age: 7-16 ans
         img: '/activitessportives/raquettes.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage propose une découverte et perfectionnement  pour les amateurs de sports raquettes. Au programme : tennis de table, badminton, speedminton et tennis.'
         infos: 
         inscription: 
         categorie: sportives
@@ -753,8 +763,8 @@ stages:
         age: 7-12 ans
         img: '/activitessportives/sportnature.png'
         lieu: 'Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        description: 'Les enfants partiront chaque jour en vélo à la découverte des alentours de leur centre afin d'être sensibilisé à l'écologie et à la biodiversité. Durant cette balade, ils observeront les insectes et les plantes et pourront également construire des cabanes. Une journée initiation à la pêche sera proposée à votre enfant. L'après-midi est consacrée à la découverte de sports collectifs. Une bonne semaine de bouffées d'air frais!'
+        infos: Attention! Prévoir un vélo, un gilet fluo, un cadenas, un casque ainsi qu'une chambre à air de rechange dès le premier jour du stage.
         inscription: 
         categorie: sportives
         online: oui
@@ -771,10 +781,10 @@ stages:
     -
         name: 'Tennis Pro'
         age: 11-16 ans
-        img: '/activitessportives/tennis.png'
+        img: '/activitessportives/tennispro.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        description: 'Ce stage permet aux amateurs de tennis, de développer leur technique de jeu et d'en apprendre d'avantage. Les enfants auront également l'occasion de participer à des tournois durant le stage.'
+        infos: Stage en collaboration avec Lambert Tennis Academy
         inscription: 
         categorie: sportives
         online: oui
@@ -803,7 +813,7 @@ stages:
         age: 6-12 ans
         img: '/activitesartistiquesetloisirs/artiste.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage vise l''éveil artistique de l''enfant par la découverte de techniques d''art plastique telles que le modelage, le collage, le dessin, etc. et la réalisation d''oeuvres personnelles.'
         infos: 
         inscription: 
         categorie: artistiques
@@ -813,7 +823,17 @@ stages:
         age: 9-16 ans
         img: '/activitesartistiquesetloisirs/bd.png'
         lieu: 'Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage a pour but la création de planches BD. Se munir d'une latte, de crayons, d'un taille-crayon, d'une gomme et d'un chiffon. Le reste du matériel est prévu dans le prix du stage.'
+        infos: 
+        inscription: 
+        categorie: artistiques
+        online: oui
+ -
+        name: 'Bricoleur & Sport'
+        age: 7-12 ans
+        img: '/activitesartistiquesetloisirs/bricoleur.png'
+        lieu: 'Brabant Wallon'
+        description: 'Nos bricoleurs en herbe découvrent le monde du rafistolage en tout genre en adoptant les bonnes techniques. Une mise en situation et les premières manipulations des outils se feront en toute sécurité le matin tandis que l'après-midi sera consacrée à la découverte de différents sports. Les apprentis bricoleurs repartent avec un jeu en bois confectionné de leurs propres mains.'
         infos: 
         inscription: 
         categorie: artistiques
@@ -823,7 +843,7 @@ stages:
         age: 9-14 ans
         img: '/activitesartistiquesetloisirs/cirque.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage propose l’approche de diverses disciplines issues du monde du cirque : équilibre (câbles, échasses, monocycle), acrobatie (pyramides, trampoline et trapèze), jonglerie (foulards, balles, quilles), adresse (diabolos, bâtons du diable).'
         infos: 
         inscription: 
         categorie: artistiques
@@ -843,7 +863,7 @@ stages:
         age: 8-14 ans
         img: '/activitesartistiquesetloisirs/compomusicale.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Encadré par un jeune compositeur, les enfants apprennent à travailler sur Fruity Loops Studio (deux par ordinateur). Ils enregistrent leur voix et leur composition musicale (sur base de partition) à l'aide d'un synthétiseur ou d'un instrument rapporté de la maison. Tout le matériel se trouve sur place afin de leur permettre de s'enregistrer et de "trafiquer" les sons en rajoutant des basses ou d'autres mélodies. Pour ce stage, il n'y a pas de prérequis musical mais il faut simplement une envie de découvrir le monde de la composition. En fin de semaine, les parents seront invités, autour d'un verre, à écouter ou à voir le travail des enfants tout au long de la création de leur musique. Les enfants repartent avec leur composition sur format USB. Les moments de composition et périodes de sports alterneront durant la journée.'
         infos: 
         inscription: 
         categorie: artistiques
@@ -863,7 +883,7 @@ stages:
         age: 10-16 ans
         img: '/activitesartistiquesetloisirs/detective.png'
         lieu: 'Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage permet à nos agents spéciaux en herbe de se découvrir et se surpasser. Au programme : jeux de mémoire, de culture générale, de piste, de réflexion et de cohésion d'équipe. Le tout combiné à des épreuves d'agilité et des efforts physiques. Les jeunes sont projetés dans un univers où seule l'entraide leur permettra de trouver les solutions. Pour se tester, ils créent des épreuves de Géocatching (chasse au trésor avec GPS) et d'Escape Room (jeux de rôles grandeur nature dont le but est de s'échapper d'une pièce en résolvant des énigmes). Tout cela agrémenté d'une journée inoubliable au parc de loisir indoor Koezio. La semaine se clôture par une journée cohésion/pique-nique.'
         infos: 
         inscription: 
         categorie: artistiques
@@ -873,8 +893,8 @@ stages:
         age: 7-14 ans
         img: '/activitesartistiquesetloisirs/dinerparfait.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        description: 'Durant le stage, les jeunes cuisiniers touchent à tous les domaines ayant trait au métier de chef-cuistot. Ils préparent des recettes qu’ils savourent chaque midi. Ils se chargent également de la remise en ordre des cuisines. Le dernier jour, un petit buffet-dégustation sera préparé à l’attention des parents.'
+        infos: Il ne faut prévoir à manger que le vendredi !
         inscription: 
         categorie: artistiques
         online: oui
@@ -883,8 +903,8 @@ stages:
         age: 6-8 ans
         img: '/activitesartistiquesetloisirs/foodandpleasure.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        description: 'Notre gentil petit monstre gourmand Gloopy s''intéresse aux fruits et légumes de saison: panier de saison, tests à l'aveugle, boites mystères, éveil des 5 sens et bien sûr, préparation de savoureuses recettes saines et gourmandes! Les après-midis sont consacrées à des activités de multisports.'
+        infos: Stage en partenariat avec Food & Pleasure
         inscription: 
         categorie: artistiques
         online: oui
@@ -893,7 +913,7 @@ stages:
         age: 8-12 ans
         img: '/activitesartistiquesetloisirs/immersionanglais.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Stage d''apprentissage de l''anglais au travers d''activités pédagogiques diverses et ludiques: cours théoriques, jeux, sports, visites culturelles. L'ensemble des activités proposées se déroule en anglais. Les formateurs sont soucieux d'un apprentissage amusant et performant, respectueux des capacités de chaque enfant.'
         infos: 
         inscription: 
         categorie: artistiques
@@ -903,7 +923,7 @@ stages:
         age: 8-16 ans
         img: '/activitesartistiquesetloisirs/immersioneerlandais.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Stage d''apprentissage du néerlandais au travers d''activités pédagogiques diverses et ludiques: cours théoriques, jeux, sports, visites culturelles. L'ensemble des activités proposées se déroule en néerlandais. Les formateurs sont soucieux d'un apprentissage amusant et performant, respectueux des capacités de chaque enfant.'
         infos: 
         inscription: 
         categorie: artistiques
@@ -913,7 +933,7 @@ stages:
         age: 8-14 ans
         img: '/activitesartistiquesetloisirs/madeco.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage propose de créer des objets pour décorer toute la maison, de s’initier au scrapbooking et d’explorer d’autres facettes des arts plastiques.'
         infos: 
         inscription: 
         categorie: artistiques
@@ -933,7 +953,7 @@ stages:
         age: 8-14 ans
         img: '/activitesartistiquesetloisirs/magietfun.png'
         lieu: 'Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Grâce à un magicien ayant plein de tours dans son sac, les enfants découvrent le monde de l’illusion et de la manipulation. Chaque enfant reçoit son propre kit et son livret de magie (qu’il pourra reprendre à la maison en fin de stage). Les après-midis sont consacrées aux activités funs (laser game, arrow game, etc.). Un petit spectacle est prévu en fin de semaine avec démonstration de quelques tours appris.'
         infos: 
         inscription: 
         categorie: artistiques
@@ -943,7 +963,7 @@ stages:
         age: 8-14 ans
         img: '/activitesartistiquesetloisirs/magietfun.png'
         lieu: 'Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Stage 100% magie réservé aux apprentis magiciens souhaitant progresser. La concentration et l'écoute sont des qualités nécessaires pour apprendre de nouveaux tours!'
         infos: 
         inscription: 
         categorie: artistiques
@@ -953,7 +973,7 @@ stages:
         age: 8-14 ans
         img: '/activitesartistiquesetloisirs/photoargentique.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage propose de découvrir le monde de la photographie argentique en noir & blanc en partant de la prise de vue jusqu'au développement en chambre noire. Manipulation de l'appareil photo, observation de la lumière, ateliers ré-créatifs, construction d'une image en comprenant sa signification, le tout en jouant au petit chimiste. A la fin du stage, ils repartiront avec leurs photographies qu’ils auront mises en valeur dans un album souvenir.'
         infos: 
         inscription: 
         categorie: artistiques
@@ -963,7 +983,7 @@ stages:
         age: 8-13 ans
         img: '/activitesartistiquesetloisirs/robotique.png'
         lieu: 'Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Le monde de demain sera modulé avec les nouvelles technologies et l’informatique. Afin de donner aux enfants de nouvelles clefs de réussite, nous allons via 5 sessions d’exercices développer des processus de réflexion pour formuler des problèmes et leur(s) solution(s) (création de robots en lego, programmation de robots et présentation du travail effectué). Afin qu’ils ne passent pas leur journée devant les écrans, nous passeront une demi-journée à d’autres activités et profiteront des infrastructures sportives du Centre.'
         infos: 
         inscription: 
         categorie: artistiques
@@ -973,8 +993,28 @@ stages:
         age: 8-16 ans
         img: '/activitesartistiquesetloisirs/tennisanglaisneerlandais.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        description: 'Les journées sont divisées entre des activités de tennis et des activités de multisports, le tout permettant aux enfants d'apprendre et pratiquer l'anglais.'
+        infos: Stage en collaboration avec Lambert Tennis Academy
+        inscription: 
+        categorie: artistiques
+        online: oui
+    -
+        name: 'Tennis & Baby Gym'
+        age: 8-16 ans
+        img: '/activitesartistiquesetloisirs/tennisetbabygym.png'
+        lieu: 'Bruxelles'
+        description: 'Les journées sont divisées entre des activités de tennis et des activités de gymnastique, des jeux de coopérations, parcours d'adresse, d'audace.'
+        infos: Stage en collaboration avec Lambert Tennis Academy
+        inscription: 
+        categorie: artistiques
+        online: oui
+    -
+        name: 'Tennis & Gymnastique'
+        age: 8-16 ans
+        img: '/activitesartistiquesetloisirs/tennisetgym.png'
+        lieu: 'Bruxelles'
+        description: 'Ce stage permet aux enfants de découvrir deux disciplines distinctes. D'un côté le tennis, afin d'apprendre et/ou développer leur technique de jeu et d'un autre côté la gymnastique, afin de découvrir les différents agrès tels que la poutre, les barres et le sol.'
+        infos: Stage en collaboration avec Lambert Tennis Academy
         inscription: 
         categorie: artistiques
         online: oui
@@ -983,8 +1023,8 @@ stages:
         age: 7-12 ans
         img: '/activitesartistiquesetloisirs/tennisanglaisneerlandais.png'
         lieu: 'Bruxelles'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
+        description: 'Les journées sont divisées entre des activités de tennis et des activités de multisports, le tout permettant aux enfants d'apprendre et pratiquer le néerlandais.'
+        infos: Stage en collaboration avec Lambert Tennis Academy
         inscription: 
         categorie: artistiques
         online: oui
@@ -993,7 +1033,7 @@ stages:
         age: 6-12 ans
         img: '/activitesartistiquesetloisirs/theatre.png'
         lieu: 'Bruxelles - Brabant Wallon'
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
+        description: 'Ce stage offre aux enfants la possibilité de créer ensemble une mise en scène, des personnages et des décors. Le stage travaille de façon ludique les capacités scéniques des enfants. Le tout afin d'aboutir à une représentation en fin de stage. Les enfants sont encadrés par des artistes du monde théâtral.'
         infos: 
         inscription: 
         categorie: artistiques
