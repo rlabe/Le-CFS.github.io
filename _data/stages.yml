@@ -46,7 +46,7 @@ stages:
         description: 'Ce stage propose un mix de différentes facettes de la psychomotricité : jeux de coopération, parcours d''adresse, exercices de latéralité, éveil artistique, découverte de la nature environnante et du rythme.'
         infos: 
         inscription: 
-        categorie: petits bouts
+        categorie: bouts
         online: oui
     -
         name: 'Psycho Grimpette'
@@ -56,17 +56,17 @@ stages:
         description: 'Ce stage vise le développement d''aspects essentiels de la motricité telles que l''audace, l''équilibre et le ''grimper'' chez l''enfant (espaliers, parcours d''obstacle, etc.). Le reste de la journée est consacrée à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: les petits bouts
+        categorie: bouts
         online: oui
     -
         name: 'Psycho Aqua'
         age: 3-4 ans
         img: '/lespetitsbouts/psychoaqua.png'
-        lieu:  Brabant Wallon - Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage de psychomotricité est agrémenté, quotidiennement, d''une heure d''accoutumance à l''eau. Une aubaine pour les petits qui auront l''occasion de faire connaissance avec les joies de la piscine, en toute sécurité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: bouts
         online: oui
     -
         name: 'Psycho Natation'
@@ -76,7 +76,7 @@ stages:
         description: ""
         infos: 
         inscription: 
-        categorie: 
+        categorie: bouts
         online: oui
     -
         name: 'Psycho Musique'
@@ -86,7 +86,7 @@ stages:
         description: 'Découverte du rythme par le biais d''exercices ciblant l''éveil musical ainsi que la manipulation d''instruments basiques. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: bouts
         online:
     -
         name: 'Psycho Nature'
@@ -96,7 +96,7 @@ stages:
         description: 'Chaque matin, les enfants partiront dans les alentours de leur centre : découverte et sensibilisation à la nature seront au programme de leur balade. Une fois revenus, ils réaliseront un bricolage avec les richesses ramenées lors de leur expédition. A chaque jour son nouveau thème ! Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: bouts
         online: 
     -
         name: 'Psycho Vélo'
@@ -106,18 +106,18 @@ stages:
         description: 'Initiation au vélo via des exercices d''équilibre et de prise de confiance. Les règles de sécurité sont abordées. Le CFS met ses Balance Bikes à disposition. L''enfant peut aussi apporter son propre vélo.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: bouts
         online: oui
     -
         name: 'Psycho Bricolage'
         age: 
         img: '/lespetitsbouts/psychobricolage.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Un stage de psychomotricité qui sera agrémenté quotidiennement d''un éveil artistique par le biais du bricolage et de la peinture.'
         infos: 
         inscription: 
-        categorie: 
-        online: 
+        categorie: bouts
+        online: oui
     -
         name: 'Psycho Cuisine'
         age: 
@@ -126,7 +126,7 @@ stages:
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: bouts
         online: 
     -
         name: 'Psycho Sport'
@@ -136,177 +136,177 @@ stages:
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: bouts
         online: 
     -
         name: 'Apprenti Vélo'
         age: 4-5 ans
         img: '/decouvertesportiveetculturelle/psychovelo.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage permettra à votre enfant d''apprendre à rouler à vélo ou de développer ses capacités. Des circuits sont prévus afin de familiariser votre enfant à la conduite. '
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Astucieux'
         age: 7-9 ans
         img: '/decouvertesportiveetculturelle/astucieux.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Aider un enfant à se débrouiller dans la vie de tous les jours. Une semaine de stage avec 10 ateliers pédagogiques mais sous forme de jeux. Les enfants pourront reprendre leurs petits carnet en fin de stage. Voici les thèmes abordés lors de ce stage: Entretenir et réparer son vélo / trottinette, les premiers secours, faire des nœuds et construire un abri, bricolage, notion d’outils et d’électricité, cuisiner, allumer et éteindre un feu, retrouver son chemin, s’orienter et lire une carte, escalader.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Baby Danse & Gym'
         age: 4-6 ans
         img: '/decouvertesportiveetculturelle/babydansetgym.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Baby Foot'
         age: 4-6 ans
         img: '/decouvertesportiveetculturelle/babyfoot.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Baby Gym'
         age: 4-6 ans
         img: '/decouvertesportiveetculturelle/babygym.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Baby Multisports'
         age: 4-6 ans
         img: '/decouvertesportiveetculturelle/babymultisports.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Baby Multisports & Natation'
         age: 4-6 ans
         img: '/decouvertesportiveetculturelle/babymultisports.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Baby Poney'
         age: 4-6 ans
         img: '/decouvertesportiveetculturelle/babyponey.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Baby Savant'
         age: 6-9 ans
         img: '/decouvertesportiveetculturelle/babysavant.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Baby Tennis'
         age: 4-6 ans
         img: '/decouvertesportiveetculturelle/babytennis.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Cirque Mômes'
         age: 4-7 ans
         img: '/decouvertesportiveetculturelle/cirquemomes.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Découverte Sportive'
         age: 5-7 ans
         img: '/decouvertesportiveetculturelle/decsportive.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Découverte Sportive & Musique'
         age: 5-7 ans
         img: '/decouvertesportiveetculturelle/psychomusique.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Découverte Sportive & Natation'
         age: 5-7 ans
         img: '/decouvertesportiveetculturelle/psychonatation.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Découverte Sportive & Poney'
         age: 5-7 ans 
         img: '/decouvertesportiveetculturelle/babyponey.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Escalade Découverte'
         age: 5-7 ans
         img: '/decouvertesportiveetculturelle/escaladedecouverte.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Explorateur'
         age: 5-7 ans
         img: '/decouvertesportiveetculturelle/explorateur.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Expression Corporelle & Sport'
@@ -316,47 +316,27 @@ stages:
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
-        online: oui
-    -
-        name: 'Fun Multisports & Natation'
-        age: 6-8 ans
-        img: '/decouvertesportiveetculturelle/explorateur.png'
-        lieu: Brabant Wallon
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
-        inscription: 
-        categorie: 
-        online: oui
-    -
-        name: 'Fun & Multisports'
-        age: 6-8 ans
-        img: '/decouvertesportiveetculturelle/explorateur.png'
-        lieu: Brabant Wallon
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
-        inscription: 
-        categorie: 
-        online: oui
+        categorie: decouvertes
+        online:
     -
         name: 'Mini Lanta'
         age: 6-8 ans
         img: '/decouvertesportiveetculturelle/lanta.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Princesses & Pirates'
         age: 4-6 ans
         img: '/decouvertesportiveetculturelle/princessesetpirates.png'
-        lieu: Brabant Wallon
+        lieu: Bruxelles
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: decouvertes
         online: oui
     -
         name: 'Quad & Vtt'
@@ -366,675 +346,665 @@ stages:
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
-        online: oui
+        categorie: decouvertes
+        online: 
     -
         name: 'Dance For You'
         age: 8-14 ans
         img: '/danseetgymnastique/danceforyou.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: danse
         online: oui
     -
         name: 'Danse'
         age: 6-10 ans
         img: '/danseetgymnastique/danse.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: danse
         online: oui
     -
         name: 'GRS'
         age: 6-14 ans
         img: '/danseetgymnastique/grs.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: danse
         online: oui
     -
         name: 'Gymnastique'
         age: 6-12 ans
         img: '/danseetgymnastique/gymnastique.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: danse
         online: oui
     -
         name: 'Gym Pro'
         age: 8-16 ans
         img: '/danseetgymnastique/gympro.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: danse
         online: oui
     -
         name: 'Hip-Hop & Ragga'
         age: 9-16 ans
         img: '/danseetgymnastique/hiphopragga.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: danse
         online: oui
     -
         name: 'Swiss Jump Kids'
         age: 8-16 ans
         img: '/danseetgymnastique/swissjumpkids.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: danse
         online: oui
     -
         name: 'Aventure'
         age: 8-14 ans
         img: '/activitesfun/aventure.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: fun
         online: oui
     -
         name: 'BMX Pro'
         age: 10-16 ans
         img: '/activitesfun/proskatebmxtrot.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
-        online: oui
-    -
-        name: 'Détective'
-        age: 10-16 ans
-        img: '/activitesfun/detective.png'
-        lieu: Brabant Wallon
-        description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
-        infos: 
-        inscription: 
-        categorie: 
+        categorie: fun
         online: oui
     -
         name: 'Evasion'
         age: 10-16 ans
         img: '/activitesfun/evasion.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: fun
         online: oui
     -
         name: 'Fun Ado'
         age: 12-16 ans
         img: '/activitesfun/funado.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: fun
         online: oui
     -
         name: 'Fun Paintball & VTT'
         age: 10-16 ans 
         img: '/activitesfun/funpaintballetvtt.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: fun
         online: oui
     -
         name: 'Fun VTT'
         age: 10-16 ans
         img: '/activitesfun/funvtt.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: fun
         online: oui
     -
         name: 'Karting & Fun'
         age: 10-16 ans 
         img: '/activitesfun/kartingetfun.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: fun
         online: oui
     -
         name: 'Koh Lanta'
         age: 8-12 ans 
         img: '/activitesfun/lanta.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: fun
         online: oui
     -
         name: 'Pilote'
         age: 10-14 ans
         img: '/activitesfun/pilote.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: fun
         online: oui
     -
         name: 'Skate Pro'
         age: 10-16 ans
         img: '/activitesfun/pilote.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: fun
         online: oui
     -
         name: 'Trottinette Pro'
         age: 10-16 ans
         img: '/activitesfun/pilote.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: fun
         online: oui
     -
         name: 'Tennis - Fun & Aventure'
         age: 6-12 ans
         img: '/activitesfun/pilote.png'
-        lieu: Brabant Wallon
+        lieu: Bruxelles
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: fun
         online: oui
     -
         name: 'X-TREM Sensation'
         age: 12-16 ans
         img: '/activitesfun/pilote.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: fun
         online: oui
     -
         name: 'Aqua Fun'
         age: 7-12 ans
         img: '/activitessportives/aquafun.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Badminton'
         age: 8-14 ans
         img: '/activitessportives/badminton.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Equi Sport'
         age: 7-12 ans
         img: '/activitessportives/equisport.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Equitation'
         age: 7-16 ans
         img: '/activitessportives/equitation.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Escalade'
         age: 8-14 ans
         img: '/activitessportives/escalade.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Football'
         age: 6-14 ans
         img: '/activitessportives/football.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Football Euro 2020'
         age: 5-14 ans
         img: '/activitessportives/footballeuro2020.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Fun & Multisports'
         age: 6-8 ans
         img: '/activitessportives/funetmulti.png'
-        lieu: Bruxelles
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Fun Multisports & Natation'
         age: 6-8 ans
         img: '/activitessportives/funmultietnat.png'
-        lieu: Brabant Wallon
+        lieu: Bruxelles
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Futsal'
         age: 6-14 ans
         img: '/activitessportives/futsal.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Mini-Foot'
         age: 6-12 ans
         img: '/activitessportives/minifoot.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Multi Natation'
         age: 5-7 ans
         img: '/activitessportives/multinatation.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Padel'
         age: 7-16 ans
         img: '/activitessportives/padel.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Parkour'
         age: 10-16 ans
         img: '/activitessportives/parkour.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Pilote'
         age: 10-14 ans
         img: '/activitessportives/piloteacademy.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
-        online: oui
+        categorie: sportives
+        online:
     -
         name: 'Pilote Academy'
         age: 10-16 ans
         img: '/activitessportives/piloteacademy.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Tennis de table'
         age: 7-16 ans
         img: '/activitessportives/pingpong.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Plongée'
         age: 9-14 ans
         img: '/activitessportives/plongee.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Raquettes'
         age: 7-16 ans
         img: '/activitessportives/raquettes.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Self Defense'
         age: 7-14 ans
         img: '/activitessportives/selfdefense.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Sport Nature'
         age: 7-12 ans
         img: '/activitessportives/sportnature.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Tennis'
         age: 7-16 ans
         img: '/activitessportives/tennis.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Tennis Pro'
         age: 11-16 ans
         img: '/activitessportives/tennis.png'
-        lieu: Bruxelles
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online: oui
     -
         name: 'Volley Découverte'
         age: 
         img: '/activitessportives/volleydecouverte.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: sportives
         online:
     -
         name: 'Apprenti Savant'
         age: 6-14 ans
         img: '/activitesartistiquesetloisirs/apprentisavant.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Artiste'
         age: 6-12 ans
         img: '/activitesartistiquesetloisirs/artiste.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Bande Dessinée'
         age: 9-16 ans
         img: '/activitesartistiquesetloisirs/bd.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Cirque'
         age: 9-14 ans
         img: '/activitesartistiquesetloisirs/cirque.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Comédie Musicale'
         age: 8-16 ans
         img: '/activitesartistiquesetloisirs/comediemusicale.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Compo Musicale & Sport'
         age: 8-14 ans
         img: '/activitesartistiquesetloisirs/compomusicale.png'
-        lieu: Bruxelles
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Débrouillard'
         age: 10-13 ans
         img: '/activitesartistiquesetloisirs/debrouillard.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Détective'
         age: 10-16 ans
         img: '/activitesartistiquesetloisirs/detective.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Diner Parfait'
         age: 7-14 ans
         img: '/activitesartistiquesetloisirs/dinerparfait.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Food & Pleasure'
         age: 6-8 ans
         img: '/activitesartistiquesetloisirs/foodandpleasure.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Immersion Anglais'
         age: 8-12 ans
         img: '/activitesartistiquesetloisirs/immersionanglais.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Immersion Néerlandais'
         age: 8-16 ans
         img: '/activitesartistiquesetloisirs/immersioneerlandais.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Ma déco'
         age: 8-14 ans
         img: '/activitesartistiquesetloisirs/madeco.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Magie et Cirque'
         age: 8-14 ans
         img: '/activitesartistiquesetloisirs/magietcirque.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Magie et Fun'
         age: 8-14 ans
         img: '/activitesartistiquesetloisirs/magietfun.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Magie Pro'
         age: 8-14 ans
         img: '/activitesartistiquesetloisirs/magietfun.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Photo Argentique'
         age: 8-14 ans
         img: '/activitesartistiquesetloisirs/photoargentique.png'
-        lieu: Brabant Wallon
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Robotique'
         age: 8-13 ans
         img: '/activitesartistiquesetloisirs/robotique.png'
-        lieu: Brabant Wallon
+        lieu: 'Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Tennis & Anglais'
         age: 8-16 ans
         img: '/activitesartistiquesetloisirs/tennisanglaisneerlandais.png'
-        lieu: Bruxelles
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Tennis & Néerlandais'
         age: 7-12 ans
         img: '/activitesartistiquesetloisirs/tennisanglaisneerlandais.png'
-        lieu: Bruxelles
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Théâtre'
         age: 6-12 ans
         img: '/activitesartistiquesetloisirs/theatre.png'
-        lieu: Bruxelles
+        lieu: 'Bruxelles - Brabant Wallon'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
     -
         name: 'Vidéo reportage'
         age: 10-14 ans
         img: '/activitesartistiquesetloisirs/videoreportage.png'
-        lieu: Bruxelles
+        lieu: 'Bruxelles'
         description: 'Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité.'
         infos: 
         inscription: 
-        categorie: 
+        categorie: artistiques
         online: oui
