@@ -671,7 +671,8 @@ footer .menu li a:hover{
 .btn-default-filled,.btn-default-filled:active,.btn-default-filled:focus{
     color:#fff;
     background:#EB586F;
-    border:2px solid #EB586F
+    border:2px solid #EB586F;
+    border-radius: 5px
 }
 .btn-default-filled:hover{
     color:#fff;
@@ -691,7 +692,8 @@ footer .menu li a:hover{
 .btn-success-filled,.btn-success-filled:active,.btn-success-filled:focus{
     color:#fff;
     background:#87c056;
-    border:2px solid #87c056
+    border:2px solid #87c056;
+    border-radius: 5px
 }
 .btn-success-filled:hover{
     color:#fff;
@@ -711,7 +713,8 @@ footer .menu li a:hover{
 .btn-info-filled,.btn-info-filled:active,.btn-info-filled:focus{
     color:#fff;
     background:#4da5e2;
-    border:2px solid #4da5e2
+    border:2px solid #4da5e2;
+    border-radius: 5px
 }
 .btn-info-filled:hover{
     color:#fff;
@@ -731,7 +734,8 @@ footer .menu li a:hover{
 .btn-warning-filled,.btn-warning-filled:active,.btn-warning-filled:focus{
     color:#fff;
     background:#fc6;
-    border:2px solid #fc6
+    border:2px solid #fc6;
+    border-radius: 5px
 }
 .btn-warning-filled:hover{
     color:#fff;
@@ -751,7 +755,8 @@ footer .menu li a:hover{
 .btn-danger-filled,.btn-danger-filled:active,.btn-danger-filled:focus{
     color:#fff;
     background:#ec7160;
-    border:2px solid #ec7160
+    border:2px solid #ec7160;
+    border-radius: 5px
 }
 .btn-danger-filled:hover{
     color:#fff;
