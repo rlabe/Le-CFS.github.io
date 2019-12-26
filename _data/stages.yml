@@ -73,7 +73,7 @@ stages:
         name: 'Apprenti Vélo'
         img: '/assets/images/stages/activitessportives/psychovelo.png'
         lieu: Brabant Wallon
-        description: 'Ce stage permettra à votre enfant d'apprendre à rouler à vélo ou de développer ses capacités. Des circuits sont prévus afin de familiariser votre enfant à la conduite. '
+        description: 'Ce stage permettra à votre enfant d''apprendre à rouler à vélo ou de développer ses capacités. Des circuits sont prévus afin de familiariser votre enfant à la conduite. '
         infos: 
         online: oui
     -
