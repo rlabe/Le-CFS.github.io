@@ -1,13 +1,13 @@
 ---
 layout: index
-title: Danse et Gymnastique
+title: TEST
 img : 
 img-mobile : 
 css: 
 banner: 
 index: 
-permalink: /activites/extrascolaire/danse_et_gymnastique/
-menu: activites
+permalink: /test/
+menu: stages
 ---
 {% include JB/setup %}
 <div class="row">
@@ -19,8 +19,8 @@ menu: activites
 {% endif %}
 
 <div class="row">
-	{% for stage in site.data.extrascolaire.activites %}
-  {% if stage.online and stage.categorie contains 'danse' %}
+	{% for stage in site.data.stages.stages %}
+  {% if stage.online and stage.categorie contains 'artistiques' %}
 
 {% include coleen/liste_cartes.html %}
 

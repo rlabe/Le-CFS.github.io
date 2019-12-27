@@ -1298,7 +1298,8 @@ nav#menu span.fa.fa-bars:hover{
     padding-left:0
 }
 .sub-title{
-    margin-bottom:40px
+    margin-bottom:40px;
+    margin-top: 40px
 }
 .sub-title{
     color:#999;

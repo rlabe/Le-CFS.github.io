@@ -14,7 +14,7 @@
             <div class="post-category">
               <a href="{{ item.url }}">{{ item.title }}</a>
             </div>
-            {% if item.url == page.url %}
+            {% if page.url contains item.url %}
                 {% for brol in item.sousmenu %}
                 <div class="post-category" style="border-bottom: 0px !important; padding-left: 35px !important;">
                 <a href="{{brol.url}}">{{ brol.title}}</a>
