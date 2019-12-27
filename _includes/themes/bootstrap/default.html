@@ -67,7 +67,14 @@ lantoniotrento@gmail.com
       </div>
         <!-- titre -->
       <div class="page-header-title">
-        <h2 class="heading-title text-center">{{ page.title }}</h2>
+        <h2 class="heading-title text-center"
+          {% if {{page.url}} contains 'bouts' %}style="color: #98C01E !important;"{% endif %}
+          {% if {{page.url}} contains 'decouvertes' %}style="color: #0095D5 !important;"{% endif %}
+          {% if {{page.url}} contains 'danse' %}style="color: #EB680D !important;"{% endif %}
+          {% if {{page.url}} contains 'fun' %}style="color: #911D7E !important;"{% endif %}
+          {% if {{page.url}} contains 'sportives' %}style="color: #FABB00 !important;"{% endif %}
+          {% if {{page.url}} contains 'artistiques' %}style="color: #E2071B !important;"{% endif %}
+        >{{ page.title }}</h2>
       </div>
       {{ content }}
       <br />

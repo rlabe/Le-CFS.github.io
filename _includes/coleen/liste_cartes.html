@@ -1,0 +1,53 @@
+<div class="col-md-4 col-xs-6">
+    <div class="card-2">
+      <div class="image">
+        <img src="{{ BASE_PATH }}/assets/images/stages{{ stage.img }}">
+      </div>
+      <div class="card-block">
+        <h3 class="card-title">{{ stage.name }}</h3>
+        <div class="meta">
+          {% if stage.nouveau %}<span class="badge btn-success-filled" style="float: right;">NOUVEAU</span>{% endif %}
+          {{stage.age}}<br/>
+          INFOS.
+        </div>
+        <div class="description">
+          <center><a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}">-- Voir plus --</a></center>
+        </div>
+      </div>
+      <div class="extra">
+        <span>
+          <i class="fa fa-user"> {{ stage.lieu }}</i>
+        </span>
+      </div>
+    </div>
+</div>
+<div class="modal fade" id="{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="card-2">
+      <div class="image">
+        <img src="{{ BASE_PATH }}/assets/images/stages{{ stage.img }}">
+      </div>
+      <div class="card-block">
+        <h3 class="card-title">{{ stage.name }}</h3>
+        <div class="meta">
+          {% if stage.nouveau %}<span class="badge btn-success-filled" style="float: right;">NOUVEAU</span>{% endif %}
+          {{stage.age}}<br/>
+        </div>
+        <div class="description">
+          {{ stage.description }}
+        </div>
+      </div>
+      <div class="extra">
+        <span>
+          <i class="fa fa-user"> {{ stage.lieu }}</i>
+        </span>
+      </div>
+    </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal" style="float: left">Close</button>
+        <a class="btn btn-success-filled" href="#">Inscription</a>
+      </div>
+    </div>
+  </div>
+</div>
