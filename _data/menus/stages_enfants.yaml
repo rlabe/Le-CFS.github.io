@@ -18,7 +18,7 @@ docs:
     - title: "Activités sportives"
       url: "/stages/activites/activites_sportives/" 
     - title: "Activités artistiques et loisirs"
-      url: "/stages/activites/activites_artistiques_et_loisir/" 
+      url: "/stages/activites/activites_artistiques_et_loisirs/" 
 
 - title: "Lieux de stage"
   url: /stages/lieux_de_stage/
