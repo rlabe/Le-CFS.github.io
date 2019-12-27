@@ -641,7 +641,7 @@ stages:
     -
         name: "Fun Multisports & Natation"
         age: 6-8 ans
-        img: "/activitessportives/funmultietnat.png"
+        img: "/decouvertesportiveetculturelle/funmultietnat.png"
         lieu: Bruxelles
         description: "Coming Soon"
         infos: 
@@ -1001,7 +1001,7 @@ stages:
     -
         name: "Tennis & Baby Gym"
         age: 8-16 ans
-        img: "/activitesartistiquesetloisirs/tennisetbabygym.png"
+        img: "/decouvertesportiveetculturelle/tennisetbabygym.png"
         lieu: "Bruxelles"
         description: "Les journées sont divisées entre des activités de tennis et des activités de gymnastique, des jeux de coopérations, parcours d'adresse, d'audace."
         infos: "Stage en collaboration avec Lambert Tennis Academy"
