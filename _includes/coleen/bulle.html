@@ -8,7 +8,7 @@
         <span>{{ include.subtitle }}</span>
       </div>
       <hr class="small-divider border-white">
-      <a href="{% if include.href %}{{ include.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" class="btn btn-block btn-success-filled" style="margin-top: 15px; color: #fff !important;">{% if include.link %}{{ include.link }}{% else %}<i class="fa fa-edit"></i> Inscription</a>{% endif %}</a>
+      <a href="{% if include.href %}{{ include.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" {% if include.inscription %}{% else %}target="_blank"{% endif %} class="btn btn-block btn-success-filled" style="margin-top: 15px; color: #fff !important;">{% if include.link %}{{ include.link }}{% else %}<i class="fa fa-edit"></i> {% if include.inscription %} Plus d'infos {% else %}Inscription{% endif %}</a>{% endif %}</a>
     </div>
   </div>
 </figure>
