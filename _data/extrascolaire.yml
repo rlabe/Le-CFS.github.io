@@ -61,7 +61,7 @@ activites:
         lieu: 
             - "Wavre - Collège Notre-Dame de Basse-Wavre"
             - "Ottignies - Centre Sportif des Coquerées"
-            - "Court-Saint-Etienne - Salle de Gym "La Courtoise""
+            - "Court-Saint-Etienne - Salle de Gym 'La Courtoise'"
             - "Jette - Salle Omnisport"
         description: "Cours dinitiation à la gymnastique pour les plus petits. Parcours déquilibre, daudace et premières notions de gymnastique sportive."
         infos: 
@@ -78,7 +78,7 @@ activites:
             - "Jette - Salle Omnisport"
         description: "Au programme: exercices de souplesse, premières bases techniques et chorégraphiques de la danse Jazz."
         infos: 
-            - ""Spectacle organisé en fin d'année.""
+            - "Spectacle organisé en fin d'année."
         inscription: 
         categorie: danse
         online: oui
@@ -130,7 +130,7 @@ activites:
             - "Wavre - Collège Notre-Dame de Basse-Wavre"
             - "Rixensart - Complexe Sportif de Rixensart"
             - "Ottignies - Centre Sportif des Coquerées"
-            - "Court-Saint-Etienne - Salle de Gym "La Courtoise""
+            - "Court-Saint-Etienne - Salle de Gym 'La Courtoise'"
             - "Jette - Salle Omnisport"
         description: "Initiation et perfectionnement à la gymnastique sportive. Sol, sauts, poutre, barres asymétriques... Petite démonstration en fin dannée. Les enfants sont regroupés par âge/niveau."
         infos: 
@@ -144,7 +144,7 @@ activites:
         img: 
         lieu: 
             - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Court-Saint-Etienne - Salle de Gym "La Courtoise""
+            - "Court-Saint-Etienne - Salle de Gym 'La Courtoise'"
         description: "Ouvert aux jeunes qui désirent se perfectionner à la gymnastique sportive. Sol, sauts, poutre, barres asymétriques... Ce cours se donne dans un groupe restreint."
         infos: 
             - " 'CLUB : Entrainement spécial dans la grande salle GSA du Blocry (LLN) au moins un dimanche sur lannée - Possibilité daffiliation à la FFG (Fédération Francophone de Gymnastique) sur demande.'"
@@ -205,7 +205,7 @@ activites:
         img: 
         lieu: 
             - "Rixensart - Complexe Sportif de Rixensart"
-        description: ""
+        description: 
         infos: 
         inscription: 
         categorie: sportives
