@@ -29,7 +29,7 @@ menu: activites
       <div class="card-block">
         <h3 class="card-title">{{ stage.name }}</h3>
         <div class="meta">
-          <span class="badge btn-success-filled" style="float: right;">NOUVEAU</span>
+          {% if stage.nouveau %}<span class="badge btn-success-filled" style="float: right;">NOUVEAU</span>{% endif %}
           {{stage.age}}<br/>
           INFOS.
         </div>
