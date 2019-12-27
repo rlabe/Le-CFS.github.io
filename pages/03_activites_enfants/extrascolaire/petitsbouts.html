@@ -6,8 +6,8 @@ img-mobile :
 css: 
 banner: 
 index: 
-permalink: /stages/activites/petits_bouts/
-menu: stages
+permalink: /activites/extrascolaire/petits_bouts/
+menu: activites
 ---
 {% include JB/setup %}
 <div class="row">
@@ -19,7 +19,7 @@ menu: stages
 {% endif %}
 
 <div class="row">
-	{% for stage in site.data.stages.stages %}
+	{% for stage in site.data.extrascolaire.activites %}
   {% if stage.online and stage.categorie contains 'bouts' %}
 <div class="col-md-4 col-xs-6">
     <div class="card-2">

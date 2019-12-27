@@ -1,13 +1,13 @@
 ---
 layout: index
-title: Les Petits Bouts
+title: Activités artistiques et loisirs
 img : 
 img-mobile : 
 css: 
 banner: 
 index: 
-permalink: /stages/activites/petits_bouts/
-menu: stages
+permalink: /activites/extrascolaire/activites_artistiques_et_loisirs/
+menu: activites
 ---
 {% include JB/setup %}
 <div class="row">
@@ -19,8 +19,8 @@ menu: stages
 {% endif %}
 
 <div class="row">
-	{% for stage in site.data.stages.stages %}
-  {% if stage.online and stage.categorie contains 'bouts' %}
+	{% for stage in site.data.extrascolaire.activites %}
+  {% if stage.online and stage.categorie contains 'artistiques' %}
 <div class="col-md-4 col-xs-6">
     <div class="card-2">
       <div class="image">
