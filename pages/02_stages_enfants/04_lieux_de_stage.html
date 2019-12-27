@@ -18,6 +18,24 @@ menu: stages
 {% include menus/menu_left_{{ page.menu }}.html %}
 {% endif %}
 
+{% for lieu in site.data.lieux_stage.lieux %}
+<div class="row">
+	<div class="col-md-12">
+	 📍 <strong>{{ lieu.name }}</strong> - {{ lieu.adresse }}
+	</div>
+
+	{% assign photos = lieu.img.size %}
+
+	{% for item in lieu.img %}
+	<div class="{% case photos %}{% when 1 %}col-md-12{% when 2 %}col-md-6{% when 3 %}col-md-4{% when 4 %}col-md-3{% else %}col-md-3{% endcase %} col-xs-12">
+		<img src="{{ BASE_PATH }}{{ lieu.img }}"/>
+	</div>
+	{% endfor %}
+	<div class="col-md-12">
+		{{ lieu.carte }}
+	</div>
+</div>
+{% endfor %}
 
 {% if page.menu %}
 {% include menus/menu_left_end.html %}
