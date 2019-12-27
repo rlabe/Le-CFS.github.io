@@ -39,7 +39,7 @@ stages:
         categorie: bouts
         online: 
     -
-        name: "Psycho Découverte"
+        name: "Psycho dec"
         age: 3-4 ans
         img: "/stages/lespetitsbouts/psychodecouverte.png"
         lieu: "Bruxelles - Brabant Wallon"
