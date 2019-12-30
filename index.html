@@ -7,190 +7,57 @@ js: sliders.js
 
 ---
 {% include JB/setup %}
-<!-- Content Area Start -->
 
 <div id="content">
-      <!-- sliders -->
-      <div id="sliders">
-        <div class="full-width">
-          <!-- light slider -->
-          <div id="light-slider" class="carousel slide">
-            <div id="carousel-area">
-              <div id="carousel-slider" class="carousel slide" data-ride="carousel">
-                <ol class="carousel-indicators">
-                  <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
-                  <li data-target="#carousel-slider" data-slide-to="1"></li>
-                </ol>
-                <div class="carousel-inner" role="listbox">
-                  <div class="carousel-item active">
-                    <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559" target="_blank"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/bonneannee2020bis.png" alt=""></a>
-                  </div>
-                  <div class="carousel-item">
-                    <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559" target="_blank"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/carnavalpaques.png" alt=""></a>
-                  </div>
-                </div>
-                <a class="carousel-control-prev" href="#carousel-slider" role="button" data-slide="prev">
-                  <span class="carousel-control carousel-control-prev-icon" aria-hidden="true"></span>
-                  <span class="sr-only">Précédent</span>
-                </a>
-                <a class="carousel-control-next" href="#carousel-slider" role="button" data-slide="next">
-                  <span class="carousel-control carousel-control-next-icon" aria-hidden="true"></span>
-                  <span class="sr-only">Suivant</span>
-                </a>
+<!-- Content Area Start -->
+
+  <!-- sliders -->
+  <div id="sliders">
+    <div class="full-width">
+      <!-- light slider -->
+      <div id="light-slider" class="carousel slide">
+        <div id="carousel-area">
+          <div id="carousel-slider" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
+              <li data-target="#carousel-slider" data-slide-to="1"></li>
+              <li data-target="#carousel-slider" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+              <div class="carousel-item active">
+                <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559" target="_blank"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/bonneannee2020bis.png" alt=""></a>
+              </div>
+              <div class="carousel-item">
+                <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559" target="_blank"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/carnavalpaques.png" alt=""></a>
+              </div>
+              <div class="carousel-item">
+                <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559" target="_blank"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/carnavalpaques.png" alt=""></a>
               </div>
             </div>
+            <a class="carousel-control-prev" href="#carousel-slider" role="button" data-slide="prev">
+              <span class="carousel-control carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Précédent</span>
+            </a>
+            <a class="carousel-control-next" href="#carousel-slider" role="button" data-slide="next">
+              <span class="carousel-control carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Suivant</span>
+            </a>
           </div>
         </div>
       </div>
-      <!-- End sliders -->
-      
-      <!-- Selection CFS 4 colonnes -->	
-      <div class="container">	                  
-            <div class="team-members-tow mtb-50">
-              <div class="sub-title">
-                <span>Sélection du CFS</span>
-              </div>
-              <div class="row">
-
-                <div class="col-xs-6 col-md-3">
-                  {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656125320667201546/accueilstagecarnaval.png" title="Stages Carnaval" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&Categorie=4&Groupe=1" %}
-                </div>
-
-                <div class="col-xs-6 col-md-3">
-                  {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656122120396603415/accueilatelierrobotique.png" title="Atelier robotique" href="/activites/cfs_academy/robotique_academy/" %}
-                </div>
-
-                <div class="col-xs-6 col-md-3">
-                  {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656167963937865748/ecolenatation.png" title="École de natation" href="/activites/ecole_de_natation/" %}
-                </div>
-
-                <div class="col-xs-6 col-md-3">
-                  {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656122121281339412/accueiltournoiminifoot.png" title="Tournoi de mini-foot" href="/activites/cfs_academy/mini_foot_academy/" %}
-                </div>
-
-              </div>
-            </div>            	      	      	      
-      </div>      
-      <!-- End Team Members 04 -->
-
-            
-      <!-- Stages à la Une 4 colonnes -->	
-      <div class="container">	                  
-            <div class="team-members-tow mtb-50">
-              <div class="sub-title">
-                <span>Stages à la Une</span>
-              </div>
-              <div class="row">
-
-                <div class="col-xs-6 col-md-3">
-                  {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656122124028608512/accueilfootballeuro.png" title="Football EURO 2020" href="/stages/activites/activites_sportives/" %}
-                </div>
-
-                <div class="col-xs-6 col-md-3">
-                  {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656122127342370837/accueilstagedebrouillar.png" title="Stage débrouillard" href="/stages/activites/activites_artistiques_et_loisirs/" %}
-                </div>
-
-                <div class="col-xs-6 col-md-3">
-                  {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656122124880052224/accueilkohlanta.png" title="Stage Koh Lanta" href="/stages/activites/activites_fun/" %}
-                </div>
-
-                <div class="col-xs-6 col-md-3">
-                  {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656149506093744138/accueilfunpaintballetvtt.png" title="Fun, Paintball & VTT" href="/stages/activites/activites_fun/" %}
-                </div>
-
-              </div>
-            </div>            	      	      	      
-      </div>      
-      <!-- End Team Members 04 -->
-
-      <!-- Team Members 04 -->  
-      <div class="container">                   
-            <div class="team-members-tow mtb-50">
-              <div class="sub-title">
-                <span>Nos activités</span>
-              </div>
-              <div class="row">
-
-                <div class="col-xs-6 col-md-3">
-                  {% include coleen/bulle.html src="https://cdn.discordapp.com/attachments/656057943346642945/656134488891326476/stagesenfants.png" title="Stages enfants" href="/stages" %}
-                </div>
-
-                <div class="col-xs-6 col-md-3">
-                  {% include coleen/bulle.html src="https://cdn.discordapp.com/attachments/656057943346642945/656134877233807390/activitextra.png" title="Activités extrascolaires" href="/activites/extrascolaire/" %}
-                </div>
-
-                <div class="col-xs-6 col-md-3">
-                  {% include coleen/bulle.html src="https://cdn.discordapp.com/attachments/656057943346642945/656133929790734337/coursadultes.png" title="Cours adultes" href="/cours_adultes/" %}
-                </div>
-
-                <div class="col-xs-6 col-md-3">
-                  {% include coleen/bulle.html src="https://cdn.discordapp.com/attachments/656057943346642945/656133595722940429/evenements.png" title="Évènements" href="/events/" %}
-                </div>
-
-              </div>
-            </div>                                    
-      </div>      
-      <!-- End Team Members 04 -->
-
-    <div class="mb-60"></div>
-
-    <img src="{{ BASE_PATH }}/assets/images/banner/anniversaires/anniversairebis.png" alt="">
-
-    <div class="mb-60"></div>
-
-    <div class="container">
-            <!-- Image de ballons -->
-      <div class="row">
-        <div class="col-md-4 offset-md-4">
-          <img src="https://www12.iclub.be/images/upload/559/ballons_annif.jpg" style="width: 100%; height: auto;">
-        </div>
-  </div>
-      <!-- Boutons de présentation -->
-      <div class="row">
-        <div class="col-md-4">
-          <a href="/anniversaires/domicile" class="btn btn-block btn-success-filled" style="margin-top: 15px;">À MON DOMICILE</a>
-        </div>
-        <div class="col-md-4">
-          <a href="/anniversaires/lieu_sportif_et_fun" class="btn btn-block btn-danger-filled" style="margin-top: 15px;">DANS UN LIEU SPORTIF ET FUN</a>
-        </div>
-        <div class="col-md-4">
-          <a href="/anniversaires/piscine" class="btn btn-block btn-info-filled" style="margin-top: 15px;">À LA PISCINE</a>
-        </div>
-      </div>
-      <br><br>
-      <center>2H00 D'ANIMATION ENCADREES PAR UN MONITEUR DU CFS<br>LES NOUVEAUTES A PARTIR D'AVRIL</center>
-
-
-      <div class="team-members-tow mtb-50">
-        <div class="row" style="text-align: center !important;">
-
-          <div class="col-sm-6 col-md-4">
-            {% include coleen/bulle.html src="/assets/images/banner/anniversaires/aventuretrophy.png" title="Aventure Trophy" href="" inscription="non" %}
-          </div>
-
-          <div class="col-sm-6 col-md-4">
-            {% include coleen/bulle.html src="/assets/images/banner/anniversaires/nautifun.png" title="Nautifun" href="" inscription="non" %}
-          </div>
-
-          <div class="col-sm-6 col-md-4">
-            {% include coleen/bulle.html src="/assets/images/banner/anniversaires/timesup.png" title="Time's Up" href="" inscription="non" %}
-          </div>
-
-        </div>
-      </div>
-
-
-      <!-- Boutons de fin -->
-      <div class="row">
-        <div class="col-md-6">
-          <a href="#" class="btn btn-block btn-info-filled" style="margin-top: 15px;">INSCRIPTION</a>
-        </div>
-        <div class="col-md-6">
-          <a href="en_savoir_plus" class="btn btn-block btn-info-filled" style="margin-top: 15px;">PLUS D'INFORMATIONS</a>
-        </div>
-      </div>
-      <!-- Fin des boutons de fin -->
     </div>
-            
+  </div>
+  <!-- End sliders -->
+
+      <!-- Selection CFS 4 colonnes -->
+      {% include accueil/bloc_bulles.html %}
+      <!-- End Selection CFS -->
+
+    <div class="mb-60"></div>
+
+    <!-- Banner anniversaire -->
+    <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/banner/anniversaires/anniversaire.png" alt=""></a>
+    <!-- End banner anniversaire -->
+
 <!-- Content area end -->
 </div>

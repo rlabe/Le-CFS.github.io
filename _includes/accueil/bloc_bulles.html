@@ -1,0 +1,98 @@
+<!-- Team Item Starts -->
+{% assign bulles = site.data.accueil.selection %}
+<div class="container">
+  <div class="team-members-tow mtb-50">
+    <div class="sub-title">
+      <span>{{ bulles.nom }}</span>
+    </div>
+    <div class="row">
+      {% for item in bulles.images %}
+      <div class="col-xs-6 col-md-3">
+      <figure>
+        <img src="{{ item.src }}" alt="" style="border-radius: 5%;">
+        <a href="{% if item.href %}{{ item.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}">
+        <div class="image-overlay bulle3">
+          <div class="overlay-text text-center">
+            <div class="info-text">
+              <strong>{% if item.titre_overlay%}{{ item.titre_overlay}}{% else %}{{ item.titre }}{% endif %}</strong>
+            </div>
+            <hr class="small-divider border-white">
+            <a href="{% if item.href %}{{ item.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" {% if item.autre_page %}target="_blank"{% endif %} class="btn btn-block btn-{% if item.couleur_bouton %}{% else %}success{% endif %}-filled" style="margin-top: 15px; color: #fff !important;">
+                <i class="fa fa-edit"></i> {% if item.bouton %} {{ item.bouton }}{% else %} Inscription{% endif %}</a>
+            </a>
+          </div>
+        </div>
+      </a>
+      </figure>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+<!-- Team Item Ends -->
+
+<!-- Team Item Starts -->
+{% assign bulles = site.data.accueil.une %}
+<div class="container">
+  <div class="team-members-tow mtb-50">
+    <div class="sub-title">
+      <span>{{ bulles.nom }}</span>
+    </div>
+    <div class="row">
+      {% for item in bulles.images %}
+      <div class="col-xs-6 col-md-3">
+      <figure>
+        <img src="{{ item.src }}" alt="" style="border-radius: 5%;">
+        <a href="{% if item.href %}{{ item.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}">
+        <div class="image-overlay bulle3">
+          <div class="overlay-text text-center">
+            <div class="info-text">
+              <strong>{% if item.titre_overlay%}{{ item.titre_overlay}}{% else %}{{ item.titre }}{% endif %}</strong>
+            </div>
+            <hr class="small-divider border-white">
+            <a href="{% if item.href %}{{ item.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" {% if item.autre_page %}target="_blank"{% endif %} class="btn btn-block btn-{% if item.couleur_bouton %}{% else %}success{% endif %}-filled" style="margin-top: 15px; color: #fff !important;">
+                <i class="fa fa-edit"></i> {% if item.bouton %} {{ item.bouton }}{% else %} Inscription{% endif %}</a>
+            </a>
+          </div>
+        </div>
+      </a>
+      </figure>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+<!-- Team Item Ends -->
+
+<!-- Team Item Starts -->
+{% assign bulles = site.data.accueil.activites %}
+<div class="container">
+  <div class="team-members-tow mtb-50">
+    <div class="sub-title">
+      <span>{{ bulles.nom }}</span>
+    </div>
+    <div class="row">
+      {% for item in bulles.images %}
+      <div class="col-xs-6 col-md-3">
+      <figure>
+        <img src="{{ item.src }}" alt="" style="border-radius: 5%;">
+        <a href="{% if item.href %}{{ item.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}">
+        <div class="image-overlay bulle3">
+          <div class="overlay-text text-center">
+            <div class="info-text">
+              <strong>{% if item.titre_overlay%}{{ item.titre_overlay}}{% else %}{{ item.titre }}{% endif %}</strong>
+            </div>
+            <hr class="small-divider border-white">
+            <a href="{% if item.href %}{{ item.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" {% if item.autre_page %}target="_blank"{% endif %} class="btn btn-block btn-{% if item.couleur_bouton %}{% else %}success{% endif %}-filled" style="margin-top: 15px; color: #fff !important;">
+                <i class="fa fa-edit"></i> {% if item.bouton %} {{ item.bouton }}{% else %} Inscription{% endif %}</a>
+            </a>
+          </div>
+        </div>
+      </a>
+      </figure>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+<!-- Team Item Ends -->

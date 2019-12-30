@@ -1,10 +1,10 @@
 menu: 
-  titre: "Stages enfants"
+  titre: "Trouver un stage"
   url: /stages/
 
 docs:
 
-- title: "Activités"
+- title: "Catalogue des stages"
   url: /stages/activites/
   sousmenu:
     - title: "Les Petits Bouts"

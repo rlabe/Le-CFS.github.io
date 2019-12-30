@@ -1,63 +1,128 @@
+# Slider de la page d'accueil
 slider:
-  - image: 
-    lien: 
+  # L'image sur laquelle on arrive quand on charge la page
+  active:
+    src: /assets/images/slider/accueil/bonneannee2020bis.png
+    href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
+  # Les autres images
+  autres:
+    # image 2
+    - src: /assets/images/slider/accueil/carnavalpaques.png
+      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
+    #image 3
+    - src: /assets/images/slider/accueil/carnavalpaques.png
+      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
+    #image 4
+    - src: /assets/images/slider/accueil/carnavalpaques.png
+      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
 
 selection:
-  - name: "Sélection du CFS"
-    image:
-    - title: "Atelier Robotique"
-      subtitle: ""
-      image: 
-      lien:
-    - title: "École de natation"
-      subtitle: ""
-      image: 
-      lien:
-    - title: "Stages Carnaval"
-      subtitle: ""
-      image: 
-      lien:
-    - title: "Tournoi mini-foot"
-      subtitle: ""
-      image: 
-      lien:
+  # Nom de la catégorie
+  nom: "TEST TEST TEST"
+  images:
+    - titre: "Stages Carnaval"
+      titre_img: 
+      titre_overlay: 
+      src: https://media.discordapp.net/attachments/656057943346642945/656125320667201546/accueilstagecarnaval.png
+      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
+      autre_page: oui
+      bouton: Inscription
+      couleur_bouton: 
+    - titre: "Anniversaire Laser Game"
+      titre_img: 
+      titre_overlay: 
+      src: https://media.discordapp.net/attachments/656057943346642945/656125320667201546/accueilstagecarnaval.png
+      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
+      autre_page:
+      bouton: Inscription
+      couleur_bouton: 
+    - titre: "École de natation"
+      titre_img: 
+      titre_overlay: 
+      src: https://media.discordapp.net/attachments/656057943346642945/656167963937865748/ecolenatation.png
+      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
+      autre_page:
+      bouton: Inscription
+      couleur_bouton: 
+    - titre: "Swiss Jump"
+      titre_img: 
+      titre_overlay: 
+      src: https://media.discordapp.net/attachments/656057943346642945/656125320667201546/accueilstagecarnaval.png
+      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
+      autre_page:
+      bouton: Inscription
+      couleur_bouton: 
 
-selection:
-  - name: "Stage à la Une"
-    image:
-    - title: "Atelier Robotique"
-      subtitle: ""
-      image: 
-      lien:
-    - title: "École de natation"
-      subtitle: ""
-      image: 
-      lien:
-    - title: "Stages Carnaval"
-      subtitle: ""
-      image: 
-      lien:
-    - title: "Tournoi mini-foot"
-      subtitle: ""
-      image: 
-      lien:
+une:
+  # Nom de la catégorie
+  nom: "Stages à la Une"
+  images:
+    - titre: "Atelier Robotique"
+      titre_img: 
+      titre_overlay: 
+      src: 
+      href:
+      autre_page:
+      bouton: 
+      couleur_bouton: 
+    - titre: "École de natation"
+      titre_img: 
+      titre_overlay: 
+      src: 
+      href:
+      autre_page:
+      bouton: 
+      couleur_bouton: 
+    - titre: "Stages Carnaval"
+      titre_img: 
+      titre_overlay: 
+      src: 
+      href:
+      autre_page:
+      bouton: 
+      couleur_bouton: 
+    - titre: "Tournoi mini-foot"
+      titre_img: 
+      titre_overlay: 
+      src: 
+      href:
+      autre_page:
+      bouton: 
+      couleur_bouton: 
 
-selection:
-  - name: "Nos activités"
-    image:
-    - title:  "Atelier Robotique"
-      subtitle: ""
-      image: 
-      lien:
-    - title: "École de natation"
-      subtitle: ""
-      image: 
-      lien:
-    - title: "Stages Carnaval"
-      subtitle: ""
-      image: 
-      lien:
-    - title: "Tournoi mini-foot"
-      subtitle: ""
-      image: 
-      lien:
+activites:
+  # Nom de la catégorie
+  nom: "Nos activités"
+  images:
+    - titre:  "Atelier Robotique"
+      titre_img: 
+      titre_overlay: 
+      src: 
+      href:
+      autre_page:
+      bouton: 
+      couleur_bouton: 
+    - titre: "École de natation"
+      titre_img: 
+      titre_overlay: 
+      src: 
+      href:
+      autre_page:
+      bouton: 
+      couleur_bouton: 
+    - titre: "Stages Carnaval"
+      titre_img: 
+      titre_overlay: 
+      src: 
+      href:
+      autre_page:
+      bouton: 
+      couleur_bouton: 
+    - titre: "Tournoi mini-foot"
+      titre_img: 
+      titre_overlay: 
+      src: 
+      href:
+      autre_page:
+      bouton: 
+      couleur_bouton: 
