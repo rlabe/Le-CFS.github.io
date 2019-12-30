@@ -31,7 +31,7 @@ selection:
     - titre: "Anniversaire Laser Game"
       titre_img: 
       titre_overlay: 
-      src: https://media.discordapp.net/attachments/656057943346642945/656125320667201546/accueilstagecarnaval.png
+      src: /assets/images/event/selection_CFS/selectioncfs_anniflasergame.png
       href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: Plus d'info
@@ -39,7 +39,7 @@ selection:
     - titre: "École de natation"
       titre_img: 
       titre_overlay: 
-      src: https://media.discordapp.net/attachments/656057943346642945/656167963937865748/ecolenatation.png
+      src: /assets/images/boutonsactivites/ecoledenatation.png
       href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: Plus d'info
@@ -47,7 +47,7 @@ selection:
     - titre: "Swiss Jump"
       titre_img: 
       titre_overlay: 
-      src: https://media.discordapp.net/attachments/656057943346642945/656125320667201546/accueilstagecarnaval.png
+      src: /assets/images/boutonscoursadultes/selectioncfs_swissjump.png
       href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: Inscription
@@ -60,32 +60,32 @@ une:
     - titre: "Football Euro 2020"
       titre_img: 
       titre_overlay: 
-      src: 
-      href:
+      src: /assets/images/stages/activitessportives/footballeuro2020.png
+      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: Inscription
       couleur_bouton: 
     - titre: "Stage Débrouillard"
       titre_img: 
       titre_overlay: 
-      src: 
-      href:
+      src: /assets/images/stages/activitesartistiquesetloisirs/debrouillard.png
+      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: Inscription
       couleur_bouton: 
     - titre: "Stage Koh Lanta"
       titre_img: 
       titre_overlay: 
-      src: 
-      href:
+      src: /assets/images/stages/activitesfun/lanta.png
+      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: Inscription
       couleur_bouton: 
     - titre: "Stage Robotique"
       titre_img: 
       titre_overlay: 
-      src: 
-      href:
+      src: /assets/images/stages/activitesartistiquesetloisirs/robotique.png
+      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: Inscription
       couleur_bouton: 
@@ -97,32 +97,32 @@ activites:
     - titre:  "Stages Enfants"
       titre_img: 
       titre_overlay: 
-      src: 
-      href:
+      src: /assets/images/stages/stagesenfants.png
+      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: Inscription
       couleur_bouton: 
     - titre: "Activités extrascolaires"
       titre_img: 
       titre_overlay: 
-      src: 
-      href:
+      src: /assets/images/boutonsactivites/extrascolaires.png
+      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: 
       couleur_bouton: 
     - titre: "Cours adultes"
       titre_img: 
       titre_overlay: 
-      src: 
-      href:
+      src: /assets/images/boutonscoursadultes/coursadultes.png
+      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: 
       couleur_bouton: 
     - titre: "Évènements"
       titre_img: 
       titre_overlay: 
-      src: 
-      href:
+      src: /assets/images/event/event.png
+      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: 
       couleur_bouton: 
