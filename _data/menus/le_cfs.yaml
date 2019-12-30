@@ -14,13 +14,10 @@ docs:
   url: /cfs/questions_frequentes/
 
 - title: "Nos brochures"
-  url: /cfs/nos_brochures/
+  url: /brochures
 
 - title: "Les centres CFS"
   url: /cfs/les_centres_cfs/
   
 - title: "Partenaires"
   url: /cfs/partenaires/
-
-- title: "Conditions générales"
-  url: /cfs/conditions_generales/

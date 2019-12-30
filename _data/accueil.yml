@@ -35,7 +35,7 @@ selection:
       href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: Plus d'info
-      couleur_bouton: warning
+      couleur_bouton: 
     - titre: "École de natation"
       titre_img: 
       titre_overlay: 
@@ -43,7 +43,7 @@ selection:
       href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: Plus d'info
-      couleur_bouton: warning
+      couleur_bouton: 
     - titre: "Swiss Jump"
       titre_img: 
       titre_overlay: 
@@ -64,7 +64,7 @@ une:
       href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: Plus d'info
-      couleur_bouton: warning 
+      couleur_bouton:  
     - titre: "Stage Débrouillard"
       titre_img: 
       titre_overlay: 
@@ -72,7 +72,7 @@ une:
       href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: Plus d'info
-      couleur_bouton: warning
+      couleur_bouton: 
     - titre: "Stage Koh Lanta"
       titre_img: 
       titre_overlay: 
@@ -80,7 +80,7 @@ une:
       href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: Plus d'info
-      couleur_bouton: warning
+      couleur_bouton: 
     - titre: "Stage Robotique"
       titre_img: 
       titre_overlay: 
@@ -88,7 +88,7 @@ une:
       href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: Plus d'info
-      couleur_bouton: warning
+      couleur_bouton: 
 
 activites:
   # Nom de la catégorie
