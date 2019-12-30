@@ -1,0 +1,18 @@
+<div class="row">
+	{% for stage in site.data.stages.stages %}
+  {% if stage.online and stage.categorie contains 'bouts' %}
+
+{% include coleen/liste_cartes.html %}
+
+  {% endif %}
+	{% endfor %}
+</div>
+
+{% if page.menu %}
+{% include menus/menu_left_end.html %}
+{% endif %}
+
+</div>
+<!-- Content Area End -->
+</div>
+</div>
