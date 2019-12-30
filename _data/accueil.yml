@@ -2,8 +2,8 @@
 slider:
   # L'image sur laquelle on arrive quand on charge la page
   active:
-    src: /assets/images/slider/accueil/bonneannee2020bis.png
-    href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
+    - src: /assets/images/slider/accueil/bonneannee2020bis.png
+      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
   # Les autres images
   autres:
     # image 2
@@ -18,7 +18,7 @@ slider:
 
 selection:
   # Nom de la catégorie
-  nom: "TEST TEST TEST"
+  nom: "Sélection du CFS"
   images:
     - titre: "Stages Carnaval"
       titre_img: 
@@ -34,7 +34,7 @@ selection:
       src: https://media.discordapp.net/attachments/656057943346642945/656125320667201546/accueilstagecarnaval.png
       href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
-      bouton: Inscription
+      bouton: Plus d'info
       couleur_bouton: 
     - titre: "École de natation"
       titre_img: 
@@ -42,7 +42,7 @@ selection:
       src: https://media.discordapp.net/attachments/656057943346642945/656167963937865748/ecolenatation.png
       href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
-      bouton: Inscription
+      bouton: Plus d'info
       couleur_bouton: 
     - titre: "Swiss Jump"
       titre_img: 
@@ -57,44 +57,52 @@ une:
   # Nom de la catégorie
   nom: "Stages à la Une"
   images:
-    - titre: "Atelier Robotique"
+    - titre: "Football Euro 2020"
       titre_img: 
       titre_overlay: 
       src: 
       href:
       autre_page:
-      bouton: 
+      bouton: Inscription
       couleur_bouton: 
-    - titre: "École de natation"
+    - titre: "Stage Débrouillard"
       titre_img: 
       titre_overlay: 
       src: 
       href:
       autre_page:
-      bouton: 
+      bouton: Inscription
       couleur_bouton: 
-    - titre: "Stages Carnaval"
+    - titre: "Stage Koh Lanta"
       titre_img: 
       titre_overlay: 
       src: 
       href:
       autre_page:
-      bouton: 
+      bouton: Inscription
       couleur_bouton: 
-    - titre: "Tournoi mini-foot"
+    - titre: "Stage Robotique"
       titre_img: 
       titre_overlay: 
       src: 
       href:
       autre_page:
-      bouton: 
+      bouton: Inscription
       couleur_bouton: 
 
 activites:
   # Nom de la catégorie
   nom: "Nos activités"
   images:
-    - titre:  "Atelier Robotique"
+    - titre:  "Stages Enfants"
+      titre_img: 
+      titre_overlay: 
+      src: 
+      href:
+      autre_page:
+      bouton: Inscription
+      couleur_bouton: 
+    - titre: "Activités extrascolaires"
       titre_img: 
       titre_overlay: 
       src: 
@@ -102,7 +110,7 @@ activites:
       autre_page:
       bouton: 
       couleur_bouton: 
-    - titre: "École de natation"
+    - titre: "Cours adultes"
       titre_img: 
       titre_overlay: 
       src: 
@@ -110,15 +118,7 @@ activites:
       autre_page:
       bouton: 
       couleur_bouton: 
-    - titre: "Stages Carnaval"
-      titre_img: 
-      titre_overlay: 
-      src: 
-      href:
-      autre_page:
-      bouton: 
-      couleur_bouton: 
-    - titre: "Tournoi mini-foot"
+    - titre: "Évènements"
       titre_img: 
       titre_overlay: 
       src: 

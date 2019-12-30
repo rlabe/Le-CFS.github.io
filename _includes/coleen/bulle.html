@@ -1,18 +1,18 @@
 <!-- Team Item Starts -->
-<figure>
-  <img src="{{ include.src }}" alt="" style="border-radius: 5%;">
-  <a href="{% if include.href %}{{ include.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}">
-  <div class="image-overlay bulle3">
-    <div class="overlay-text text-center">
-      <div class="info-text">
-        <strong>{% if include.titre_overlay%}{{ include.titre_overlay}}{% else %}{{ include.titre }}{% endif %}</strong>
+<a href="{% if include.href %}{{ include.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" style="color: #fff !important;">
+  <figure>
+    <img src="{{ include.src }}" alt="" style="border-radius: 5%;">
+    <div class="image-overlay bulle3">
+      <div class="overlay-text text-center">
+        <div class="info-text">
+          <strong>{% if include.titre_overlay%}{{ include.titre_overlay}}{% else %}{{ include.titre }}{% endif %}</strong>
+        </div>
+        <hr class="small-divider border-white">
+        <a href="{% if include.href %}{{ include.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" {% if include.autre_page %}target="_blank"{% endif %} class="btn btn-block btn-{% if include.couleur_bouton %}{% else %}success{% endif %}-filled" style="margin-top: 15px; color: #fff !important;">
+            <i class="fa fa-edit"></i> {% if include.bouton %} {{ include.bouton }}{% else %} Inscription{% endif %}
+        </a>
       </div>
-      <hr class="small-divider border-white">
-      <a href="{% if include.href %}{{ include.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" {% if include.autre_page %}target="_blank"{% endif %} class="btn btn-block btn-{% if include.couleur_bouton %}{% else %}success{% endif %}-filled" style="margin-top: 15px; color: #fff !important;">
-          <i class="fa fa-edit"></i> {% if include.bouton %} {{ include.bouton }}{% else %} Inscription{% endif %}</a>
-      </a>
     </div>
-  </div>
+  </figure>
 </a>
-</figure>
 <!-- Team Item Ends -->
