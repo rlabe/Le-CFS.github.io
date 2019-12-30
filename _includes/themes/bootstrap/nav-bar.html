@@ -1,29 +1,31 @@
-            <div class="top-menu top-menu-inverse">
-              <p>
-                  <div class="row">
-                    <div class="col-md-4 offset-md-2">
-                      <a href="https://www12.iclub.be/myiclub.asp?ClubID=559" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important;"><i class="fa fa-sign-in"></i> Se connecter - My CFS</a>
-                    </div>
-                    <div class="col-md-4">
-                      <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559" class="btn btn-block btn-success-filled" style="margin-top: 15px; color: #fff !important;"><i class="fa fa-edit"></i> Inscription rapide</a>
-                    </div>
-                  </div>
-              </p>
-            </div>
+<div class="top-menu top-menu-inverse">
+  <p>
+      <div class="row">
+        <div class="col-md-4 offset-md-2">
+          <a href="https://www12.iclub.be/myiclub.asp?ClubID=559" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important;"><i class="fa fa-sign-in"></i> Se connecter - My CFS</a>
+        </div>
+        <div class="col-md-4">
+          <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559" class="btn btn-block btn-success-filled" style="margin-top: 15px; color: #fff !important;"><i class="fa fa-edit"></i> Inscription rapide</a>
+        </div>
+      </div>
+  </p>
+</div>
 
-            <!-- navbar-default -->
-            <nav class="navbar navbar-toggleable-sm navbar-light bg-default">
-              <div class="container">
-                <a class="navbar-brand" href="{{ BASE_PATH }}"><img src="{{ BASE_PATH }}/assets/images/logo.png" alt=""></a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1" aria-expanded="false" aria-label="Toggle navigation">
-                  <i class="fa fa-bars"></i>
-                </button>
-                <div class="collapse navbar-collapse justify-content-end" id="navbar1">
-                  <ul class="navbar-nav">
-                    {% assign pages_list = site.pages %}
-                    {% assign group = 'navigation' %}
-                    {% include JB/pages_list %}
-                  </ul>
-                </div>
-              </div>
-            </nav>
+<!-- navbar-default -->
+<nav class="navbar navbar-toggleable-sm navbar-light bg-default">
+  <div class="container">
+    <a class="navbar-brand" href="{{ BASE_PATH }}"><img src="{{ BASE_PATH }}/assets/images/logo.png" alt=""></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1" aria-expanded="false" aria-label="Toggle navigation">
+      <i class="fa fa-bars"></i>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbar1">
+      <ul class="navbar-nav">
+        {% for item in site.data.menus.menu_principal.docs %}
+        <li class="nav-item">
+            <a class="nav-link" href="{{ item.url }}">{{ item.titre }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</nav>
