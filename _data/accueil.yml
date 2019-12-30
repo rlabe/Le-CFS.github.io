@@ -35,7 +35,7 @@ selection:
       href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: Plus d'info
-      couleur_bouton: 
+      couleur_bouton: warning
     - titre: "École de natation"
       titre_img: 
       titre_overlay: 
@@ -43,7 +43,7 @@ selection:
       href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
       bouton: Plus d'info
-      couleur_bouton: 
+      couleur_bouton: warning
     - titre: "Swiss Jump"
       titre_img: 
       titre_overlay: 
@@ -63,32 +63,32 @@ une:
       src: /assets/images/stages/activitessportives/footballeuro2020.png
       href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
-      bouton: Inscription
-      couleur_bouton: 
+      bouton: Plus d'info
+      couleur_bouton: warning 
     - titre: "Stage Débrouillard"
       titre_img: 
       titre_overlay: 
       src: /assets/images/stages/activitesartistiquesetloisirs/debrouillard.png
       href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
-      bouton: Inscription
-      couleur_bouton: 
+      bouton: Plus d'info
+      couleur_bouton: warning
     - titre: "Stage Koh Lanta"
       titre_img: 
       titre_overlay: 
       src: /assets/images/stages/activitesfun/lanta.png
       href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
-      bouton: Inscription
-      couleur_bouton: 
+      bouton: Plus d'info
+      couleur_bouton: warning
     - titre: "Stage Robotique"
       titre_img: 
       titre_overlay: 
       src: /assets/images/stages/activitesartistiquesetloisirs/robotique.png
       href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
       autre_page:
-      bouton: Inscription
-      couleur_bouton: 
+      bouton: Plus d'info
+      couleur_bouton: warning
 
 activites:
   # Nom de la catégorie
