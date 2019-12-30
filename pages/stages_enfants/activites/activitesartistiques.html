@@ -8,6 +8,7 @@ banner:
 index: 
 permalink: /stages/activites/activites_artistiques_et_loisirs/
 menu: stages
+keywords: 
 ---
 {% include JB/setup %}
 <div class="row">
@@ -18,15 +19,7 @@ menu: stages
 {% include menus/menu_left_{{ page.menu }}.html %}
 {% endif %}
 
-<div class="row">
-	{% for stage in site.data.stages.stages %}
-  {% if stage.online and stage.categorie contains 'artistiques' %}
-
-{% include coleen/liste_cartes.html %}
-
-  {% endif %}
-	{% endfor %}
-</div>
+{% include pages/stages/activites/activitesartistiques.html %}
 
 {% if page.menu %}
 {% include menus/menu_left_end.html %}

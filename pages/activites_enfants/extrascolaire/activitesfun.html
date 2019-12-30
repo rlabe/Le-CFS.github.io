@@ -8,6 +8,7 @@ banner:
 index: 
 permalink: /activites/extrascolaire/activites_fun/
 menu: activites
+keywords: 
 ---
 {% include JB/setup %}
 <div class="row">
@@ -18,15 +19,7 @@ menu: activites
 {% include menus/menu_left_{{ page.menu }}.html %}
 {% endif %}
 
-<div class="row">
-	{% for stage in site.data.extrascolaire.activites %}
-  {% if stage.online and stage.categorie contains 'fun' %}
-
-{% include coleen/liste_cartes.html %}
-
-  {% endif %}
-	{% endfor %}
-</div>
+{% include pages/activites_enfants/extrascolaire/activitesfun.html %}
 
 {% if page.menu %}
 {% include menus/menu_left_end.html %}

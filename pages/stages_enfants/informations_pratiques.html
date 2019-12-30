@@ -8,6 +8,7 @@ banner:
 index: 
 permalink: /stages/informations_pratiques/
 menu: stages
+keywords: 
 ---
 {% include JB/setup %}
 <div class="row">
@@ -18,34 +19,7 @@ menu: stages
 {% include menus/menu_left_{{ page.menu }}.html %}
 {% endif %}
 
-<div class="row">
-<div class="col-md-6">
-<p><img src="https://www12.iclub.be/images/upload/559/pictoorganisationgenerale.png" style="height:auto; width:50%" /></p>
-<a class="btn btn-info btn-block" href="#">Organisation G&eacute;n&eacute;rale</a></div>
-
-<div class="col-md-6">
-<p><img src="https://www12.iclub.be/images/upload/559/conseilspratiques.png" style="height:auto; width:50%" /></p>
-<a class="btn btn-info btn-block" href="#">Quelques conseils pratiques</a></div>
-</div>
-
-<div class="row">
-<div class="col-md-6">
-<p><img src="https://www12.iclub.be/images/upload/559/attestations.png" style="height:auto; width:50%" /></p>
-<a class="btn btn-info btn-block" href="#">Assurance</a></div>
-
-<div class="col-md-6">
-<p><img src="https://www12.iclub.be/images/upload/559/assurance.png" style="height:auto; width:50%" /></p>
-<a class="btn btn-info btn-block" href="#">Attestations</a></div>
-</div>
-
-<div class="row">
-<div class="col-md-3"><!-- VIDE --></div>
-
-<div class="col-md-6">
-<p><img src="https://www12.iclub.be/images/upload/559/conditionsgenerales.png" style="height:auto; width:50%" /></p>
-<a class="btn btn-info btn-block" href="#">Conditions g&eacute;n&eacute;rales stages</a></div>
-</div>
-
+{% include pages/stages_enfants/informations_pratiques.html %}
 
 {% if page.menu %}
 {% include menus/menu_left_end.html %}

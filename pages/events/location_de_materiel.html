@@ -8,6 +8,7 @@ banner:
 index: 
 permalink: /events/location_de_materiel/
 menu: events
+keywords: 
 ---
 {% include JB/setup %}
 <div class="row">
@@ -19,12 +20,10 @@ menu: events
 {% include menus/menu_left_events.html %}
 {% endif %}
 
-{% if page.menu %}
-        </div>
+{% include pages/events/location_de_materiel.html %}
 
-      </div>
-    </div>
-  </section>
+{% if page.menu %}
+{% include menus/menu_left_end.html %}
 {% endif %}
 </div>
 <!-- Content Area End -->

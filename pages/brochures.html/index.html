@@ -6,6 +6,7 @@ img-mobile :
 css: 
 banner: 
 permalink: /brochures/
+keywords: 
 ---
 {% include JB/setup %}
 <div class="row">
@@ -13,18 +14,7 @@ permalink: /brochures/
 <!-- Content Area Start -->
 <div id="content">
 
-<script>
-  function resizeIframe(obj) {
-    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
-  }
-</script>
-<div class="row">
-<div class="col-md-1">&nbsp;</div>
-
-<div class="col-md-10"><iframe allowfullscreen="" frameborder="0" height="600" marginheight="0" marginwidth="0" onload="resizeIframe(this)" scrolling="no" src="https://test-online.flowpaper.com/7604073b-trial/JETTEBrochureparascolaire1920/#PreviewMode=Miniature" width="100%"></iframe></div>
-
-<div class="col-md-1">&nbsp;</div>
-</div>
+{% include pages/brochures.html %}
 
 </div>
 <!-- Content Area End -->
