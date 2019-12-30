@@ -18,24 +18,30 @@ menu: stages
 {% include menus/menu_left_{{ page.menu }}.html %}
 {% endif %}
 
-{% for lieu in site.data.lieux_stage.lieux %}
-<div class="row">
-	<div class="col-md-12">
-	 📍 <strong>{{ lieu.name }}</strong> - {{ lieu.adresse }}
-	</div>
+<p><span style="color:#2980b9"><span style="font-size:20px">&nbsp; &nbsp; &nbsp;Vous trouverez certainement un centre <strong>CFS</strong> proche de chez vous.</span></span></p>
 
-	{% assign photos = lieu.img.size %}
+<p>&nbsp;<img alt="" src="https://www12.iclub.be/images/upload/559/bxlbanniAre.JPG" style="height:242px; width:600px" /></p>
 
-	{% for item in lieu.img %}
-	<div class="{% case photos %}{% when 1 %}col-md-12{% when 2 %}col-md-6{% when 3 %}col-md-4{% when 4 %}col-md-3{% else %}col-md-3{% endcase %} col-xs-12">
-		<img src="{{ BASE_PATH }}{{ lieu.img }}"/>
-	</div>
-	{% endfor %}
-	<div class="col-md-12">
-		{{ lieu.carte }}
-	</div>
-</div>
-{% endfor %}
+<p>&nbsp;</p>
+
+<p><a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&amp;Categorie=4&amp;Province=?&amp;Groupe=?&amp;LG=FR&amp;_ga=2.119223105.933350017.1571642297-301441336.1491468298"><img alt="" src="https://www12.iclub.be/images/upload/559/bxl_stages_graphique_texte.JPG" style="height:301px; width:600px" /></a></p>
+
+<p>&nbsp;</p>
+
+<p><img alt="" src="https://www12.iclub.be/images/upload/559/brtbanniAre.JPG" style="height:240px; width:600px" /></p>
+
+<p>&nbsp;</p>
+
+<p><a href="http://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&amp;Categorie=4&amp;Province=?&amp;Groupe=?&amp;LG=FR&amp;_ga=2.119223105.933350017.1571642297-301441336.1491468298"><img alt="" src="https://www12.iclub.be/images/upload/559/brt_stages_graphique.JPG" style="height:295px; width:600px" /></a></p>
+
+<p>&nbsp;</p>
+
+<p><img alt="" src="https://www12.iclub.be/images/upload/559/liAgebanniAre.JPG" style="height:237px; width:600px" /></p>
+
+<p>&nbsp;</p>
+
+<p><a href="http://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&amp;Categorie=4&amp;Province=?&amp;Groupe=?&amp;LG=FR&amp;_ga=2.119223105.933350017.1571642297-301441336.1491468298"><img alt="" src="https://www12.iclub.be/images/upload/559/liege_stages_graphique.JPG" style="height:310px; width:600px" /></a></p>
+
 
 {% if page.menu %}
 {% include menus/menu_left_end.html %}

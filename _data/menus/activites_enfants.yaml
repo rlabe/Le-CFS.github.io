@@ -52,18 +52,18 @@ docs:
     - title: "Robotique Academy"
       url: /activites/cfs_academy/robotique_academy/
 
-- title: "Parascolaire dans mon école"
-  url: /activites/parascolaire/
-  sousmenu:
-    - title: "Les Petits Bouts"
-      url: "/activites/parascolaire/petits_bouts/" 
-    - title: "Découvertes sportives et culturelles"
-      url: "/activites/parascolaire/decouvertes_sportives_et_culturelles" 
-    - title: "Danse et Gymnastique"
-      url: "/activites/parascolaire/danse_et_gymnastique/" 
-    - title: "Activités Fun"
-      url: "/activites/parascolaire/activites_fun/" 
-    - title: "Activités sportives"
-      url: "/activites/parascolaire/activites_sportives/" 
-    - title: "Activités artistiques et loisirs"
-      url: "/activites/parascolaire/activites_artistiques_et_loisirs/" 
+# - title: "Parascolaire dans mon école"
+#   url: /activites/parascolaire/
+#   sousmenu:
+#     - title: "Les Petits Bouts"
+#       url: "/activites/parascolaire/petits_bouts/" 
+#     - title: "Découvertes sportives et culturelles"
+#       url: "/activites/parascolaire/decouvertes_sportives_et_culturelles" 
+#     - title: "Danse et Gymnastique"
+#       url: "/activites/parascolaire/danse_et_gymnastique/" 
+#     - title: "Activités Fun"
+#       url: "/activites/parascolaire/activites_fun/" 
+#     - title: "Activités sportives"
+#       url: "/activites/parascolaire/activites_sportives/" 
+#     - title: "Activités artistiques et loisirs"
+#       url: "/activites/parascolaire/activites_artistiques_et_loisirs/" 
