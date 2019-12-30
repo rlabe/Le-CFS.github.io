@@ -1,26 +1,26 @@
 menu: 
   titre: "Le CFS"
-  url: /centre_de_formation_sportive/
+  url: /cfs/
 
 docs:
 
 - title: "À propos"
-  url: /centre_de_formation_sportive/a_propos/
+  url: /cfs/a_propos/
 
 - title: "Réductions et cartes de membres"
-  url: /centre_de_formation_sportive/reductions/
+  url: /cfs/reductions/
 
 - title: "Questions fréquentes"
-  url: /centre_de_formation_sportive/questions_frequentes/
+  url: /cfs/questions_frequentes/
 
 - title: "Nos brochures"
-  url: /centre_de_formation_sportive/nos_brochures/
+  url: /cfs/nos_brochures/
 
 - title: "Les centres CFS"
-  url: /centre_de_formation_sportive/les_centres_cfs/
+  url: /cfs/les_centres_cfs/
   
 - title: "Partenaires"
-  url: /centre_de_formation_sportive/partenaires/
+  url: /cfs/partenaires/
 
 - title: "Conditions générales"
-  url: /centre_de_formation_sportive/conditions_generales/
+  url: /cfs/conditions_generales/
