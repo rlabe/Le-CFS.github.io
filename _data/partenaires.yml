@@ -1,341 +1,217 @@
-# Faire TRÈS attention en modifiant ce fichier. Il faut garder le bon nombre d'espace avant le nom des champs.
-# name est le nom du stage. Doit être mis entre guillemets.
-# age est la tranche d'âge du stage. Il faut bien écrire "3 ans" ou "entre 4 et 8 ans". Doit être mis entre guillemets.
-# image est le lien 
-
-
-activites:
+liste:
     -
-        name: "Psycho Découverte"
-        age: 2-3 ans
-        img: "/boutonsactivites/extrascolaires/psychodecouverte.png"
-        lieu: 
-            - "Laeken - Institut Christ-Roi"
-        description: "Séances de multisports avec au programme: sports ballons, uni-hoc, frisbee, badminton, crosse canadienne, base-ball, etc."
-        infos: 
-        inscription: 
-        categorie: bouts
+        name: "AJP Events"
+        categorie: Aventure
+        logo: /assets/images/partenaires/ajpevents.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Psycho Grimpette"
-        age: 2-3 ans
-        img: "/boutonsactivites/extrascolaires/psychogrimpette.png"
-        lieu: 
-            - "Jette - Salle Omnisport"
-        description: "Séances de psychomotricité. Développement des capacités daudace et déquilibre. Au programme: parcours dagilité et daudace, développement des notions sensori-motrices (latéralité, équilibre...), jeux de coopération (parachute), exercices de rythmique. Plein de chouettes activités pour le développement de vos enfants."
-        infos: 
-        inscription: 
-        categorie: bouts
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/atheneerix.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Baby Danse"
-        age: 4-6 ans
-        img: "/boutonsactivites/extrascolaires/babydanse.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Rixensart - Complexe Sportif de Rixensart"
-            - "Jette - Salle Omnisport"
-            - "Woluwé-Saint-Lambert - Centre Sportif Mounier"
-        description: "Initiation au rythme à travers des chorégraphies adaptées."
-        infos: 
-            - "Spectacle organisé en fin d'année "
-        inscription: 
-        categorie: decouvertes
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/bnp.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Baby Multisports"
-        age: 4-6 ans
-        img: "/boutonsactivites/extrascolaires/babymultisports.png"
-        lieu: 
-            - "Ottignies - Centre Sportif des Coquerées"
-            - "Woluwé-Saint-Lambert - Centre Sportif Mounier"
-        description: "Premier contact avec le sport et les jeux collectifs, par lesquels votre enfant développe les différentes facettes de la motricité, le respect des règles et la vie en groupe."
-        infos: 
-        inscription: 
-        categorie: decouvertes
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/daddykate.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Baby Gym"
-        age: 4-6 ans
-        img: "/boutonsactivites/extrascolaires/babygym.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Ottignies - Centre Sportif des Coquerées"
-            - "Court-Saint-Etienne - Salle de Gym 'La Courtoise'"
-            - "Jette - Salle Omnisport"
-        description: "Cours dinitiation à la gymnastique pour les plus petits. Parcours déquilibre, daudace et premières notions de gymnastique sportive."
-        infos: 
-        inscription: 
-        categorie: decouvertes
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/ecolecommunale_sartmessireguillaume.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Danse Jazz"
-        age: 6-12 ans
-        img: "/boutonsactivites/extrascolaires/dansejazz.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Rixensart - Complexe Sportif de Rixensart"
-            - "Jette - Salle Omnisport"
-        description: "Au programme: exercices de souplesse, premières bases techniques et chorégraphiques de la danse Jazz."
-        infos: 
-            - "Spectacle organisé en fin d'année."
-        inscription: 
-        categorie: danse
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/ecolecommunalerosieres.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Danse Girly"
-        age: 12-16 ans
-        img: "/boutonsactivites/extrascolaires/dansegirly.png"
-        lieu: 
-            - "Woluwé-Saint-Pierre - Sport City"
-        description: "Initiation à la danse Girly : développement de la confiance en soi à travers un travail sur lattitude et la féminité. A la fois esthétique et artistique, ce nest pas la technique qui compte mais lexpression de lacte. "
-        infos: 
-            - "Spectacle organisé en fin d'année "
-        inscription: 
-        categorie: danse
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/ecoleducentre.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Hip-Hop"
-        age: 6-18 ans
-        img: "/boutonsactivites/extrascolaires/hiphop.png"
-        lieu: 
-            - "Wavre - Centre Sportif de Wavre"
-            - "Jette - Salle Omnisport"
-            - "Woluwé-Saint-Lambert - Centre Sportif Mounier"
-        description: "Découverte de l’une des danses les plus en vogue en ce moment ; le Hip-Hop. Connu pour ses chorégraphies bien énergiques, le Hip-Hop apprendra à vos enfants à bouger au rythme de la musique tout en laissant ses mouvements spontanés et naturels. "
-        infos: 
-            - "3 niveaux de groupe différents en fonction des âges "
-        inscription: 
-        categorie: danse
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/ecolefrancophonewemmel.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "GRS - Gymnastique Rythmique & Sportive"
-        age: 6-16 ans
-        img: "/boutonsactivites/extrascolaires/grs.png"
-        lieu: 
-            - "Bierges - Le Provincial"
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Jette - Salle Omnisport"
-            - "Jette - Ecole Notre-Dame de Lourdes"
-        description: "Les cours de GRS donnés au CFS permettent aux élèves dapprendre la technique des engins à travers des ateliers et/ou des chorégraphies sur musique. Les engins sont le ballon, la corde, le cerceau, le ruban et les massues. La conscience du corps, le rythme, la créativité, la souplesse et la technique seront développés dans une ambiance dynamique et ludique. Enfin, les élèves pourront montrer leurs progrès à loccasion dun spectacle organisé en fin dannée."
-        infos: 
-        inscription: 
-        categorie: danse
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/ecolenotredame_cerouxmousty.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Gymnastique"
-        age: 6-14 ans
-        img: "/boutonsactivites/extrascolaires/gymnastique.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Rixensart - Complexe Sportif de Rixensart"
-            - "Ottignies - Centre Sportif des Coquerées"
-            - "Court-Saint-Etienne - Salle de Gym 'La Courtoise'"
-            - "Jette - Salle Omnisport"
-        description: "Initiation et perfectionnement à la gymnastique sportive. Sol, sauts, poutre, barres asymétriques... Petite démonstration en fin dannée. Les enfants sont regroupés par âge/niveau."
-        infos: 
-            - "Démonstration en fin d'année "
-        inscription: 
-        categorie: danse
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/epst_plogee.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Gymnastique PRO"
-        age: 8-16 ans
-        img: "/boutonsactivites/extrascolaires/gympro.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Court-Saint-Etienne - Salle de Gym 'La Courtoise'"
-        description: "Ouvert aux jeunes qui désirent se perfectionner à la gymnastique sportive. Sol, sauts, poutre, barres asymétriques... Ce cours se donne dans un groupe restreint."
-        infos: 
-            - " 'CLUB : Entrainement spécial dans la grande salle GSA du Blocry (LLN) au moins un dimanche sur lannée - Possibilité daffiliation à la FFG (Fédération Francophone de Gymnastique) sur demande.'"
-        inscription: 
-        categorie: danse
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/futsajette.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Fun Laser"
-        age: 7-14 ans
-        img: "/boutonsactivites/extrascolaires/funlaser.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Rixensart - Complexe Sportif de Rixensart"
-        description: "Une combinaison dactivités funs et ludiques : New Games, Bubble Soccer, Escalade (pou Wavre)/Natation (pour Rixensart), Laser Game (une fois par mois), Arrow Games."
-        infos: 
-            - "L'agenda peut être aménagé en fonction des conditions météorologiques."
-        inscription: 
-        categorie: fun
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/horsescorner.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Mini-Tennis & Multisports"
-        age: 5-8 ans
-        img: "/boutonsactivites/extrascolaires/minitennisetmultisports.png"
-        lieu: 
-            - "Ottignies - Centre Sportif des Coquerées"
-        description: "Chaque semaine, les enfants se défouleront durant une heure de tennis et une heure dactivités de multisports."
-        infos: 
-        inscription: 
-        categorie: sportives
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/horsevalley.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Escalade"
-        age: 5-14 ans
-        img: "/boutonsactivites/extrascolaires/escalade.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Jette - Salle Omnisport"
-        description: "Découverte de lescalade. Par cette initiation, lenfant travaille des facettes spécifiques de la motricité telles que lascension et léquilibre. Il développe des facteurs essentiels comme laudace, la maîtrise de soi et la gestion du vertige. Maximum 8 enfants/groupe."
-        infos: 
-        inscription: 
-        categorie: sportives
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/koezio.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Badminton"
-        age: 7-15 ans
-        img: "/boutonsactivites/extrascolaires/badminton.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Ottignies - Centre Sportif des Coquerées"
-        description: "Apprentissage du badminton et des différents mouvements, techniques et déplacements. Au programme : entrainement technique, jeu dopposition, petits matchs. "
-        infos: 
-        inscription: 
-        categorie: sportives
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/lebondepart.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Arts Martiaux"
-        age: 6-12 ans
-        img: "/boutonsactivites/extrascolaires/artsmartiaux.png"
-        lieu: 
-            - "Rixensart - Complexe Sportif de Rixensart"
-        description: 
-        infos: 
-        inscription: 
-        categorie: sportives
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/lta_lambermont.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Judo"
-        age: 5-15 ans
-        img: "/boutonsactivites/extrascolaires/judo.png"
-        lieu: 
-            - "Rixensart - Judo Club de Genval"
-        description: "Véritable sport éducatif, le Judo permet à chacun de devenir plus adroit, plus souple, plus fort mais aussi d’apprendre à respecter des règles, découvrir l’entraide, évaluer ses forces et ses faiblesses pour progresser. Le Judo est un sport pour tous qui procure un véritable équilibre. Activité de détente et de plaisir, le Judo est une discipline basée sur l’échange et la progression. L’apprentissage se fait de manière progressive en fonction des aptitudes de l’individu, ce qui permet à chacun d’évoluer à son rythme."
-        infos: 
-        inscription: 
-        categorie: sportives
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/miniexcel.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Multisports"
-        age: 5-9 ans
-        img: "/boutonsactivites/extrascolaires/multisports.png"
-        lieu: 
-            - "Rixensart - Complexe Sportif de Rixensart"
-            - "Laeken - Institut Christ-Roi"
-        description: "Découvertes sportives au programme: sports ballons, uni-hoc, frisbee, badminton, crosse canadienne, base-ball, gymnastique, etc."
-        infos: 
-        inscription: 
-        categorie: sportives
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/mxt.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Mini-Foot"
-        age: 6-12 ans
-        img: "/boutonsactivites/extrascolaires/minifoot.png"
-        lieu: 
-            - "Rixensart - Complexe Sportif de Rixensart"
-            - "Jette - Ecole Notre-Dame de Lourdes"
-            - "Woluwé-Saint-Lambert - Centre Sportif Mounier"
-        description: "Entrainement de mini-football pour les footballeurs débutants et plus confirmés avec au programme: technique, tactique et petits matches. Les enfants sont regroupés par âge et par niveau."
-        infos: 
-        inscription: 
-        categorie: sportives
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/nostalgie.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Mini-Foot ACADEMY"
-        age: 4-14 ans
-        img: "/boutonsactivites/extrascolaires/minifootacademy.png"
-        lieu: 
-            - "Wavre - Centre Sportif de Wavre"
-        description: "Le CFS propose un apprentissage et/ou perfectionnement des différentes techniques du Mini-Foot. Au programme: passe, dribble, contrôle, amortie, shoot, jonglage, positionnement... Une attention particulière sera portée à lesprit déquipe, le respect des règles et des autres. Les enfants sont regroupés par niveaux et par âge. Le prix comprend les cours, une assurance et un maillot Mini Excel."
-        infos: 
-            - "'CLUB : en collaboration avec le club de mini-foot Mini Excel Wavre-Limal - Organisation de tournois interCFS au minimum 3x par an (décembre, janvier et juin).'"
-        inscription: 
-        categorie: sportives
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/one.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Mini-Foot & Multisports"
-        age: 5-8 ans
-        img: "/boutonsactivites/extrascolaires/minifoot.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-        description: "1 heure de découvertes sportives (sports ballons, uni-hoc, frisbee, badminton, crosse canadienne, base-ball, gymnastique, etc.) agrémentée par 1 heure dentrainement de mini-football en salle : technique, tactique et petits matchs."
-        infos: 
-        inscription: 
-        categorie: sportives
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/orange.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Football"
-        age: 6-14 ans
-        img: "/boutonsactivites/extrascolaires/football.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Rixensart - Complexe Sportif de Rixensart"
-            - "Ottignies - Centre Sportif des Coquerées"
-        description: "Une heure d’exercices (technique de dribbles - 1 ballon par enfant, passes, tirs) et une heure de match (positionnement correct sur le terrain + jeu). En hiver, les cours sont prévus en salle. Les enfants sont rassemblés en deux groupes sur base de lâge et du niveau."
-        infos: 
-        inscription: 
-        categorie: sportives
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/pauldelvaux.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Football Academy"
-        age: 
-        img: "/boutonsactivites/extrascolaires/footballacademy.png"
-        lieu: 
-            - "Jette - Complexe Sportif du Heymbosch"
-        description: "Entrainement de mini-football pour les plus jeunes avec au programme: technique, tactique et petits matchs. Les enfants sont regroupés par âge et par niveau."
-        infos: 
-        inscription: 
-        categorie: sportives
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/rbbowl.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Football - Gardien de but"
-        age: 7-21 ans
-        img: "/boutonsactivites/extrascolaires/footballgardiendebut.png"
-        lieu: 
-            - "Beauvechain - Sporting Club Beauvechain"
-        description: "Les enfants sont regroupés par âge et par niveau. 1 entraîneur pour 4 gardiens. "
-        infos: 
-            - "Pack Football offert"
-        inscription: 
-        categorie: sportives
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/tempogym.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Anglais"
-        age: 8-14 ans
-        img: "/boutonsactivites/extrascolaires/anglais.png"
-        lieu: 
-            - "Bierges - Le Provincial"
-            - "Laeken - Tennis du Primerose"
-        description: "L’objectif du cours est de donner le goût des langues et la capacité de sexprimer dans de petites situations de la vie de tous les jours. L’apprentissage est ludique (jeux linguistiques, expression orale, jeux de rôle, mises en situation, etc.) et respectueux des capacités de chaque enfant. Ce cours convient tant pour un apprentissage que pour un rattrapage (maximum 6 enfants par groupe)."
-        infos: 
-        inscription: 
-        categorie: sportives
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/tennisacademygistoux.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Néerlandais"
-        age: 8-14 ans
-        img: "/boutonsactivites/extrascolaires/neerlandais.png"
-        lieu: 
-            - "Laeken - Tennis du Primerose"
-        description: "Enseignement exclusivement en anglais, donné par des professeurs diplômés et bien dynamiques, avec un matériel didactique adapté aux enfants et adolescents.  Le 1er cours (gratuit) permettra de vérifier le niveau linguistique de votre enfant."
-        infos: 
-        inscription: 
-        categorie: sportives
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/walibi.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton: 
     -
-        name: "Cirque"
-        age: 5-9 ans
-        img: "/boutonsactivites/extrascolaires/cirque.png"
-        lieu: 
-            - "Walhain - Ecole de Tourinnes"
-        description: "Initiation aux techniques de Cirques."
-        infos: 
-        inscription: 
-        categorie: sportives
+        name: "Koezio"
+        categorie: Aventure
+        logo: /assets/images/partenaires/wik.png
+        href: 
         online: oui
+        bouton: Site Web
+        couleur_bouton:     
