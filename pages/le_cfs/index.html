@@ -1,0 +1,42 @@
+---
+layout: index
+title: Le CFS
+img : 
+img-mobile : 
+css: 
+banner: /assets/images/banner/activites_et_infos/activitesparascolaires.png
+index: 
+permalink: /cfs/
+menu: cfs
+keywords: 
+---
+{% include JB/setup %}
+<div class="row">
+<div class="col-md-10 offset-md-1">
+<!-- Content Area Start -->
+
+{% if page.banner %}
+	<div class="row">
+		<div class="col-md-8 offset-md-2">
+			<img src="{{ page.banner }}" alt="{{ page.banner }}" style="border-radius: 15px; height: auto; width: 100%;">
+		</div>
+	</div>
+{% endif %}
+
+<div id="content">
+
+{% if page.menu %}
+{% include menus/menu_left_{{ page.menu }}.html %}
+{% endif %}
+
+
+{% include pages/le_cfs/index.html %}
+
+
+{% if page.menu %}
+{% include menus/menu_left_end.html %}
+{% endif %}
+</div>
+<!-- Content Area End -->
+</div>
+</div>

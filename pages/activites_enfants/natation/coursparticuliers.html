@@ -1,0 +1,31 @@
+---
+layout: index
+title: Cours particuliers
+img : 
+img-mobile : 
+css: 
+banner: 
+index: 
+permalink: /activites/ecole_de_natation/cours_particuliers/
+menu: activites
+keywords: 
+---
+{% include JB/setup %}
+<div class="row">
+<div class="col-md-10 offset-md-1">
+<!-- Content Area Start -->
+<div id="content">
+{% if page.menu %}
+{% include menus/menu_left_{{ page.menu }}.html %}
+{% endif %}
+
+{% include pages/activites_enfants/natation/coursparticuliers.html %}
+
+{% if page.menu %}
+{% include menus/menu_left_end.html %}
+{% endif %}
+
+</div>
+<!-- Content Area End -->
+</div>
+</div>

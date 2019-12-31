@@ -1,0 +1,31 @@
+---
+layout: index
+title: Robotique Academy
+img : 
+img-mobile : 
+css: 
+banner: 
+index: 
+permalink: /activites/cfs_academy/robotique_academy/
+menu: activites
+keywords: 
+---
+{% include JB/setup %}
+<div class="row">
+<div class="col-md-10 offset-md-1">
+<!-- Content Area Start -->
+<div id="content">
+{% if page.menu %}
+{% include menus/menu_left_{{ page.menu }}.html %}
+{% endif %}
+
+{% include pages/activites_enfants/academy/robotique.html %}
+
+{% if page.menu %}
+{% include menus/menu_left_end.html %}
+{% endif %}
+
+</div>
+<!-- Content Area End -->
+</div>
+</div>

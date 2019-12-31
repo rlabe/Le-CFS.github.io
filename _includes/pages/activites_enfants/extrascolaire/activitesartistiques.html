@@ -1,0 +1,9 @@
+<div class="row">
+	{% for stage in site.data.extrascolaire.activites %}
+  {% if stage.online and stage.categorie contains 'artistiques' %}
+
+{% include coleen/liste_cartes.html %}
+
+  {% endif %}
+	{% endfor %}
+</div>
