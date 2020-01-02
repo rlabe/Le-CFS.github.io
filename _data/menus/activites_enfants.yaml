@@ -51,6 +51,8 @@ docs:
       url: /activites/cfs_academy/judo_academy/
     - title: "Robotique Academy"
       url: /activites/cfs_academy/robotique_academy/
+    - title: "Danse Academy"
+      url: /activites/cfs_academy/danse_academy/
 
 # - title: "Parascolaire dans mon école"
 #   url: /activites/parascolaire/
