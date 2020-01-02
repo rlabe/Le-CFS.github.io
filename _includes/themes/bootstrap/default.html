@@ -1,9 +1,4 @@
 <!DOCTYPE html>
-<!--
-https://www.linkedin.com/in/antoniotrento/
-https://twitter.com/lantoniotrento
-lantoniotrento@gmail.com
--->
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -15,7 +10,6 @@ lantoniotrento@gmail.com
     {% if page.canonical %}<link rel="canonical" href="{{ page.canonical }}"/>{% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-
     <!--Google Font link-->
         <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
  <!--Helium css-->
@@ -68,15 +62,43 @@ lantoniotrento@gmail.com
         <!-- titre -->
       <div class="page-header-title">
         <h2 class="heading-title text-center"
-          {% if {{page.url}} contains 'bouts' %}style="color: #98C01E !important;"{% endif %}
-          {% if {{page.url}} contains 'decouvertes' %}style="color: #0095D5 !important;"{% endif %}
-          {% if {{page.url}} contains 'danse' %}style="color: #EB680D !important;"{% endif %}
-          {% if {{page.url}} contains 'fun' %}style="color: #911D7E !important;"{% endif %}
-          {% if {{page.url}} contains 'sportives' %}style="color: #FABB00 !important;"{% endif %}
-          {% if {{page.url}} contains 'artistiques' %}style="color: #E2071B !important;"{% endif %}
+          {% if {{page.url}} contains 'stages/activites/petits_bouts' %}style="color: #98C01E !important;"{% endif %}
+          {% if {{page.url}} contains 'stages/activites/decouvertes_sportives_et_culturelles' %}style="color: #0095D5 !important;"{% endif %}
+          {% if {{page.url}} contains 'stages/activites/danse_et_gymnastique' %}style="color: #EB680D !important;"{% endif %}
+          {% if {{page.url}} contains 'stages/activites/activites_fun' %}style="color: #911D7E !important;"{% endif %}
+          {% if {{page.url}} contains 'stages/activites/activites_sportives' %}style="color: #FABB00 !important;"{% endif %}
+          {% if {{page.url}} contains 'stages/activites/activites_artistiques_et_loisirs' %}style="color: #E2071B !important;"{% endif %}
         >{{ page.title }}</h2>
       </div>
+      {% include JB/setup %}
+      {% unless page.index %}
+      <div class="row">
+      <div class="col-md-10 offset-md-1">
+      <!-- Content Area Start -->
+      {% endunless %}
+      {% if page.banner %}
+        <div class="row">
+          <div class="col-md-8 offset-md-2">
+            <img src="{{ page.banner }}" alt="{{ page.banner }}" style="border-radius: 15px; height: auto; width: 100%;">
+          </div>
+        </div>
+      {% endif %}
+      <div id="content">
+      {% if page.menu %}
+      {% include menus/menu_left_{{ page.menu }}.html %}
+      {% endif %}
+
       {{ content }}
+      
+      {% if page.menu %}
+      {% include menus/menu_left_end.html %}
+      {% endif %}
+      </div>
+      <!-- Content Area End -->
+      {% unless page.index %}
+      </div>
+      </div>
+      {% endunless %}
       <br />
       {% include themes/bootstrap/footer.html %}
   </div>
