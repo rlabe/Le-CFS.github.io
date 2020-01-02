@@ -84,8 +84,8 @@ docs:
     - title: "Conditions générales"
       url: "/stages/lieux_de_stage/conditions_generales/"
 
+- title: "Partenaires pédagogiques"
+  url: /stages/partenaires_pedagogiques/
+
 - title: "Nos partenaires de stage"
   url: /stages/nos_partenaires_de_stage/
-
-- title: "Nos lieux d'excursion"
-  url: /stages/nos_lieux_excursion/
