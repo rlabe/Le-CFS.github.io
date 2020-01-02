@@ -54,12 +54,15 @@
   <div class="wrapper">	  	  
       <!--Home page style--> 
       {% include themes/bootstrap/nav-bar.html %}
+      {% unless page.index %}
+      <!-- breadcrumbs -->
       <div class="row">
         <div class="col-md-5 offset-md-3">
           {% include breadcrumbs.html %}
         </div>
       </div>
-        <!-- titre -->
+      {% endunless %}
+      <!-- titre -->
       <div class="page-header-title">
         <h2 class="heading-title text-center"
           {% if {{page.url}} contains 'stages/activites/petits_bouts' %}style="color: #98C01E !important;"{% endif %}
@@ -76,6 +79,7 @@
       <div class="col-md-10 offset-md-1">
       <!-- Content Area Start -->
       {% endunless %}
+      <!-- banner de la page -->
       {% if page.banner %}
         <div class="row">
           <div class="col-md-8 offset-md-2">
@@ -130,7 +134,5 @@
 	<!--Custom script loaded by children page-->
 	{% if page.js %}<script src="{{ BASE_PATH }}/assets/js/{{ page.js }}"></script>{% endif %}
 
-
-	  
   </body>
 </html>
