@@ -14,10 +14,6 @@
 			        <div class="info-text">
 			          <strong>{% if partenaire.titre_overlay%}{{ partenaire.titre_overlay }}{% else %}{{ partenaire.name }}{% endif %}</strong>
 			        </div>
-			        <hr class="small-divider border-white">
-			        <div class="info-text">
-			          <strong>Football</strong>
-			        </div>
 			        <a href="{% if partenaire.href %}{{ partenaire.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" target="_blank" class="btn btn-block btn-{% if partenaire.couleur_bouton %}{{ partenaire.couleur_bouton}}{% else %}info{% endif %}-filled" style="margin-top: 15px; color: #fff !important;">
 			            <i class="fa fa-edit"></i> {% if partenaire.bouton %} {{ partenaire.bouton }}{% else %} Inscription{% endif %}
 			        </a>
