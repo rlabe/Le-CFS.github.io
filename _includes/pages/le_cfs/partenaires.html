@@ -50,6 +50,7 @@
 		<div class="row">
 		
 		{% for partenaire in site.data.partenaires.liste %}
+		{% if partenaire.online %}
 		<!-- Team Item Starts -->
 		<div class="col-sm-6 col-md-4">
 
@@ -71,6 +72,7 @@
 
         </div>
 		<!-- Team Item Ends -->
+		{% endif %}
 		{% endfor %}
 		
 		</div>
