@@ -1,0 +1,11 @@
+{% for centre in site.data.centres_cfs.centres %}
+	{% if centre.online %}
+		{% if centre.centre == page.title %}
+			<div class="row">
+				<div class="col-md-12">
+					📍 {{ centre.name }} - {{ centre.adresse }}
+				</div>
+			</div>
+		{% endif %}
+	{% endif %}
+{% endfor %}

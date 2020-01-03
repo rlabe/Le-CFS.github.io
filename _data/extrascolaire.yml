@@ -315,7 +315,7 @@ activites:
         description: "L’objectif du cours est de donner le goût des langues et la capacité de sexprimer dans de petites situations de la vie de tous les jours. L’apprentissage est ludique (jeux linguistiques, expression orale, jeux de rôle, mises en situation, etc.) et respectueux des capacités de chaque enfant. Ce cours convient tant pour un apprentissage que pour un rattrapage (maximum 6 enfants par groupe)."
         infos: 
         inscription: 
-        categorie: sportives
+        categorie: artistiques
         online: oui
     -
         name: "Néerlandais"
@@ -326,7 +326,7 @@ activites:
         description: "Enseignement exclusivement en anglais, donné par des professeurs diplômés et bien dynamiques, avec un matériel didactique adapté aux enfants et adolescents.  Le 1er cours (gratuit) permettra de vérifier le niveau linguistique de votre enfant."
         infos: 
         inscription: 
-        categorie: sportives
+        categorie: artistiques
         online: oui
     -
         name: "Cirque"
@@ -337,5 +337,5 @@ activites:
         description: "Initiation aux techniques de Cirques."
         infos: 
         inscription: 
-        categorie: sportives
+        categorie: artistiques
         online: oui
