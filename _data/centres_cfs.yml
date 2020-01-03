@@ -1,0 +1,210 @@
+# Faire TRÈS attention en modifiant ce fichier. Il faut garder le bon nombre d'espace avant le nom des champs.
+# name est le nom du stage. Doit être mis entre guillemets.
+# age est la tranche d'âge du stage. Il faut bien écrire "3 ans" ou "entre 4 et 8 ans". Doit être mis entre guillemets.
+# image est le lien 
+
+centres# Faire TRÈS attention en modifiant ce fichier. Il faut garder le bon nombre d'espace avant le nom des champs.
+# name est le nom du stage. Doit être mis entre guillemets.
+# age est la tranche d'âge du stage. Il faut bien écrire "3 ans" ou "entre 4 et 8 ans". Doit être mis entre guillemets.
+# image est le lien 
+
+lieux:
+    -
+        name: "Hall Sportif de Wavre"
+        centre: Wavre
+        adresse: Avenue du centre sportif 22 • 1300 Wavre
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Collège Notre-Dame de Basse-Wavre"
+        centre: Wavre
+        adresse: Rue du Calvaire 4 - 1300 Wavre
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Centre de Formation Sportive 'Le Provincial'"
+        centre: Bierges
+        adresse: Rue Provinciale 225 • 1301 Bierges
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Horse's Corner Bierges"
+        centre: Bierges
+        adresse: Rue de Rosières 10 • 1301 Bierges
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Centre Sportif de Rixensart"
+        centre: Rixensart
+        adresse: Avenue de Clermont Tonnerre 26/A • 13
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Centre Sportif des Coquerées"
+        centre: Ottignies
+        adresse: Rue des Coquerées 50/A • 1340 Ottignies
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Piscine du Collège de Christ-Roi"
+        centre: Ottignies
+        adresse: Rue du Renivaux 25 • 1340 Ottignies
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Salle de Gym 'La Courtoise'"
+        centre: Cse
+        adresse: Avenue des Combattants 140 • 1490 Court-St-Etienne
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Centre Sportif de Walhain"
+        centre: Walhain
+        adresse: Rue Chapelle-Ste-Anne 14 • 1457 Walhain
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Sporting Club Beauvechain"
+        centre: Beauvechain
+        adresse: Rue de la Grande Lecke 1/Z • 1320 Beauvechain
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Horse's Valley Dream"
+        centre: Dion
+        adresse: Taille Thérèse 8 • 1325 Dion-Valmont
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Hall des Sports"
+        centre: Wemmel
+        adresse: Dijck 34 • 1780 Wemmel 
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "WINTERJUMPING vzw • Bomaco-site"
+        centre: Asse
+        adresse: Z.3 Doornveld 50 • 1731 Asse
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Salle Omnisport de Jette"
+        centre: Jette
+        adresse: Avenue du Comté de Jette 3 • 1090 Jette
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Ecole Jacques Brel"
+        centre: Jette
+        adresse: Section maternelle entrée Rue Joseph Loossens • 1090 Jette
+        img: 
+            - ""
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Institut Christ-Roi"
+        centre: Laeken
+        adresse: Avenue Wannecouter 113 • 1020 Laeken
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Royal Tennis Club Lambermont"
+        centre: Schaerbeek
+        adresse: Boulevard Général Wahis 1 • 1030 Schaerbeek
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Centre Sportif Mounier"
+        centre: Wsl
+        adresse: Avenue E. Mounier 87 • 1200 Woluwé-Saint-Lambert
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Sport City"
+        centre: Wsp
+        adresse: Avenue Salomé 2 • 1150 Woluwé-Saint-Pierre
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
+    -
+        name: "Institut St-Julien"
+        centre: Auderghem
+        adresse: Avenue de l'Eglise St-Julien 24 • 1160 Auderghem 
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: :
+    -
+        name: "Salle Omnisport de Jette"
+        centre: Jette
+        adresse: Avenue du Comté de Jette, 3 • 1090 Jette
+        img: 
+            - "/assets/images/stages/lespetitsbouts/psychodecouverte.png"
+        carte: 
+        stage: 
+        online: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5034.3693798212635!2d4.333372000000001!3d50.883292!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c3cedeb09d89%3A0x70469259b3d1f887!2sAvenue%20du%20Comt%C3%A9%20de%20Jette%203%2C%201090%20Jette%2C%20Belgium!5e0!3m2!1sen!2sus!4v1577359408093!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+    -
+        name: "TEST_TEST"
+        centre: TEST_TEST
+        adresse: TEST_TEST
+        img: 
+            - ""
+        carte: 
+        stage: 
+        online: 
