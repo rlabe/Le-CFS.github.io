@@ -24,7 +24,7 @@ selection:
       titre_img: 
       titre_overlay: 
       src: https://media.discordapp.net/attachments/656057943346642945/656125320667201546/accueilstagecarnaval.png
-      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
+      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&Categorie=4&Groupe=1
       autre_page: oui
       bouton: Inscription
       couleur_bouton: 
@@ -32,7 +32,7 @@ selection:
       titre_img: 
       titre_overlay: 
       src: /assets/images/event/selection_CFS/selectioncfs_anniflasergame.png
-      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
+      href: /anniversaires/lieu_sportif_et_fun/
       autre_page:
       bouton: Plus d'info
       couleur_bouton: 
@@ -40,15 +40,15 @@ selection:
       titre_img: 
       titre_overlay: 
       src: /assets/images/boutonsactivites/ecoledenatation.png
-      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
-      autre_page:
+      href: /activites/ecole_de_natation/
+      autre_page: 
       bouton: Plus d'info
       couleur_bouton: 
     - titre: "Swiss Jump"
       titre_img: 
       titre_overlay: 
       src: /assets/images/boutonscoursadultes/selectioncfs_swissjump.png
-      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
+      href: /cours_adultes/swissjump/
       autre_page:
       bouton: Inscription
       couleur_bouton: 
@@ -98,7 +98,7 @@ activites:
       titre_img: 
       titre_overlay: 
       src: /assets/images/stages/stagesenfants.png
-      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
+      href: /stages
       autre_page:
       bouton: Inscription
       couleur_bouton: 
@@ -106,7 +106,7 @@ activites:
       titre_img: 
       titre_overlay: 
       src: /assets/images/boutonsactivites/extrascolaires.png
-      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
+      href: /activites/extrascolaire
       autre_page:
       bouton: 
       couleur_bouton: 
@@ -114,7 +114,7 @@ activites:
       titre_img: 
       titre_overlay: 
       src: /assets/images/boutonscoursadultes/coursadultes.png
-      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
+      href: /cours_adultes
       autre_page:
       bouton: 
       couleur_bouton: 
@@ -122,7 +122,7 @@ activites:
       titre_img: 
       titre_overlay: 
       src: /assets/images/event/event.png
-      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
+      href: /events
       autre_page:
       bouton: 
       couleur_bouton: 
