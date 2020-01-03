@@ -1011,7 +1011,7 @@ stages:
     -
         name: "Tennis & Gymnastique"
         age: 8-16 ans
-        img: "/stages/activitesartistiquesetloisirs/tennisetgym.png"
+        img: "/stages/danseetgymnastique/tennisetgym.png"
         lieu: "Bruxelles"
         description: "Ce stage permet aux enfants de découvrir deux disciplines distinctes. D'un côté le tennis, afin d'apprendre et/ou développer leur technique de jeu et d'un autre côté la gymnastique, afin de découvrir les différents agrès tels que la poutre, les barres et le sol."
         infos: "Stage en collaboration avec Lambert Tennis Academy"
