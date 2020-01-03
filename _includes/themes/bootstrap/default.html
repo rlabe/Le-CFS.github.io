@@ -80,17 +80,18 @@
       <div class="col-md-10 offset-md-1">
       <!-- Content Area Start -->
       {% endunless %}
-      <!-- banner de la page -->
-      {% if page.banner %}
-        <div class="row">
-          <div class="col-md-8 offset-md-2">
-            <img src="{{ page.banner }}" alt="{{ page.banner }}" style="border-radius: 15px; height: auto; width: 100%;">
-          </div>
-        </div>
-      {% endif %}
       <div id="content">
       {% if page.menu %}
       {% include menus/menu_left_{{ page.menu }}.html %}
+      {% endif %}
+
+      <!-- banner de la page -->
+      {% if page.banner %}
+        <div class="row">
+          <div class="col-md-12">
+            <img src="{{ page.banner }}" alt="{{ page.banner }}" style="border-radius: 15px; height: auto; width: 100%;">
+          </div>
+        </div>
       {% endif %}
 
       {{ content }}
