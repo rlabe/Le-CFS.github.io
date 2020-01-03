@@ -74,15 +74,15 @@ docs:
   url: /stages/informations_pratiques/
   sousmenu:
     - title: "Organisation générale"
-      url: "/stages/lieux_de_stage/organisation_generale/" 
+      url: "/stages/informations_pratiques/organisation_generale/" 
     - title: "Conseils pratiques"
-      url: "/stages/lieux_de_stage/conseils_pratiques/" 
+      url: "/stages/informations_pratiques/conseils_pratiques/" 
     - title: "Assurances"
-      url: "/stages/lieux_de_stage/assurances/" 
+      url: "/stages/informations_pratiques/assurances/" 
     - title: "Attestations"
-      url: "/stages/lieux_de_stage/attestations/"
+      url: "/stages/informations_pratiques/attestations/"
     - title: "Conditions générales"
-      url: "/stages/lieux_de_stage/conditions_generales/"
+      url: "/stages/informations_pratiques/conditions_generales/"
 
 - title: "Partenaires pédagogiques"
   url: /stages/partenaires_pedagogiques/
