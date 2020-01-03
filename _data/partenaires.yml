@@ -242,9 +242,9 @@ liste:
     -
         name: "Judo Club Genval"
         categorie: Partenaires pédagogiques
-        logo:
-        href: 
-        online: 
+        logo: /assets/images/partenaires/judoclub.png
+        href: http://homeusers.brutele.be/judoclub.genval/lescours.htm
+        online: oui
         bouton: Site Web
         couleur_bouton: 
     -
