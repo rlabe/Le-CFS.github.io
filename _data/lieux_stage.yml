@@ -5,47 +5,37 @@
 
 lieux:
     -
-        name: 'Salle Omnisport de Jette'
-        centre: Jette
-        adresse: Avenue du Comté de Jette, 3 • 1090 Jette
+        name: "TEST_TEST"
+        centre: TEST_TEST
+        adresse: TEST_TEST
         img: 
-            - '/assets/images/stages/lespetitsbouts/psychodecouverte.png'
-        carte: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5034.3693798212635!2d4.333372000000001!3d50.883292!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c3cedeb09d89%3A0x70469259b3d1f887!2sAvenue%20du%20Comt%C3%A9%20de%20Jette%203%2C%201090%20Jette%2C%20Belgium!5e0!3m2!1sen!2sus!4v1577359408093!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-    -
-        name: 'Salle Omnisport de Jette'
-        centre: Jette
-        adresse: Avenue du Comté de Jette, 3 • 1090 Jette
-        img: 
-            - '/assets/images/stages/lespetitsbouts/psychodecouverte.png'
-            - '/assets/images/stages/lespetitsbouts/psychodecouverte.png'
-            - '/assets/images/stages/lespetitsbouts/psychodecouverte.png'
-            - '/assets/images/stages/lespetitsbouts/psychodecouverte.png'
-            - '/assets/images/stages/lespetitsbouts/psychodecouverte.png'
+            - ""
         carte: 
     -
-        name: 'Salle Omnisport de Jette'
-        centre: Jette
-        adresse: Avenue du Comté de Jette, 3 • 1090 Jette
+        name: "TEST_TEST"
+        centre: TEST_TEST
+        adresse: TEST_TEST
         img: 
-            - '/assets/images/stages/lespetitsbouts/psychodecouverte.png'
-            - '/assets/images/stages/lespetitsbouts/psychodecouverte.png'
+            - ""
         carte: 
     -
-        name: 'Salle Omnisport de Jette'
-        centre: Jette
-        adresse: Avenue du Comté de Jette, 3 • 1090 Jette
+        name: "TEST_TEST"
+        centre: TEST_TEST
+        adresse: TEST_TEST
         img: 
-            - '/assets/images/stages/lespetitsbouts/psychodecouverte.png'
-            - '/assets/images/stages/lespetitsbouts/psychodecouverte.png'
-            - '/assets/images/stages/lespetitsbouts/psychodecouverte.png'
+            - ""
         carte: 
     -
-        name: 'Salle Omnisport de Jette'
-        centre: Jette
-        adresse: Avenue du Comté de Jette, 3 • 1090 Jette
+        name: "TEST_TEST"
+        centre: TEST_TEST
+        adresse: TEST_TEST
         img: 
-            - '/assets/images/stages/lespetitsbouts/psychodecouverte.png'
-            - '/assets/images/stages/lespetitsbouts/psychodecouverte.png'
-            - '/assets/images/stages/lespetitsbouts/psychodecouverte.png'
-            - '/assets/images/stages/lespetitsbouts/psychodecouverte.png'
+            - ""
+        carte: 
+    -
+        name: "TEST_TEST"
+        centre: TEST_TEST
+        adresse: TEST_TEST
+        img: 
+            - ""
         carte: 
