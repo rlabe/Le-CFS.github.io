@@ -21,7 +21,7 @@ centres:
         centre: "Wavre"
         adresse: "Rue du Calvaire 4 - 1300 Wavre"
         img: 
-            - ""
+            - "/assets/images/centres/bassewavre.png"
         carte: 
         stage: 
         online: oui
