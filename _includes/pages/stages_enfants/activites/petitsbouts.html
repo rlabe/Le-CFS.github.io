@@ -1,3 +1,17 @@
+
+<div class="OutlineElement Ltr SCXO54309733 BCX0" style="box-sizing: inherit; font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web&quot;, Arial, Verdana, sans-serif; font-size: 14px; margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; position: relative; direction: ltr; text-align: center;">
+<p class="Paragraph SCXO54309733 BCX0" style="box-sizing: inherit; margin: 0px; font-family: Rubik, sans-serif; line-height: 25px; color: windowtext; letter-spacing: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; vertical-align: baseline; background-color: transparent;" lang="FR-BE" xml:lang="FR-BE"><strong>POUR LES PETITS BOUTS</strong> les stages pour les petits tendent au d&eacute;veloppement harmonieux des enfants au travers d&rsquo;activit&eacute;s
+adapt&eacute;es &agrave; leur &acirc;ge.</p>
+<p class="Paragraph SCXO54309733 BCX0" style="box-sizing: inherit; margin: 0px; font-family: Rubik, sans-serif; line-height: 25px; color: windowtext; letter-spacing: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; vertical-align: baseline; background-color: transparent;" lang="FR-BE" xml:lang="FR-BE">L&rsquo;enfant d&eacute;veloppe de nouvelles aptitudes tout en jouant: il apprend les r&egrave;gles du jeu et la vie en groupe,
+d&eacute;veloppe sa sociabilit&eacute; et explore les diff&eacute;rentes facettes de la motricit&eacute;.</p>
+<p class="Paragraph SCXO54309733 BCX0" style="box-sizing: inherit; margin: 0px; font-family: Rubik, sans-serif; line-height: 25px; color: windowtext; letter-spacing: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; vertical-align: baseline; background-color: transparent;" lang="FR-BE" xml:lang="FR-BE">Le rythme de l&rsquo;enfant est respect&eacute; et une sieste est pr&eacute;vue pour ceux qui en ont besoin.
+Pour chaque stage, il y a une base commune de psychomotricit&eacute; (jeux de coop&eacute;ration, parcours
+d&rsquo;adresse, d&rsquo;audace, exercices de lat&eacute;ralit&eacute;) et bien s&ucirc;r, un apprentissage sp&eacute;cifique en fonction du
+th&egrave;me propos&eacute;.</p>
+<p class="Paragraph SCXO54309733 BCX0" style="box-sizing: inherit; margin: 0px; font-family: Rubik, sans-serif; line-height: 25px; color: windowtext; letter-spacing: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; vertical-align: baseline; background-color: transparent;" lang="FR-BE" xml:lang="FR-BE">Il est demand&eacute; aux parents de pr&eacute;voir un sac avec une tenue de rechange pour leur
+enfant. Pour les stages commen&ccedil;ant &agrave; <strong>3 ans</strong> (PSYCHO): les enfants doivent &ecirc;tre propres.</p>
+<p class="Paragraph SCXO54309733 BCX0" style="box-sizing: inherit; margin: 0px; font-family: Rubik, sans-serif; line-height: 25px; color: windowtext; letter-spacing: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; vertical-align: baseline; background-color: transparent;" lang="FR-BE" xml:lang="FR-BE">Si votre enfant n&rsquo;est pas encore propre, il faut inscrire votre petit-bout en pr&eacute;-psycho.&nbsp;</p>
+</div>
 <div class="row">
 	{% for stage in site.data.stages.stages %}
   {% if stage.online and stage.categorie contains 'bouts' %}
@@ -6,13 +20,4 @@
 
   {% endif %}
 	{% endfor %}
-</div>
-
-{% if page.menu %}
-{% include menus/menu_left_end.html %}
-{% endif %}
-
-</div>
-<!-- Content Area End -->
-</div>
 </div>

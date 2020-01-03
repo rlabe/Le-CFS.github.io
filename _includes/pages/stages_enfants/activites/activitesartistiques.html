@@ -1,3 +1,11 @@
+
+<div class="OutlineElement Ltr SCXO54309733 BCX0" style="box-sizing: inherit; font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web&quot;, Arial, Verdana, sans-serif; font-size: 14px; margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; position: relative; direction: ltr; text-align: center;">
+<p class="Paragraph SCXO54309733 BCX0" style="box-sizing: inherit; margin: 0px; font-family: Rubik, sans-serif; line-height: 25px; color: windowtext; letter-spacing: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; vertical-align: baseline; background-color: transparent;" lang="FR-BE" xml:lang="FR-BE">Nos stages artistiques et ludiques peuvent susciter l&rsquo;envie &agrave; vos enfants de s&rsquo;investir et de prendre du
+plaisir dans une activit&eacute; autre que sportive. Ils ont l&rsquo;occasion de d&eacute;velopper leurs talents artistiques dans
+une ambiance amusante et divertissante. Spectacles/expositions/d&eacute;gustations de fin de semaine &agrave; ne
+pas manquer.&nbsp;</p>
+</div>
+
 <div class="row">
 	{% for stage in site.data.stages.stages %}
   {% if stage.online and stage.categorie contains 'artistiques' %}
@@ -6,13 +14,4 @@
 
   {% endif %}
 	{% endfor %}
-</div>
-
-{% if page.menu %}
-{% include menus/menu_left_end.html %}
-{% endif %}
-
-</div>
-<!-- Content Area End -->
-</div>
 </div>

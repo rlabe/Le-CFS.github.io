@@ -74,7 +74,7 @@ liste:
     -
         name: "EPST Plongée"
         categorie: Partenaires pédagogiques
-        logo: /assets/images/partenaires/epst_plogee.png
+        logo: /assets/images/partenaires/epst_plongee.png
         href: http://www.epst.be/www/index.php?option=com_content&task=view&id=3&Itemid=1
         online: oui
         bouton: Site Web
@@ -82,7 +82,7 @@ liste:
     -
         name: "Futsal Jette"
         categorie: Partenaires pédagogiques
-        logo: /assets/images/partenaires/futsajette.png
+        logo: /assets/images/partenaires/futsaljette.png
         href: https://www.futsaljette.be/
         online: oui
         bouton: Site Web
@@ -114,7 +114,7 @@ liste:
     -
         name: "Ecole Le Bon-Départ"
         categorie: Partenaires écoles
-        logo: /assets/images/partenaires/lebondepart.png
+        logo: /assets/images/partenaires/lebondepart_nil.png
         href: http://www.ecoledenil.be/
         online: oui
         bouton: Site Web

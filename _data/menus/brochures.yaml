@@ -4,5 +4,14 @@ menu:
 
 docs:
 
-- title: 
-  url: 
+- title: "Stages"
+  url: /brochures/stages/
+
+- title: "Extrascolaire"
+  url: /brochures/extrascolaire/
+
+- title: "Anniversaires"
+  url: /brochures/anniversaires/
+
+- title: "Cours Adultes"
+  url: /brochures/adultes/
