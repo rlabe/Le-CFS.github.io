@@ -255,3 +255,11 @@ liste:
         online: oui
         bouton: Site Web
         couleur_bouton: 
+    -
+        name: "SET-JET Fleur Bleue"
+        categorie: Partenaires pédagogiques
+        logo: /assets/images/partenaires/tennisdetable.png
+        href: https://www.rsjfb.net/
+        online: oui
+        bouton: Site Web
+        couleur_bouton: 

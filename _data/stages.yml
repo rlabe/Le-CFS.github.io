@@ -211,7 +211,7 @@ stages:
     -
         name: "Baby Multisports & Natation"
         age: 4-6 ans
-        img: "/stages/decouvertesportiveetculturelle/babymultisports.png"
+        img: "/stages/decouvertesportiveetculturelle/babymultietnat.png"
         lieu: "Bruxelles"
         description: "Ce stage se divise en plusieurs périodes dont une consacrée à la natation et les autres périodes à la découverte de différents sports."
         infos: 
