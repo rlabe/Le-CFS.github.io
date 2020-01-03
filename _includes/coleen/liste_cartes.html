@@ -6,9 +6,8 @@
       <div class="card-block">
         <h3 class="card-title">{{ stage.name }}</h3>
         <div class="meta">
-          {% if stage.nouveau %}<span class="label label-pill label-success-filled" style="float: right;">NOUVEAU</span>{% endif %}
-          {{stage.age}}<br/>
-          INFOS.
+          {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+          {{stage.age}}
         </div>
         <div class="description">
           <center><a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}"><span class="label label-pill label-warning-filled">Plus d'info</span></a></center>
@@ -31,8 +30,9 @@
       <div class="card-block">
         <h3 class="card-title">{{ stage.name }}</h3>
         <div class="meta">
-          {% if stage.nouveau %}<span class="badge btn-success-filled" style="float: right;">NOUVEAU</span>{% endif %}
+          {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
           {{stage.age}}<br/>
+          {{ stage.infos }}
         </div>
         <div class="description">
           {{ stage.description }}
