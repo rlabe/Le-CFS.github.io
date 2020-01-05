@@ -1,30 +1,14 @@
 # Faire TRÈS attention en modifiant ce fichier. Il faut garder le bon nombre d'espace avant le nom des champs.
+# 
 # name est le nom du stage. Doit être mis entre guillemets.
 # age est la tranche d'âge du stage. Il faut bien écrire "3 ans" ou "entre 4 et 8 ans". Doit être mis entre guillemets.
-# image est le lien 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
+# img est le lien vers l'image
+# lieu est l'endroit où se déroulent les stages. Doit être mis entre guillemets.
+# decription est la descritopn du stage à mettre entre guillemets et écrire en html
+# inscription est le message à écrire sur le bouton de la carte du stage. Si rien, "Plus d'info" est écrit.
+# categorie est la catégorie du stage : bouts, decouvertes, danse, fun, sportives, artistiques
+# online est complété si le stage doit être publié ou pas. Pour dépublier, laisser vide.
+# nouveau est complété pour afficher un badge "Nouveau" sur la carte du stage. Laisser vide pour ne pas afficher le badge.
 # 
 
 stages:
