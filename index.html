@@ -53,20 +53,18 @@ js: sliders.js
     <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt=""></a>
     <!-- End banner anniversaire -->
 
-<div class="owl-carousel owl-theme">
-    <div class="item"><h4>1</h4></div>
-    <div class="item"><h4>2</h4></div>
-    <div class="item"><h4>3</h4></div>
-    <div class="item"><h4>4</h4></div>
-    <div class="item"><h4>5</h4></div>
-    <div class="item"><h4>6</h4></div>
-    <div class="item"><h4>7</h4></div>
-    <div class="item"><h4>8</h4></div>
-    <div class="item"><h4>9</h4></div>
-    <div class="item"><h4>10</h4></div>
-    <div class="item"><h4>11</h4></div>
-    <div class="item"><h4>12</h4></div>
-</div>
+<div id="img/slider-carousel">
+        <div class="container">
+          <div class="sub-title">
+      <span>Partenaires</span>
+    </div>
+          <div id="image-carousel" class="owl-carousel">
+            {% for partenaire in site.data.partenaires.liste %}
+            <div class="item"><img src="{{ partenaire.logo }}" alt=""></div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
 
 <!-- Content area end -->
 </div>
