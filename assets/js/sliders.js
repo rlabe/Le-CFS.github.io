@@ -1,14 +1,11 @@
 
   <!-- cards carousel -->
-  <script>
     $(document).ready(function($) {
       $("#card-carousel").owlCarousel();
     });
     $("body").data("page", "frontpage");
-  </script>
 
   <!-- image carousel -->
-  <script>
     $(document).ready(function() {
       $("#image-carousel").owlCarousel({
         items: 4,
@@ -17,10 +14,8 @@
       });
 
     });
-  </script>
 
   <!-- posts carousel -->
-  <script>
     $(document).ready(function() {
       $("#posts-carousel").owlCarousel({
         items: 4,
@@ -29,7 +24,6 @@
       });
 
     });
-  </script>
 
   <!-- posts carousel 3col -->
   <script>
@@ -41,7 +35,6 @@
       });
 
     });
-  </script>
 
   <!-- image slider -->
   <script>
@@ -54,7 +47,6 @@
 
       });
     });
-  </script>
 
   <!-- testimonial carousel -->
   <script>
@@ -68,5 +60,22 @@
 
       });
     });
-  </script>
+
+  $('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:5
+        }
+    }
+  })
+
   <!-- / javascript -->
