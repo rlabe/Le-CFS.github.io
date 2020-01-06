@@ -18,7 +18,7 @@ anniversaires:
         anniversaire_une: oui
     -
         name: "Nautifun"
-        age: Apd 10 ans
+        age: 10 +
         img: "/anniversaires/activites/nautifun.png"
         lieu: "Les Lacs de l’Eau d’Heure"
         href: 
@@ -74,7 +74,7 @@ anniversaires:
         anniversaire_une: 
     -
         name: "Arrow Game"
-        age: Apd de 7 ans
+        age: 7 +
         img: "/anniversaires/activites/arrow.png"
         lieu: "Wavre / Rixensart / Ottignies / Auderghem"
         href: 
@@ -88,7 +88,7 @@ anniversaires:
         anniversaire_une: 
     -
         name: "Bubble Soccer"
-        age: Apd de 8 ans
+        age: 8 +
         img: "/anniversaires/activites/bubble.png"
         lieu: "Wavre / Rixensart / Ottignies"
         href: 
@@ -102,7 +102,7 @@ anniversaires:
         anniversaire_une: 
     -
         name: "BMX/Skate/Trottinette"
-        age: Apd de 7 ans
+        age: 7 +
         img: "/anniversaires/activites/bmxskatetrot.png"
         lieu: "A domicile ou au Skate Park"
         href: 
@@ -130,7 +130,7 @@ anniversaires:
         anniversaire_une: 
     -
         name: "Laser Game"
-        age: Apd de 7 ans
+        age: 7 +
         img: "/anniversaires/activites/funlaser.png"
         lieu: "Wavre"
         href: 
@@ -144,7 +144,7 @@ anniversaires:
         anniversaire_une: 
     -
         name: "Danse"
-        age: Apd de 6 ans
+        age: 6 +
         img: "/anniversaires/activites/danse.png"
         lieu: "Bierges / Wavre / Rixensart / Ottignies / Auderghem / Woluwé-Saint-Pierre"
         href: 
@@ -158,7 +158,7 @@ anniversaires:
         anniversaire_une: 
     -
         name: "Football"
-        age: Apd de 6 ans
+        age: 6 +
         img: "/anniversaires/activites/foot.png"
         lieu: "Wavre / Rixensart / Ottignies"
         href: 
@@ -172,7 +172,7 @@ anniversaires:
         anniversaire_une: 
     -
         name: "Multisports"
-        age: Apd de 6 ans
+        age: 6 +
         img: "/anniversaires/activites/multisports.png"
         lieu: "Ottignies / Auderghem"
         href: 
@@ -186,7 +186,7 @@ anniversaires:
         anniversaire_une: 
     -
         name: "Parcours d’obstacles gonflable"
-        age: Apd de 7 ans
+        age: 7 +
         img: "/anniversaires/activites/parcours.png"
         lieu: "Wavre / Rixensart / Ottignies"
         href: 
@@ -200,7 +200,7 @@ anniversaires:
         anniversaire_une: 
     -
         name: "Swiss Jump"
-        age: Apd de 7 ans
+        age: 7 +
         img: "/anniversaires/activites/swissjump.png"
         lieu: "Bierges"
         href: 
@@ -214,7 +214,7 @@ anniversaires:
         anniversaire_une: 
     -
         name: "Diner Parfait"
-        age: Apd de 6 ans
+        age: 6 +
         img: "/anniversaires/activites/dinerparfait.png"
         lieu: "Bierges / Auderghem"
         href: 
@@ -228,7 +228,7 @@ anniversaires:
         anniversaire_une: 
     -
         name: "Chasse au trésor"
-        age: Apd de 6 ans
+        age: 6 +
         img: "/anniversaires/activites/chasseautresor.png"
         lieu: "Bierges / Wavre / Ottignies / Rixensart / Auderghem / Woluwé-Saint-Pierre"
         href: 
@@ -242,7 +242,7 @@ anniversaires:
         anniversaire_une: 
     -
         name: "Cirque"
-        age: Apd de 6 ans
+        age: 6 +
         img: "/anniversaires/activites/cirque.png"
         lieu: "Bierges / Auderghem"
         href: 
@@ -256,7 +256,7 @@ anniversaires:
         anniversaire_une: 
     -
         name: "Magie"
-        age: Apd de 8 ans
+        age: 8 +
         img: "/anniversaires/activites/magie.png"
         lieu: "Bierges / Wavre / Rixensart / Ottignies"
         href: 
@@ -270,7 +270,7 @@ anniversaires:
         anniversaire_une: 
     -
         name: "Princesse & Pirate"
-        age: Apd de 6 ans
+        age: 6 +
         img: "/anniversaires/activites/princessesetpirates.png"
         lieu: "Bierges / Wavre / Rixensart / Ottignies"
         href: 
@@ -284,7 +284,7 @@ anniversaires:
         anniversaire_une: 
     -
         name: "Théâtre"
-        age: 
+        age: 6 +
         img: "/anniversaires/activites/theatre.png"
         lieu: "Auderghem"
         href: 
@@ -298,7 +298,7 @@ anniversaires:
         anniversaire_une: 
     -
         name: "Piscine Party"
-        age: Apd de 6 ans si votre enfant sait nager. 
+        age: 6 +
         img: "/anniversaires/activites/piscineparty.png"
         lieu: "Bierges – Woluwé-Saint-Pierre"
         href: 
