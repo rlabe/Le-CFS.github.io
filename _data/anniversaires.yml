@@ -4,15 +4,15 @@
 anniversaires:
     -
         name: "Aventure Trophy"
-        age: 2-4 ans
-        img: "/anniversaires/activites/prepsycho.png"
-        lieu: "À mon domicile - Au Skate Park"
+        age: 8-14 ans
+        img: "/anniversaires/activites/aventuretrophy.png"
+        lieu: "Dans un lieu sportif et fun"
         href: 
-        prix: 5 €
-        description: ""
-        infos: ""
+        prix: 450€
+        description: "Challenge par équipe : Chaque équipe doit s’orienter, trouver des énigmes et des postes dans lesquels des épreuves seront proposées."
+        infos: "25€/enfant supplémentaire"
         bouton: 
-        categorie: domicile fun piscine
+        categorie: fun
         online: oui
         nouveau: oui
         anniversaire_une: oui
