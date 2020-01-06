@@ -1,0 +1,340 @@
+# Faire TRÈS attention en modifiant ce fichier. Il faut garder le bon nombre d'espace avant le nom des champs.
+# 
+
+anniversaires:
+    -
+        name: "Aventure Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: oui
+    -
+        name: "Nautifun"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: oui
+    -
+        name: "Time's Up"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: oui
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
+    -
+        name: "Aventure_Trophy"
+        age: 2-4 ans
+        img: "/anniversaires/activites/prepsycho.png"
+        lieu: "À mon domicile - Au Skate Park"
+        href: 
+        prix: 5 €
+        description: ""
+        infos: ""
+        bouton: 
+        categorie: domicile fun piscine
+        online: oui
+        nouveau: oui
+        anniversaire_une: 
