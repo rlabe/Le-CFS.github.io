@@ -1,3 +1,13 @@
+<div class="row">
+{% for anniversaire in site.data.anniversaires.anniversaires %}
+	{% if anniversaire.online and anniversaire.categorie contains 'piscine' %}
+
+		{% include coleen/cartes_anniversaires.html %}
+
+	{% endif %}
+{% endfor %}
+</div>
+
 
 A LA PISCINE
 
