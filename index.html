@@ -60,7 +60,7 @@ js: sliders.js
     </div>
           <div id="image-carousel" class="owl-carousel">
             {% for partenaire in site.data.partenaires.liste %}
-            <div class="item"><img src="{{ partenaire.logo }}" alt=""></div>
+            <div class="item"><a href="{{ partenaire.href }}" target="_blank"> <img src="{{ partenaire.logo }}" alt="{{ partenaire.name }}"></a></div>
             {% endfor %}
           </div>
         </div>
