@@ -32,15 +32,15 @@ anniversaires:
         anniversaire_une: oui
     -
         name: "Time's Up"
-        age: 
+        age: 10 +
         img: "/anniversaires/activites/timesup.png"
-        lieu: 
+        lieu: A domicile
         href: 
         prix: 225 €
-        description: "Contactez-nous pour en savoir plus."
+        description: "Découvres avec tes amis le jeu Time's up. C'est un jeu dans lequel vous devrez deviner et faire deviner l'identité de 836 personnalités variées (réelles ou fictives). Il faudra être malin et rapide et ne pas avoir peur de vous marrer ! Le jeu se joue en équipes et se déroule en trois manches."
         infos:
         bouton: 
-        categorie: fun
+        categorie: domicile fun
         online: oui
         nouveau: oui
         anniversaire_une: oui
