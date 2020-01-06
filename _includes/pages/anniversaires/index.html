@@ -13,25 +13,15 @@
 <br><br>
 <center>2H00 D'ANIMATION ENCADREES PAR UN MONITEUR DU CFS<br>LES NOUVEAUTES A PARTIR D'AVRIL</center>
 
+<div class="row">
+{% for anniversaire in site.data.anniversaires.anniversaires %}
+	{% if anniversaire.anniversaire_une %}
 
-<div class="team-members-tow mtb-50">
-	<div class="row" style="text-align: center !important;">
+		{% include coleen/cartes_anniversaires.html %}
 
-		<div class="col-sm-6 col-md-4">
-			{% include coleen/bulle.html src="/assets/images/banner/anniversaires/aventuretrophy.png" titre="Aventure Trophy" href="" bouton="Plus d'info" %}
-		</div>
-
-		<div class="col-sm-6 col-md-4">
-			{% include coleen/bulle.html src="/assets/images/banner/anniversaires/nautifun.png" titre="Nautifun" href="" bouton="Plus d'info" %}
-		</div>
-
-		<div class="col-sm-6 col-md-4">
-			{% include coleen/bulle.html src="/assets/images/banner/anniversaires/timesup.png" titre="Time's Up" href="" bouton="Plus d'info" %}
-		</div>
-
-	</div>
+	{% endif %}
+{% endfor %}
 </div>
-
 
 <!-- Boutons de fin -->
 <div class="row">
