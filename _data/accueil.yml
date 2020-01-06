@@ -31,7 +31,7 @@ selection:
     - titre: "Anniversaire Laser Game"
       titre_img: 
       titre_overlay: 
-      src: /assets/images/event/selection_cfs/anniversairelasergame.png
+      src: /assets/images/anniversaires/selection_cfs/anniversairelasergame.png
       href: /anniversaires/lieu_sportif_et_fun/
       autre_page:
       bouton: Plus d'info
