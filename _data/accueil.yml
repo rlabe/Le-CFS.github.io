@@ -56,39 +56,7 @@ selection:
 une:
   # Nom de la catégorie
   nom: "Stages à la Une"
-  images:
-    - titre: "Football Euro 2020"
-      titre_img: 
-      titre_overlay: 
-      src: /assets/images/stages/activitessportives/footballeuro2020.png
-      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
-      autre_page:
-      bouton: Plus d'info
-      couleur_bouton:  
-    - titre: "Stage Débrouillard"
-      titre_img: 
-      titre_overlay: 
-      src: /assets/images/stages/activitesartistiquesetloisirs/debrouillard.png
-      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
-      autre_page:
-      bouton: Plus d'info
-      couleur_bouton: 
-    - titre: "Stage Koh Lanta"
-      titre_img: 
-      titre_overlay: 
-      src: /assets/images/stages/activitesfun/lanta.png
-      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
-      autre_page:
-      bouton: Plus d'info
-      couleur_bouton: 
-    - titre: "Stage Robotique"
-      titre_img: 
-      titre_overlay: 
-      src: /assets/images/stages/activitesartistiquesetloisirs/robotique.png
-      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559
-      autre_page:
-      bouton: Plus d'info
-      couleur_bouton: 
+  # Les images sont à changer directement dans le fichier _data/stages.yml avec l'option stage_une
 
 activites:
   # Nom de la catégorie

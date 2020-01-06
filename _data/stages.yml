@@ -23,6 +23,7 @@ stages:
         categorie: bouts
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Psycho Découverte"
         age: 3-4 ans
@@ -34,6 +35,7 @@ stages:
         categorie: bouts
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Psycho Grimpette"
         age: 3-4 ans
@@ -45,6 +47,7 @@ stages:
         categorie: bouts
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Psycho Aqua"
         age: 3-4 ans
@@ -56,6 +59,7 @@ stages:
         categorie: bouts
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Psycho Natation"
         age: 3-4 ans
@@ -67,6 +71,7 @@ stages:
         categorie: bouts
         online: oui
         nouveau: oui
+        stage_une:
     -
         name: "Psycho Musique"
         age: 
@@ -78,6 +83,7 @@ stages:
         categorie: bouts
         online:
         nouveau:
+        stage_une:
     -
         name: "Psycho Nature"
         age: 
@@ -89,6 +95,7 @@ stages:
         categorie: bouts
         online:
         nouveau:
+        stage_une:
     -
         name: "Psycho Vélo"
         age: 3-4 ans
@@ -100,6 +107,7 @@ stages:
         categorie: bouts
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Psycho Bricolage"
         age: 3-4 ans
@@ -111,6 +119,7 @@ stages:
         categorie: bouts
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Psycho Cuisine"
         age: 
@@ -122,6 +131,7 @@ stages:
         categorie: bouts
         online: 
         nouveau: 
+        stage_une:
     -
         name: "Psycho Sport"
         age: 3-4 ans
@@ -133,6 +143,7 @@ stages:
         categorie: bouts
         online: oui
         nouveau: oui
+        stage_une:
     -
         name: "Apprenti Vélo"
         age: 4-5 ans
@@ -144,6 +155,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Astucieux"
         age: 7-9 ans
@@ -155,6 +167,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau: oui
+        stage_une:
     -
         name: "Baby Danse"
         age: 4-6 ans
@@ -166,6 +179,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Baby Danse & Gym"
         age: 4-6 ans
@@ -177,6 +191,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Baby Foot"
         age: 4-6 ans
@@ -188,6 +203,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Baby Gym"
         age: 4-6 ans
@@ -199,6 +215,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Baby Multisports"
         age: 4-6 ans
@@ -210,6 +227,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Baby Multisports & Natation"
         age: 4-6 ans
@@ -221,6 +239,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau: oui
+        stage_une:
     -
         name: "Baby Poney"
         age: 4-6 ans
@@ -232,6 +251,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Baby Savant"
         age: 6-9 ans
@@ -243,6 +263,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Baby Tennis"
         age: 4-6 ans
@@ -254,6 +275,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau:
+        stage_une: 
     -
         name: "Cirque Mômes"
         age: 4-7 ans
@@ -265,6 +287,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau: oui
+        stage_une:
     -
         name: "Découverte Sportive"
         age: 5-7 ans
@@ -276,6 +299,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Découverte Sportive & Musique"
         age: 5-7 ans
@@ -287,6 +311,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Découverte Sportive & Natation"
         age: 5-7 ans
@@ -298,6 +323,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Découverte Sportive & Poney"
         age: 5-7 ans 
@@ -309,6 +335,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Escalade Découverte"
         age: 5-7 ans
@@ -320,6 +347,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Les explorateurs"
         age: 5-7 ans
@@ -331,6 +359,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Expression Corporelle & Sport"
         age: 4-6 ans
@@ -342,6 +371,7 @@ stages:
         categorie: decouvertes
         online:
         nouveau:
+        stage_une:
     -
         name: "Mini Lanta"
         age: 6-8 ans
@@ -353,6 +383,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau: oui
+        stage_une:
     -
         name: "Princesses & Pirates"
         age: 4-6 ans
@@ -364,6 +395,7 @@ stages:
         categorie: decouvertes
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Quad & Vtt"
         age: 6-8 ans
@@ -375,6 +407,7 @@ stages:
         categorie: decouvertes
         online:
         nouveau:
+        stage_une:
     -
         name: "Dance For You"
         age: 8-14 ans
@@ -386,6 +419,7 @@ stages:
         categorie: danse
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Danse"
         age: 6-10 ans
@@ -397,6 +431,7 @@ stages:
         categorie: danse
         online: oui
         nouveau:
+        stage_une:
     -
         name: "GRS"
         age: 6-14 ans
@@ -408,6 +443,7 @@ stages:
         categorie: danse
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Gymnastique"
         age: 6-12 ans
@@ -419,6 +455,7 @@ stages:
         categorie: danse
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Gym Pro"
         age: 8-16 ans
@@ -430,6 +467,7 @@ stages:
         categorie: danse
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Hip-Hop & Ragga"
         age: 9-16 ans
@@ -441,6 +479,7 @@ stages:
         categorie: danse
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Swiss Jump Kids"
         age: 8-16 ans
@@ -452,6 +491,7 @@ stages:
         categorie: danse
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Aventure"
         age: 8-14 ans
@@ -463,6 +503,7 @@ stages:
         categorie: fun
         online: oui
         nouveau:
+        stage_une:
     -
         name: "BMX Pro"
         age: 10-16 ans
@@ -474,6 +515,7 @@ stages:
         categorie: fun
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Evasion"
         age: 10-16 ans
@@ -485,6 +527,7 @@ stages:
         categorie: fun
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Fun Ado"
         age: 12-16 ans
@@ -496,6 +539,7 @@ stages:
         categorie: fun
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Fun Paintball & VTT"
         age: 10-16 ans 
@@ -507,6 +551,7 @@ stages:
         categorie: fun
         online: oui
         nouveau: oui
+        stage_une:
     -
         name: "Fun VTT"
         age: 10-16 ans
@@ -518,6 +563,7 @@ stages:
         categorie: fun
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Karting & Fun"
         age: 10-16 ans 
@@ -529,6 +575,7 @@ stages:
         categorie: fun
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Koh Lanta"
         age: 8-12 ans 
@@ -540,6 +587,7 @@ stages:
         categorie: fun
         online: oui
         nouveau: oui
+        stage_une: Oui
     -
         name: "Pilote"
         age: 10-14 ans
@@ -551,6 +599,7 @@ stages:
         categorie: fun
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Skate Pro"
         age: 10-16 ans
@@ -562,6 +611,7 @@ stages:
         categorie: fun
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Trottinette Pro"
         age: 10-16 ans
@@ -573,6 +623,7 @@ stages:
         categorie: fun
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Tennis - Fun & Aventure"
         age: 6-12 ans
@@ -584,6 +635,7 @@ stages:
         categorie: fun
         online: oui
         nouveau:
+        stage_une:
     -
         name: "X-TREM Sensation"
         age: 12-16 ans
@@ -595,6 +647,7 @@ stages:
         categorie: fun
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Aqua Fun"
         age: 7-12 ans
@@ -606,6 +659,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Badminton"
         age: 8-14 ans
@@ -617,6 +671,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Equi Sport"
         age: 7-12 ans
@@ -628,6 +683,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Equitation"
         age: 7-16 ans
@@ -639,6 +695,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Escalade"
         age: 8-14 ans
@@ -650,6 +707,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Football"
         age: 6-14 ans
@@ -661,6 +719,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Football Euro 2020"
         age: 5-14 ans
@@ -672,6 +731,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau: oui
+        stage_une: oui
     -
         name: "Fun & Multisports"
         age: 6-8 ans
@@ -683,6 +743,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau: oui
+        stage_une:
     -
         name: "Fun Multisports & Natation"
         age: 6-8 ans
@@ -694,6 +755,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau: oui
+        stage_une:
     -
         name: "Futsal"
         age: 6-14 ans
@@ -705,6 +767,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Mini-Foot"
         age: 6-12 ans
@@ -716,6 +779,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Multi Natation"
         age: 5-7 ans
@@ -727,6 +791,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Padel"
         age: 7-16 ans
@@ -738,6 +803,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau: oui
+        stage_une:
     -
         name: "Parkour"
         age: 10-16 ans
@@ -749,6 +815,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Pilote"
         age: 10-14 ans
@@ -760,6 +827,7 @@ stages:
         categorie: sportives
         online:
         nouveau:
+        stage_une:
     -
         name: "Pilote Academy"
         age: 10-16 ans
@@ -771,6 +839,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Tennis de table"
         age: 7-16 ans
@@ -782,6 +851,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Plongée"
         age: 9-14 ans
@@ -793,6 +863,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Sports Raquettes"
         age: 7-16 ans
@@ -804,6 +875,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Self Defense"
         age: 7-14 ans
@@ -815,6 +887,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Sport Nature"
         age: 7-12 ans
@@ -826,6 +899,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Tennis"
         age: 7-16 ans
@@ -837,6 +911,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Tennis Pro"
         age: 11-16 ans
@@ -848,6 +923,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Volley Découverte"
         age: 
@@ -859,6 +935,7 @@ stages:
         categorie: sportives
         online:
         nouveau:
+        stage_une:
     -
         name: "Apprenti Savant"
         age: 6-14 ans
@@ -870,6 +947,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Artiste"
         age: 6-12 ans
@@ -881,6 +959,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Bande Dessinée"
         age: 9-16 ans
@@ -892,6 +971,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Bricoleur & Sport"
         age: 7-12 ans
@@ -903,6 +983,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Cirque"
         age: 9-14 ans
@@ -914,6 +995,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Comédie Musicale"
         age: 8-16 ans
@@ -925,6 +1007,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Compo Musicale & Sport"
         age: 8-14 ans
@@ -936,6 +1019,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Débrouillard"
         age: 10-13 ans
@@ -947,6 +1031,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau: oui
+        stage_une: oui
     -
         name: "Détective"
         age: 10-16 ans
@@ -958,6 +1043,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Diner Parfait"
         age: 7-14 ans
@@ -969,6 +1055,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Food & Pleasure"
         age: 6-8 ans
@@ -980,6 +1067,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Immersion Anglais"
         age: 8-12 ans
@@ -991,6 +1079,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Immersion Néerlandais"
         age: 8-16 ans
@@ -1002,6 +1091,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Ma déco"
         age: 8-14 ans
@@ -1013,6 +1103,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Magie et Cirque"
         age: 8-14 ans
@@ -1024,6 +1115,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Magie et Fun"
         age: 8-14 ans
@@ -1035,6 +1127,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Magie Pro"
         age: 8-14 ans
@@ -1046,6 +1139,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Photo Argentique"
         age: 8-14 ans
@@ -1057,6 +1151,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Robotique"
         age: 8-13 ans
@@ -1068,6 +1163,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau: oui
+        stage_une: oui
     -
         name: "Tennis & Anglais"
         age: 8-16 ans
@@ -1079,6 +1175,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Tennis & Baby Gym"
         age: 8-16 ans
@@ -1090,6 +1187,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Tennis & Gymnastique"
         age: 8-16 ans
@@ -1101,6 +1199,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Tennis & Néerlandais"
         age: 7-12 ans
@@ -1112,6 +1211,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Théâtre"
         age: 6-12 ans
@@ -1123,6 +1223,7 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
     -
         name: "Vidéo reportage"
         age: 10-14 ans
@@ -1134,3 +1235,4 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
