@@ -177,7 +177,7 @@ stages:
         infos: 
         inscription: 
         categorie: decouvertes
-        online:
+        online: oui
         nouveau:
         stage_une:
     -
