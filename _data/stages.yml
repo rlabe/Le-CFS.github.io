@@ -98,7 +98,7 @@ stages:
         stage_une:
     -
         name: "Psycho Sport"
-        age: 
+        age: 3-4 ans
         img: "/stages/lespetitsbouts/psychosport.png"
         lieu: "Bruxelles"
         description: "Votre enfant souhaite découvrir des activités sportives? Le stage de psycho sport permet une transition idéale entre la psychomotricité et la découverte sportive! Durant la semaine, les enfants s’initient à différents sports individuels, collectifs et gymnique de manière ludique afin qu’ils progressent à leur rythme tout en respectant leur développement moteur. Le reste de la journée est consacrée à un mix des différentes activités du stage « psycho découverte »."
@@ -106,7 +106,7 @@ stages:
         inscription:
         categorie: bouts
         online: oui
-        nouveau:
+        nouveau: oui
         stage_une:
     -
         name: "Psycho Vélo"
