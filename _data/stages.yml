@@ -97,6 +97,18 @@ stages:
         nouveau:
         stage_une:
     -
+        name: "Psycho Sport"
+        age: 3-4 ans
+        img: "/stages/lespetitsbouts/psychosport.png"
+        lieu: "Bruxelles"
+        description: "Votre enfant souhaite découvrir des activités sportives? Le stage de psycho sport permet une transition idéale entre la psychomotricité et la découverte sportive! Durant la semaine, les enfants s’initient à différents sports individuels, collectifs et gymnique de manière ludique afin qu’ils progressent à leur rythme tout en respectant leur développement moteur. Le reste de la journée est consacrée à un mix des différentes activités du stage « psycho découverte »."
+        infos: 
+        inscription:
+        categorie: bouts
+        online: oui
+        nouveau: oui
+        stage_une:
+    -
         name: "Psycho Vélo"
         age: 3-4 ans
         img: "/stages/lespetitsbouts/psychovelo.png"
@@ -131,18 +143,6 @@ stages:
         categorie: bouts
         online: 
         nouveau: 
-        stage_une:
-    -
-        name: "Psycho Sport"
-        age: 3-4 ans
-        img: "/stages/lespetitsbouts/psychocuisine.png"
-        lieu: Brabant Wallon
-        description:
-        infos: 
-        inscription: 
-        categorie: bouts
-        online: oui
-        nouveau: oui
         stage_une:
     -
         name: "Apprenti Vélo"
@@ -591,7 +591,7 @@ stages:
     -
         name: "Koh Lanta"
         age: 8-12 ans 
-        img: "/stages/activitesfun/kohlanta2.png"
+        img: "/stages/kohlanta2.png"
         lieu: "Bruxelles - Brabant Wallon"
         description: "Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocatching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage !"
         infos: 
@@ -747,7 +747,7 @@ stages:
     -
         name: "Football Euro 2020"
         age: 5-14 ans
-        img: "/stages/activitessportives/euro20202.png"
+        img: "/stages/euro20202.png"
         lieu: "Bruxelles - Brabant Wallon"
         description: "Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité."
         infos: 
@@ -1059,7 +1059,7 @@ stages:
     -
         name: "Débrouillard"
         age: 10-13 ans
-        img: "/stages/activitesartistiquesetloisirs/debrouillard2.png"
+        img: "/stages/debrouillard2.png"
         lieu: "Brabant Wallon"
         description: "Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité."
         infos: 
@@ -1203,7 +1203,7 @@ stages:
     -
         name: "Robotique"
         age: 8-13 ans
-        img: "/stages/activitesartistiquesetloisirs/robotique2.png"
+        img: "/stages/robotique2.png"
         lieu: "Brabant Wallon"
         description: "Le monde de demain sera modulé avec les nouvelles technologies et l’informatique. Afin de donner aux enfants de nouvelles clefs de réussite, nous allons via 5 sessions d’exercices développer des processus de réflexion pour formuler des problèmes et leur(s) solution(s) (création de robots en lego, programmation de robots et présentation du travail effectué). Afin qu’ils ne passent pas leur journée devant les écrans, nous passeront une demi-journée à d’autres activités et profiteront des infrastructures sportives du Centre."
         infos: 
