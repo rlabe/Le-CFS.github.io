@@ -591,7 +591,7 @@ stages:
     -
         name: "Koh Lanta"
         age: 8-12 ans 
-        img: "/stages/activitesfun/lanta.png"
+        img: "/stages/activitesfun/kohlanta2.png"
         lieu: "Bruxelles - Brabant Wallon"
         description: "Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocatching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage !"
         infos: 
@@ -747,7 +747,7 @@ stages:
     -
         name: "Football Euro 2020"
         age: 5-14 ans
-        img: "/stages/activitessportives/footballeuro2020.png"
+        img: "/stages/activitessportives/euro20202.png"
         lieu: "Bruxelles - Brabant Wallon"
         description: "Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité."
         infos: 
@@ -1059,7 +1059,7 @@ stages:
     -
         name: "Débrouillard"
         age: 10-13 ans
-        img: "/stages/activitesartistiquesetloisirs/debrouillard.png"
+        img: "/stages/activitesartistiquesetloisirs/debrouillard2.png"
         lieu: "Brabant Wallon"
         description: "Ce stage est agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité."
         infos: 
@@ -1203,7 +1203,7 @@ stages:
     -
         name: "Robotique"
         age: 8-13 ans
-        img: "/stages/activitesartistiquesetloisirs/robotique.png"
+        img: "/stages/activitesartistiquesetloisirs/robotique2.png"
         lieu: "Brabant Wallon"
         description: "Le monde de demain sera modulé avec les nouvelles technologies et l’informatique. Afin de donner aux enfants de nouvelles clefs de réussite, nous allons via 5 sessions d’exercices développer des processus de réflexion pour formuler des problèmes et leur(s) solution(s) (création de robots en lego, programmation de robots et présentation du travail effectué). Afin qu’ils ne passent pas leur journée devant les écrans, nous passeront une demi-journée à d’autres activités et profiteront des infrastructures sportives du Centre."
         infos: 
