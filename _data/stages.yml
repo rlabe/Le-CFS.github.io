@@ -145,18 +145,6 @@ stages:
         nouveau: 
         stage_une:
     -
-        name: "Psycho Sport"
-        age: 3-4 ans
-        img: "/stages/lespetitsbouts/psychocuisine.png"
-        lieu: Brabant Wallon
-        description:
-        infos: 
-        inscription: 
-        categorie: bouts
-        online: oui
-        nouveau: oui
-        stage_une:
-    -
         name: "Apprenti Vélo"
         age: 4-5 ans
         img: "/stages/decouvertesportiveetculturelle/psychovelo.png"
