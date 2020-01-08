@@ -177,7 +177,7 @@ stages:
         infos: 
         inscription: 
         categorie: decouvertes
-        online:
+        online: oui
         nouveau:
         stage_une:
     -
@@ -628,7 +628,7 @@ stages:
         name: "Trottinette Pro"
         age: 10-16 ans
         img: "/stages/activitesfun/trottinettepro.png"
-        lieu: "Bruxelles - Brabant Wallon"
+        lieu: "Bruxelles (Jette) - Brabant Wallon (Rixensart)"
         description: "Ce stage prévoit une initiation et un perfectionnement à la trottinette. Les as de la trot' vont apprendre de nouvelles figures dans une ambiance propre à ces sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés par des professionnels dans leur domaine. Chaque jour, les enfants partent découvrir un nouveau Skate Park. Les enfants doivent amener leur trottinette et toutes les protections."
         infos: "Stage en partenariat avec Max Extrême"
         inscription: 
