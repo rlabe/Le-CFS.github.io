@@ -50,13 +50,15 @@ js: sliders.js
     <div class="mb-60"></div>
 
     <!-- Banner anniversaire -->
+    {% comment %} La banner est dans accueil/bloc_bulles.html
     <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt=""></a>
+    {% endcomment %}
     <!-- End banner anniversaire -->
 
 <div id="img/slider-carousel">
         <div class="container">
-          <div class="sub-title">
-      <span>Partenaires</span>
+          <div class="sub-title text-center">
+      <span><a href="/cfs/partenaires">Partenaires</a></span>
     </div>
           <div id="image-carousel" class="owl-carousel">
             {% for partenaire in site.data.partenaires.liste %}
