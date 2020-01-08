@@ -31,7 +31,7 @@ anniversaires:
         nouveau: oui
         anniversaire_une: oui
     -
-        name: "Time's Up"
+        name: "Time’s Up"
         age: 10 +
         img: "/anniversaires/activites/timesup.png"
         lieu: A domicile
@@ -101,7 +101,7 @@ anniversaires:
         nouveau: 
         anniversaire_une: 
     -
-        name: "BMX/Skate/Trottinette"
+        name: "BMX-Skate-Trottinette"
         age: 7 +
         img: "/anniversaires/activites/bmxskatetrot.png"
         lieu: "A domicile ou au Skate Park"

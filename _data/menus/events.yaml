@@ -20,7 +20,12 @@ docs:
   url: /events/fancy_fair/
 
 - title: "Location de matériel"
-  url: /events/location_de_materiel/
+  url: /events/location/
+  sousmenu:
+    - title: "Activités fun"
+      url: "/events/location/fun"
+    - title: "Châteaux gonflables"
+      url: "/events/location/chateaux"
 
 - title: "Journées du personnel"
   url: /events/journees_du_personnel/
