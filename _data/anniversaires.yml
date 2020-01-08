@@ -31,20 +31,6 @@ anniversaires:
         nouveau: 
         anniversaire_une:
     -
-        name: "BMX-Skate-Trottinette"
-        age: 7 +
-        img: "/anniversaires/activites/bmxskatetrot.png"
-        lieu: "A domicile ou au Skate Park"
-        href: 
-        prix: 275 €
-        description: "Des sports extrêmes pour ton anniversaire ! Nous prévoyons une initiation et un perfectionnement au Skate, au BMX ou à la Trottinette. Nous allons t’apprendre de nouvelles figures dans une ambiance propre à ces sports extrêmes. Tes amis et toi seront encadrés par des professionnels dans leur domaine."
-        infos: "Réservation souhaitée 2 semaines à l’avance."
-        bouton: 
-        categorie: domicile
-        online: oui
-        nouveau: 
-        anniversaire_une:  
-    -
         name: "Chasse au trésor"
         age: 6 +
         img: "/anniversaires/activites/chasseautresor.png"
@@ -58,6 +44,20 @@ anniversaires:
         online: oui
         nouveau:
         anniversaire_une: 
+    -
+        name: "BMX-Skate-Trottinette"
+        age: 7 +
+        img: "/anniversaires/activites/bmxskatetrot.png"
+        lieu: "A domicile ou au Skate Park"
+        href: 
+        prix: 275 €
+        description: "Des sports extrêmes pour ton anniversaire ! Nous prévoyons une initiation et un perfectionnement au Skate, au BMX ou à la Trottinette. Nous allons t’apprendre de nouvelles figures dans une ambiance propre à ces sports extrêmes. Tes amis et toi seront encadrés par des professionnels dans leur domaine."
+        infos: "Réservation souhaitée 2 semaines à l’avance."
+        bouton: 
+        categorie: domicile
+        online: oui
+        nouveau: 
+        anniversaire_une:  
     -
         name: "Cirque"
         age: 6 +
