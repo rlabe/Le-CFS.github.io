@@ -67,6 +67,12 @@
        -->
       {% endunless %}
       <!-- titre -->
+      {% if page.menu %}
+      <div class="row">
+        <div class="col-md-10 offset-md-1">
+          <div class="row">
+            <div class="col-md-9 offset-md-3">
+          {% endif %}
       <div class="page-header-title">
         <h2 class="heading-title text-center"
           {% if {{page.url}} contains 'stages/activites/petits_bouts' %}style="color: #98C01E !important;"{% endif %}
@@ -76,7 +82,13 @@
           {% if {{page.url}} contains 'stages/activites/activites_sportives' %}style="color: #FABB00 !important;"{% endif %}
           {% if {{page.url}} contains 'stages/activites/activites_artistiques_et_loisirs' %}style="color: #E2071B !important;"{% endif %}
         >{{ page.title }}</h2>
+      {% if page.menu %}
+            </div>
+          </div>
+        </div>
       </div>
+      {% endif %}
+        </div>
       {% include JB/setup %}
       {% unless page.index %}
       <div class="row">

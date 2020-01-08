@@ -10,7 +10,7 @@
           {{anniversaire.age}}
         </div>
         <div class="description">
-          <center><a data-toggle="modal" data-target="#{{ anniversaire.name | escape }}"><span class="label label-pill label-info-filled">Plus d'info</span></a></center>
+          <center><a data-toggle="modal" data-target="#{{anniversaire.name | replace: ' ', '_' | replace: '&', 'et' }}"><span class="label label-pill label-info-filled">Plus d'info</span></a></center>
         </div>
       </div>
       <div class="extra">
@@ -20,7 +20,7 @@
       </div>
     </div>
 </div>
-<div class="modal fade" id="{{anniversaire.name | escape }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade" id="{{anniversaire.name | replace: ' ', '_' | replace: '&', 'et' }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="card-2">
