@@ -10,9 +10,6 @@ docs:
 - title: "Questions fréquentes"
   url: /cfs/questions_frequentes/
 
-- title: "Nos brochures"
-  url: /brochures
-
 - title: "Les centres CFS"
   url: /cfs/les_centres_cfs/
   # sousmenu:
