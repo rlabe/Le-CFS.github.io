@@ -8,7 +8,7 @@
     <div class="row">
       {% for item in bulles.images %}
       <div class="col-xs-6 col-md-3">
-        <a href="{% if item.href %}{{ item.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" style="color: #fff !important;">
+        <a href="{% if item.href %}{{ item.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" style="color: #fff !important;" {% if item.autre_page %}target="_blank"{% endif %} >
           <figure>
             <img src="{{ item.src }}" alt="" style="border-radius: 5%;">
             <div class="image-overlay bulle3">
