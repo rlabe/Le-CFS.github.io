@@ -3,48 +3,6 @@
 
 anniversaires:
     -
-        name: "Aventure Trophy"
-        age: 8-14 ans
-        img: "/anniversaires/activites/aventuretrophy.png"
-        lieu: "Nil-Saint-Vincent à la « Carrière des trois fontaines »"
-        href: 
-        prix: 450 €
-        description: "Challenge par équipe : Chaque équipe doit s’orienter, trouver des énigmes et des postes dans lesquels des épreuves seront proposées."
-        infos: "25€/enfant supplémentaire"
-        bouton: 
-        categorie: fun
-        online: oui
-        nouveau: oui
-        anniversaire_une: oui
-    -
-        name: "Nautifun"
-        age: 10 +
-        img: "/anniversaires/activites/nautifun.png"
-        lieu: "Les Lacs de l’Eau d’Heure"
-        href: 
-        prix: 520 €
-        description: "Initiation au ski nautique, au Wakeboard ou à la bouée tractée."
-        infos: "Transport non compris, possible sur demande. Les combinaisons sont fournies."
-        bouton: 
-        categorie: fun
-        online: oui
-        nouveau: oui
-        anniversaire_une: oui
-    -
-        name: "Time’s Up"
-        age: 10 +
-        img: "/anniversaires/activites/timesup.png"
-        lieu: A domicile
-        href: 
-        prix: 225 €
-        description: "Découvres avec tes amis le jeu Time's up. C'est un jeu dans lequel vous devrez deviner et faire deviner l'identité de 836 personnalités variées (réelles ou fictives). Il faudra être malin et rapide et ne pas avoir peur de vous marrer ! Le jeu se joue en équipes et se déroule en trois manches."
-        infos:
-        bouton: 
-        categorie: domicile fun
-        online: oui
-        nouveau: oui
-        anniversaire_une: oui
-    -
         name: "Psycho Boom"
         age: 2-4 ans
         img: "/anniversaires/activites/psychoboom.png"
@@ -71,34 +29,20 @@ anniversaires:
         categorie: fun
         online: oui
         nouveau: 
-        anniversaire_une: 
+        anniversaire_une:
     -
-        name: "Arrow Game"
-        age: 7 +
-        img: "/anniversaires/activites/arrow.png"
-        lieu: "Wavre / Rixensart / Ottignies / Auderghem"
+        name: "Chasse au trésor"
+        age: 6 +
+        img: "/anniversaires/activites/chasseautresor.png"
+        lieu: "Bierges / Wavre / Ottignies / Rixensart / Auderghem / Woluwé-Saint-Pierre"
         href: 
-        prix: 195 €
-        description: "Contactez-nous pour en savoir plus."
-        infos: 
+        prix: 175 €
+        description: "L’anniversaire « chasse au trésor » est un mélange de défis sportifs et intellectuels. Deux équipes se font face et après chaque épreuve, ils reçoivent une pièce de la carte au trésor. Ils reçoivent comme récompense des bonbons cachés dans une boîte à trésor."
+        infos: "Uniquement apd 13h00 – Sur Ottignies apd 14h00"
         bouton: 
-        categorie: fun
+        categorie: domicile fun
         online: oui
-        nouveau: 
-        anniversaire_une: 
-    -
-        name: "Bubble Soccer"
-        age: 8 +
-        img: "/anniversaires/activites/bubble.png"
-        lieu: "Wavre / Rixensart / Ottignies"
-        href: 
-        prix: 275 €
-        description: "Contactez-nous pour en savoir plus."
-        infos: ""
-        bouton: 
-        categorie: fun
-        online: oui
-        nouveau: 
+        nouveau:
         anniversaire_une: 
     -
         name: "BMX-Skate-Trottinette"
@@ -113,35 +57,21 @@ anniversaires:
         categorie: domicile
         online: oui
         nouveau: 
-        anniversaire_une: 
+        anniversaire_une:  
     -
-        name: "Quad"
-        age: 7-12 ans
-        img: "/anniversaires/activites/quad.png"
-        lieu: "Wavre"
+        name: "Cirque"
+        age: 6 +
+        img: "/anniversaires/activites/cirque.png"
+        lieu: "Bierges / Auderghem"
         href: 
-        prix: 400 €
-        description: "Quad, trottinette électrique, overboard, cuistax, motos électriques. En cas de mauvais temps, l’activité ne pourra être maintenue."
-        infos: "25€/enfant supplémentaire"
+        prix: Merci de nous contacter
+        description: "Nous te proposons une approche de diverses disciplines issues du monde du cirque : équilibre (câbles – échasses – monocycle), acrobatie (pyramides – trampoline-trapèze), jonglerie (foulards – balles – quilles), adresse (diabolos – bâtons du diable). Une petite présentation à la fin des 2 heures est possible."
+        infos: "Uniquement à partir de 15h30."
         bouton: 
         categorie: fun
         online: oui
-        nouveau: 
-        anniversaire_une: 
-    -
-        name: "Laser Game"
-        age: 7 +
-        img: "/anniversaires/activites/funlaser.png"
-        lieu: "Wavre"
-        href: 
-        prix: 300 €
-        description: "Une activité fun outdoor dans les bois à effectuer entres amis! Une activité à la fois sportive, ludique, stratégique et divertissante dans lequel plusieurs joueurs ou unités s’affrontent. Nous organisons l’anniversaire en plusieurs étapes : Découverte et fonctionnement des lasers, consignes de sécurité, création des équipes, déroulement de l’activité (jeux variés). Tout au long de l’anniversaire, nous mettons en place des jeux variés et ludiques."
-        infos: "25€/enfant supplémentaire"
-        bouton: 
-        categorie: domicile fun
-        online: oui
-        nouveau: 
-        anniversaire_une: 
+        nouveau:
+        anniversaire_une:
     -
         name: "Danse"
         age: 6 +
@@ -151,6 +81,20 @@ anniversaires:
         prix: Merci de nous contacter
         description: "Viens te déhancher sur le rythme de la musique! Nous allons apprendre les bases de la danse (musique tempos, mouvements et danse en groupe)."
         infos: "Réservation souhaitée 2 semaines à l’avance."
+        bouton: 
+        categorie: fun
+        online: oui
+        nouveau:
+        anniversaire_une:
+    -
+        name: "Diner Parfait"
+        age: 6 +
+        img: "/anniversaires/activites/dinerparfait.png"
+        lieu: "Bierges / Auderghem"
+        href: 
+        prix: Merci de nous contacter
+        description: "Tu veux devenir un grand chef-cuistot? Invite tes amis et appelle-nous vite! Lors de ton anniversaire, nous allons préparer ton propre gâteau avec l’aide de tes amis. A la fin de l’activité, tes amis et toi allez dégusté le gâteau."
+        infos: "Une allergie, une préférence pour le goût? Contactez-nous!"
         bouton: 
         categorie: fun
         online: oui
@@ -183,7 +127,63 @@ anniversaires:
         categorie: fun
         online: oui
         nouveau:
-        anniversaire_une: 
+        anniversaire_une:
+    -
+        name: "Princesse & Pirate"
+        age: 6 +
+        img: "/anniversaires/activites/princessesetpirates.png"
+        lieu: "Bierges / Wavre / Rixensart / Ottignies"
+        href: 
+        prix: 175 €
+        description: "Nous t’organisons une chasse au trésor sur le thème des princesses et pirates. Nous mettons également en place la fabrication de petits bricolages."
+        infos: "Uniquement à partir de 15h30 - Petite recommandation sur Bierges"
+        bouton: 
+        categorie: fun
+        online: oui
+        nouveau:
+        anniversaire_une:
+    -
+        name: "Théâtre"
+        age: 6 +
+        img: "/anniversaires/activites/theatre.png"
+        lieu: "Auderghem"
+        href: 
+        prix: 175 €
+        description: "Contactez-nous pour en savoir plus."
+        infos:
+        bouton: 
+        categorie: fun
+        online: oui
+        nouveau:
+        anniversaire_une:
+    -
+        name: "Arrow Game"
+        age: 7 +
+        img: "/anniversaires/activites/arrow.png"
+        lieu: "Wavre / Rixensart / Ottignies / Auderghem"
+        href: 
+        prix: 195 €
+        description: "Contactez-nous pour en savoir plus."
+        infos: 
+        bouton: 
+        categorie: fun
+        online: oui
+        nouveau: 
+        anniversaire_une:
+    -
+        name: "Laser Game"
+        age: 7 +
+        img: "/anniversaires/activites/funlaser.png"
+        lieu: "Wavre"
+        href: 
+        prix: 300 €
+        description: "Une activité fun outdoor dans les bois à effectuer entres amis! Une activité à la fois sportive, ludique, stratégique et divertissante dans lequel plusieurs joueurs ou unités s’affrontent. Nous organisons l’anniversaire en plusieurs étapes : Découverte et fonctionnement des lasers, consignes de sécurité, création des équipes, déroulement de l’activité (jeux variés). Tout au long de l’anniversaire, nous mettons en place des jeux variés et ludiques."
+        infos: "25€/enfant supplémentaire"
+        bouton: 
+        categorie: domicile fun
+        online: oui
+        nouveau: 
+        anniversaire_une:
     -
         name: "Parcours d’obstacles gonflable"
         age: 7 +
@@ -197,7 +197,21 @@ anniversaires:
         categorie: fun
         online: oui
         nouveau:
-        anniversaire_une: 
+        anniversaire_une:
+    -
+        name: "Quad"
+        age: 7-12 ans
+        img: "/anniversaires/activites/quad.png"
+        lieu: "Wavre"
+        href: 
+        prix: 400 €
+        description: "Quad, trottinette électrique, overboard, cuistax, motos électriques. En cas de mauvais temps, l’activité ne pourra être maintenue."
+        infos: "25€/enfant supplémentaire"
+        bouton: 
+        categorie: fun
+        online: oui
+        nouveau: 
+        anniversaire_une:
     -
         name: "Swiss Jump"
         age: 7 +
@@ -211,49 +225,35 @@ anniversaires:
         categorie: fun
         online: oui
         nouveau:
-        anniversaire_une: 
+        anniversaire_une:
     -
-        name: "Diner Parfait"
-        age: 6 +
-        img: "/anniversaires/activites/dinerparfait.png"
-        lieu: "Bierges / Auderghem"
+        name: "Aventure Trophy"
+        age: 8-14 ans
+        img: "/anniversaires/activites/aventuretrophy.png"
+        lieu: "Nil-Saint-Vincent à la « Carrière des trois fontaines »"
         href: 
-        prix: Merci de nous contacter
-        description: "Tu veux devenir un grand chef-cuistot? Invite tes amis et appelle-nous vite! Lors de ton anniversaire, nous allons préparer ton propre gâteau avec l’aide de tes amis. A la fin de l’activité, tes amis et toi allez dégusté le gâteau."
-        infos: "Une allergie, une préférence pour le goût? Contactez-nous!"
+        prix: 450 €
+        description: "Challenge par équipe : Chaque équipe doit s’orienter, trouver des énigmes et des postes dans lesquels des épreuves seront proposées."
+        infos: "25€/enfant supplémentaire"
         bouton: 
         categorie: fun
         online: oui
-        nouveau:
-        anniversaire_une: 
+        nouveau: oui
+        anniversaire_une: oui 
     -
-        name: "Chasse au trésor"
-        age: 6 +
-        img: "/anniversaires/activites/chasseautresor.png"
-        lieu: "Bierges / Wavre / Ottignies / Rixensart / Auderghem / Woluwé-Saint-Pierre"
+        name: "Bubble Soccer"
+        age: 8 +
+        img: "/anniversaires/activites/bubble.png"
+        lieu: "Wavre / Rixensart / Ottignies"
         href: 
-        prix: 175 €
-        description: "L’anniversaire « chasse au trésor » est un mélange de défis sportifs et intellectuels. Deux équipes se font face et après chaque épreuve, ils reçoivent une pièce de la carte au trésor. Ils reçoivent comme récompense des bonbons cachés dans une boîte à trésor."
-        infos: "Uniquement apd 13h00 – Sur Ottignies apd 14h00"
-        bouton: 
-        categorie: domicile fun
-        online: oui
-        nouveau:
-        anniversaire_une: 
-    -
-        name: "Cirque"
-        age: 6 +
-        img: "/anniversaires/activites/cirque.png"
-        lieu: "Bierges / Auderghem"
-        href: 
-        prix: Merci de nous contacter
-        description: "Nous te proposons une approche de diverses disciplines issues du monde du cirque : équilibre (câbles – échasses – monocycle), acrobatie (pyramides – trampoline-trapèze), jonglerie (foulards – balles – quilles), adresse (diabolos – bâtons du diable). Une petite présentation à la fin des 2 heures est possible."
-        infos: "Uniquement à partir de 15h30."
+        prix: 275 €
+        description: "Contactez-nous pour en savoir plus."
+        infos: ""
         bouton: 
         categorie: fun
         online: oui
-        nouveau:
-        anniversaire_une: 
+        nouveau: 
+        anniversaire_une:
     -
         name: "Magie"
         age: 8 +
@@ -269,33 +269,33 @@ anniversaires:
         nouveau:
         anniversaire_une: 
     -
-        name: "Princesse & Pirate"
-        age: 6 +
-        img: "/anniversaires/activites/princessesetpirates.png"
-        lieu: "Bierges / Wavre / Rixensart / Ottignies"
+        name: "Nautifun"
+        age: 10 +
+        img: "/anniversaires/activites/nautifun.png"
+        lieu: "Les Lacs de l’Eau d’Heure"
         href: 
-        prix: 175 €
-        description: "Nous t’organisons une chasse au trésor sur le thème des princesses et pirates. Nous mettons également en place la fabrication de petits bricolages."
-        infos: "Uniquement à partir de 15h30 - Petite recommandation sur Bierges"
+        prix: 520 €
+        description: "Initiation au ski nautique, au Wakeboard ou à la bouée tractée."
+        infos: "Transport non compris, possible sur demande. Les combinaisons sont fournies."
         bouton: 
         categorie: fun
         online: oui
-        nouveau:
-        anniversaire_une: 
+        nouveau: oui
+        anniversaire_une: oui   
     -
-        name: "Théâtre"
-        age: 6 +
-        img: "/anniversaires/activites/theatre.png"
-        lieu: "Auderghem"
+        name: "Time’s Up"
+        age: 10 +
+        img: "/anniversaires/activites/timesup.png"
+        lieu: A domicile
         href: 
-        prix: 175 €
-        description: "Contactez-nous pour en savoir plus."
+        prix: 225 €
+        description: "Découvres avec tes amis le jeu Time's up. C'est un jeu dans lequel vous devrez deviner et faire deviner l'identité de 836 personnalités variées (réelles ou fictives). Il faudra être malin et rapide et ne pas avoir peur de vous marrer ! Le jeu se joue en équipes et se déroule en trois manches."
         infos:
         bouton: 
-        categorie: fun
+        categorie: domicile fun
         online: oui
-        nouveau:
-        anniversaire_une: 
+        nouveau: oui
+        anniversaire_une: oui     
     -
         name: "Piscine Party"
         age: 6 +
