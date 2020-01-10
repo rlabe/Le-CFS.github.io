@@ -334,7 +334,7 @@ activites:
         img: "/boutonsactivites/extrascolaires/cirque.png"
         lieu: 
             - "Walhain - Ecole de Tourinnes"
-        description: "Initiation aux techniques du Cirques."
+        description: "Initiation aux techniques du Cirque."
         infos: 
         inscription: 
         categorie: artistiques
