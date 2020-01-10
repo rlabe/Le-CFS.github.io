@@ -38,11 +38,13 @@
           {{ stage.description }}
         </div>
       </div>
+      {% for endroit in stage.lieu %}
       <div class="extra">
         <span>
-          <i class="fa fa-map-marker"> {{ stage.lieu }}</i>
+          <i class="fa fa-map-marker"> {{ endroit }}</i>
         </span>
       </div>
+      {% endfor %}
     </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal" style="border-radius: 5px;">{% if page.url contains 'activites' %}Autre activité{% else %}Autre stage{% endif %}</button>
