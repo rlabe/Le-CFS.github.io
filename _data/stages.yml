@@ -257,7 +257,7 @@ stages:
         age: 6-9 ans
         img: "/stages/decouvertesportiveetculturelle/babysavant.png"
         lieu: "Bruxelles"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: decouvertes
@@ -281,7 +281,7 @@ stages:
         age: 4-7 ans
         img: "/stages/decouvertesportiveetculturelle/cirquemomes.png"
         lieu: "Brabant Wallon"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: decouvertes
@@ -293,7 +293,7 @@ stages:
         age: 5-7 ans
         img: "/stages/decouvertesportiveetculturelle/decsportive.png"
         lieu: "Brabant Wallon"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: decouvertes
@@ -305,7 +305,7 @@ stages:
         age: 5-7 ans
         img: "/stages/decouvertesportiveetculturelle/psychomusique.png"
         lieu: "Brabant Wallon"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: decouvertes
@@ -389,7 +389,7 @@ stages:
         age: 4-6 ans
         img: "/stages/decouvertesportiveetculturelle/princessesetpirates.png"
         lieu: Bruxelles
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: decouvertes
@@ -557,7 +557,7 @@ stages:
         age: 10-16 ans
         img: "/stages/activitesfun/funvtt.png"
         lieu: "Bruxelles"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: fun
@@ -665,7 +665,7 @@ stages:
         age: 7-12 ans
         img: "/stages/activitessportives/aquafun.png"
         lieu: "Brabant Wallon"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: sportives
@@ -737,7 +737,7 @@ stages:
         age: 5-14 ans
         img: "/stages/activitessportives/footballeuro2020.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: sportives
@@ -749,7 +749,7 @@ stages:
         age: 5-14 ans
         img: "/stages/euro20202.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: sportives
@@ -833,7 +833,7 @@ stages:
         age: 10-16 ans
         img: "/stages/activitessportives/parkour.png"
         lieu: "Brabant Wallon"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: sportives
@@ -845,7 +845,7 @@ stages:
         age: 10-14 ans
         img: "/stages/activitessportives/piloteacademy.png"
         lieu: "Brabant Wallon"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: sportives
@@ -905,7 +905,7 @@ stages:
         age: 7-14 ans
         img: "/stages/activitessportives/selfdefense.png"
         lieu: "Brabant Wallon"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: sportives
@@ -929,7 +929,7 @@ stages:
         age: 7-16 ans
         img: "/stages/activitessportives/tennis.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: sportives
@@ -953,7 +953,7 @@ stages:
         age: 
         img: "/stages/activitessportives/volleydecouverte.png"
         lieu: "Brabant Wallon"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: sportives
@@ -965,7 +965,7 @@ stages:
         age: 6-14 ans
         img: "/stages/activitesartistiquesetloisirs/apprentisavant.png"
         lieu: "Bruxelles"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: artistiques
@@ -1025,7 +1025,7 @@ stages:
         age: 8-16 ans
         img: "/stages/activitesartistiquesetloisirs/comediemusicale.png"
         lieu: "Brabant Wallon"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: artistiques
@@ -1049,7 +1049,7 @@ stages:
         age: 10-13 ans
         img: "/stages/activitesartistiquesetloisirs/debrouillard.png"
         lieu: "Brabant Wallon"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: artistiques
@@ -1061,7 +1061,7 @@ stages:
         age: 10-13 ans
         img: "/stages/debrouillard2.png"
         lieu: "Brabant Wallon"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: artistiques
@@ -1145,7 +1145,7 @@ stages:
         age: 8-14 ans
         img: "/stages/activitesartistiquesetloisirs/magietcirque.png"
         lieu: "Brabant Wallon"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: artistiques
@@ -1277,7 +1277,7 @@ stages:
         age: 10-14 ans
         img: "/stages/activitesartistiquesetloisirs/videoreportage.png"
         lieu: "Bruxelles"
-        description: "Comming soon."
+        description: "Coming soon."
         infos: 
         inscription: 
         categorie: artistiques
