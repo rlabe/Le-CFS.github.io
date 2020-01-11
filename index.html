@@ -5,10 +5,11 @@ index: index
 css: 
 js: sliders.js
 ---
-  <!-- sliders -->
+<!-- DESKTOP PAGE -->
+<div class="d-none d-sm-block">
+
   <div id="sliders">
     <div class="full-width">
-      <!-- light slider -->
       <div id="light-slider" class="carousel slide">
         <div id="carousel-area">
           <div id="carousel-slider" class="carousel slide" data-ride="carousel">
@@ -33,40 +34,97 @@ js: sliders.js
               <span class="sr-only">Précédent</span>
             </a>
             <a class="carousel-control-next" href="#carousel-slider" role="button" data-slide="next">
-              <span class="carousel-control carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="sr-only">Suivant</span>
-            </a>
-          </div>
+            <span class="carousel-control carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Suivant</span>
+          </a>
         </div>
       </div>
     </div>
   </div>
-  <!-- End sliders -->
+</div>
 
-      <!-- 3 blocs de 4 images -->
-      {% include accueil/bloc_bulles.html %}
-      <!-- Fin -->
+{% include accueil/bloc_bulles.html %}
 
-    <div class="mb-60"></div>
-
-    <!-- Banner anniversaire -->
-    {% comment %} La banner est dans accueil/bloc_bulles.html
-    <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt=""></a>
-    {% endcomment %}
-    <!-- End banner anniversaire -->
+<div class="mb-60"></div>
 
 <div id="img/slider-carousel">
-        <div class="container">
-          <div class="sub-title text-center">
+  <div class="container">
+    <div class="sub-title text-center">
       <span>Partenaires</span>
     </div>
-          <div id="image-carousel" class="owl-carousel">
-            {% for partenaire in site.data.partenaires.liste %}
-            <div class="item"><a href="{{ partenaire.href }}" target="_blank"> <img src="{{ partenaire.logo }}" alt="{{ partenaire.name }}"></a></div>
-            {% endfor %}
-          </div>
+    <div id="image-carousel" class="owl-carousel">
+      {% for partenaire in site.data.partenaires.liste %}
+        <div class="item"><a href="{{ partenaire.href }}" target="_blank"> <img src="{{ partenaire.logo }}" alt="{{ partenaire.name }}"></a></div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+      
+<div class="col-md-4 offset-md-4" style="margin-bottom: 20px;">
+  <a href="/cfs/partenaires" class="btn btn-block btn-info-filled">Voir nos partenaires</a>
+</div>
+
+</div>
+<!-- END DESKTOP PAGE -->
+
+<!-- MOBILE PAGE -->
+<div class="d-block d-sm-none">
+
+  <div id="sliders" style="margin: -5% !important">
+    <div class="full-width">
+      <div id="light-slider" class="carousel slide">
+        <div id="carousel-area">
+          <div id="carousel-slider" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
+              <li data-target="#carousel-slider" data-slide-to="1"></li>
+              <li data-target="#carousel-slider" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+              <div class="carousel-item active">
+                <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559" target="_blank"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/bonneannee2020bis.png" alt=""></a>
+              </div>
+              <div class="carousel-item">
+                <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&Categorie=4&Groupe=1" target="_blank"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/carnavalpaques.png" alt=""></a>
+              </div>
+              <div class="carousel-item">
+                <a href="activites/ecole_de_natation"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/ecoledenatation.png" alt=""></a>
+              </div>
+            </div>
+            <a class="carousel-control-prev" href="#carousel-slider" role="button" data-slide="prev">
+              <span class="carousel-control carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Précédent</span>
+            </a>
+            <a class="carousel-control-next" href="#carousel-slider" role="button" data-slide="next">
+            <span class="carousel-control carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Suivant</span>
+          </a>
         </div>
       </div>
-
-<!-- Content area end -->
+    </div>
+  </div>
 </div>
+
+{% include accueil/bloc_bulles.html %}
+
+<div class="mb-60"></div>
+
+<div id="img/slider-carousel">
+  <div class="container">
+    <div class="sub-title text-center">
+      <span>Partenaires</span>
+    </div>
+    <div id="image-carousel" class="owl-carousel">
+      {% for partenaire in site.data.partenaires.liste %}
+        <div class="item"><a href="{{ partenaire.href }}" target="_blank"> <img src="{{ partenaire.logo }}" alt="{{ partenaire.name }}"></a></div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+      
+<div class="col-md-4 offset-md-4" style="margin-bottom: 20px;">
+  <a href="/cfs/partenaires" class="btn btn-block btn-info-filled">Voir nos partenaires</a>
+</div>
+
+</div>
+<!-- END MOBILE PAGE -->
