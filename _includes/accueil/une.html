@@ -1,0 +1,71 @@
+<!-- Stages à la Une -->
+{% assign bulles = site.data.accueil.une %}
+<div class="container">
+  <div class="team-members-tow mtb-50">
+    <div class="sub-title text-center">
+      <span>{{ bulles.nom }}</span>
+    </div>
+    <div class="row">
+      {% assign stage = site.data.stages.stages %}
+      {% for item in stage %}
+      {% if item.stage_une %}
+      <div class="col-xs-6 col-md-3">
+        <a data-toggle="modal" data-target="#{{item.name | replace: ' ', '_' | replace: '&', 'et' }}" style="margin-top: 15px; color: #fff !important;">
+      <figure>
+        <img src="/assets/images{{ item.img }}" alt="" style="border-radius: 5%;">
+        <div class="image-overlay bulle3">
+          <div class="overlay-text text-center">
+            <div class="info-text">
+              <strong>{% if item.titre_overlay%}{{ item.titre_overlay}}{% else %}{{ item.name }}{% endif %}</strong>
+            </div>
+            <hr class="small-divider border-white">
+            <a class="btn btn-block btn-info-filled" data-toggle="modal" data-target="#{{item.name | replace: ' ', '_' | replace: '&', 'et' }}" style="margin-top: 15px; color: #fff !important;">
+                <i class="fa fa-edit"></i> {% if item.bouton %} {{ item.bouton }}{% else %} Plus d'info{% endif %}</a>
+          </div>
+        </div>
+      </figure>
+      </a>
+      </div>
+      <div class="modal fade" id="{{item.name | replace: ' ', '_' | replace: '&', 'et' }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="card-2">
+      <div class="image">
+        <img src="{{ BASE_PATH }}/assets/images{{ item.img }}">
+      </div>
+      <div class="card-block">
+        <h3 class="card-title">{{ item.name }}</h3>
+        <div class="meta">
+          {% if item.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+          {{item.age}}<br/>
+          {{ item.infos }}
+        </div>
+        <div class="description">
+          {{ item.description }}
+        </div>
+      </div>
+      <div class="extra">
+        <span>
+          <i class="fa fa-map-marker"> {{ item.lieu }}</i>
+        </span>
+      </div>
+    </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal" style="border-radius: 5px;">Autre stage</button>
+        <a class="btn btn-info-filled" href="
+          {% if page.url contains 'activites' %}
+            https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&Categorie=6
+          {% else %}
+            https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&Categorie=4
+          {% endif %}
+          " target="_blank">Inscription</a>
+      </div>
+    </div>
+  </div>
+</div>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
+<!-- Fin des stages à la Une -->

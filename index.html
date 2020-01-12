@@ -8,61 +8,23 @@ js: sliders.js
 <!-- DESKTOP PAGE -->
 <div class="d-none d-sm-block">
 
-  <div id="sliders">
-    <div class="full-width">
-      <div id="light-slider" class="carousel slide">
-        <div id="carousel-area">
-          <div id="carousel-slider" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-              <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
-              <li data-target="#carousel-slider" data-slide-to="1"></li>
-              <li data-target="#carousel-slider" data-slide-to="2"></li>
-            </ol>
-            <div class="carousel-inner" role="listbox">
-              <div class="carousel-item active">
-                <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559" target="_blank"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/bonneannee2020bis.png" alt=""></a>
-              </div>
-              <div class="carousel-item">
-                <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&Categorie=4&Groupe=1" target="_blank"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/carnavalpaques.png" alt=""></a>
-              </div>
-              <div class="carousel-item">
-                <a href="activites/ecole_de_natation"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/ecoledenatation.png" alt=""></a>
-              </div>
-            </div>
-            <a class="carousel-control-prev" href="#carousel-slider" role="button" data-slide="prev">
-              <span class="carousel-control carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Précédent</span>
-            </a>
-            <a class="carousel-control-next" href="#carousel-slider" role="button" data-slide="next">
-            <span class="carousel-control carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Suivant</span>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+  {% include accueil/slider.html %}
 
-{% include accueil/bloc_bulles.html %}
+  {% include accueil/selection.html %}
 
-<div class="mb-60"></div>
+  <div class="mb-60"></div>
 
-<div id="img/slider-carousel">
-  <div class="container">
-    <div class="sub-title text-center">
-      <span>Partenaires</span>
-    </div>
-    <div id="image-carousel-desktop" class="owl-carousel">
-      {% for partenaire in site.data.partenaires.liste %}
-        <div class="item"><a href="{{ partenaire.href }}" target="_blank"> <img src="{{ partenaire.logo }}" alt="{{ partenaire.name }}"></a></div>
-      {% endfor %}
-    </div>
-  </div>
-</div>
-      
-<div class="col-md-4 offset-md-4" style="margin-bottom: 20px;">
-  <a href="/cfs/partenaires" class="btn btn-block btn-info-filled">Voir nos partenaires</a>
-</div>
+  <div style="color: white; background-color: #4da5e2; width: 100%; font-size: 28px; padding: 20px;" class="text-center"><strong>Le CFS, à votre service depuis 1981.</strong></div>
+
+  <div class="mb-60"></div>
+
+  {% include accueil/une.html %}
+
+  <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt="Je réserve mon anniversaire"></a>
+
+  {% include accueil/activites.html %}
+
+  {% include accueil/partenaires.html %}
 
 </div>
 <!-- END DESKTOP PAGE -->
@@ -70,61 +32,23 @@ js: sliders.js
 <!-- MOBILE PAGE -->
 <div class="d-block d-sm-none">
 
-  <div id="sliders" style="margin: -5% !important">
-    <div class="full-width">
-      <div id="light-slider" class="carousel slide">
-        <div id="carousel-area">
-          <div id="carousel-slider" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-              <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
-              <li data-target="#carousel-slider" data-slide-to="1"></li>
-              <li data-target="#carousel-slider" data-slide-to="2"></li>
-            </ol>
-            <div class="carousel-inner" role="listbox">
-              <div class="carousel-item active">
-                <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559" target="_blank"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/bonneannee2020bis.png" alt=""></a>
-              </div>
-              <div class="carousel-item">
-                <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&Categorie=4&Groupe=1" target="_blank"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/carnavalpaques.png" alt=""></a>
-              </div>
-              <div class="carousel-item">
-                <a href="activites/ecole_de_natation"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/ecoledenatation.png" alt=""></a>
-              </div>
-            </div>
-            <a class="carousel-control-prev" href="#carousel-slider" role="button" data-slide="prev">
-              <span class="carousel-control carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Précédent</span>
-            </a>
-            <a class="carousel-control-next" href="#carousel-slider" role="button" data-slide="next">
-            <span class="carousel-control carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Suivant</span>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+  {% include accueil/slider.html mobile="oui" %}
 
-{% include accueil/bloc_bulles.html %}
+  {% include accueil/selection.html %}
 
-<div class="mb-60"></div>
+  <div class="mb-60"></div>
 
-<div id="img/slider-carousel">
-  <div class="container">
-    <div class="sub-title text-center">
-      <span>Partenaires</span>
-    </div>
-    <div id="image-carousel-mobile" class="owl-carousel">
-      {% for partenaire in site.data.partenaires.liste %}
-        <div class="item"><a href="{{ partenaire.href }}" target="_blank"> <img src="{{ partenaire.logo }}" alt="{{ partenaire.name }}"></a></div>
-      {% endfor %}
-    </div>
-  </div>
-</div>
-      
-<div class="col-md-4 offset-md-4" style="margin-bottom: 20px;">
-  <a href="/cfs/partenaires" class="btn btn-block btn-info-filled">Voir nos partenaires</a>
-</div>
+  <div style="color: white; background-color: #4da5e2; width: 100%; font-size: 28px; padding: 20px; margin: -5% !important;" class="text-center"><strong>Le CFS, à votre service depuis 1981.</strong></div>
+
+  <div class="mb-60"></div>
+
+  {% include accueil/une.html %}
+
+  <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt="Je réserve mon anniversaire" style="margin: -5% !important"></a>
+
+  {% include accueil/activites.html %}
+
+  {% include accueil/partenaires.html %}
 
 </div>
 <!-- END MOBILE PAGE -->

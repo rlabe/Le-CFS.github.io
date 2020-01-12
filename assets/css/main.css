@@ -188,6 +188,14 @@ strong{
     margin-bottom:50px
 }
 #content{
+    padding-bottom:20px;
+    padding-top:20px
+}
+#content-desktop{
+    padding-bottom:20px;
+    padding-top:20px
+}
+#content-mobile{
     padding-bottom:60px;
     padding-top:20px
 }
