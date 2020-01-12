@@ -52,7 +52,7 @@ js: sliders.js
     <div class="sub-title text-center">
       <span>Partenaires</span>
     </div>
-    <div id="image-carousel" class="owl-carousel">
+    <div id="image-carousel-desktop" class="owl-carousel">
       {% for partenaire in site.data.partenaires.liste %}
         <div class="item"><a href="{{ partenaire.href }}" target="_blank"> <img src="{{ partenaire.logo }}" alt="{{ partenaire.name }}"></a></div>
       {% endfor %}
@@ -114,7 +114,7 @@ js: sliders.js
     <div class="sub-title text-center">
       <span>Partenaires</span>
     </div>
-    <div id="image-carousel" class="owl-carousel">
+    <div id="image-carousel-mobile" class="owl-carousel">
       {% for partenaire in site.data.partenaires.liste %}
         <div class="item"><a href="{{ partenaire.href }}" target="_blank"> <img src="{{ partenaire.logo }}" alt="{{ partenaire.name }}"></a></div>
       {% endfor %}
