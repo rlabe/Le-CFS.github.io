@@ -81,15 +81,12 @@
     </div>
   
   {% include JB/setup %}
-
-<!-- DESKTOP -->
-<div class="d-none d-sm-block">
   
   {% unless page.index %}
     <div class="row">
       <div class="col-md-10 offset-md-1">
   {% endunless %}
-  <div id="content-desktop">
+  <div id="content">
 
     {% if page.menu %}
       {% include menus/menu_left_{{ page.menu }}.html %}
@@ -108,7 +105,8 @@
     {{ content }}
     
     {% if page.menu %}
-      {% include menus/menu_left_end.html %}
+      {% include menus/menu_left_{{ page.menu }}.html mobile="oui" %}
+      {% include menus/menu_left_end.html mobile="oui" %}
     {% endif %}
 
   </div>
@@ -117,44 +115,6 @@
     </div>
   </div>
   {% endunless %}
-</div>
-<!-- END DESKTOP -->
-
-<!-- MOBILE -->
-<div class="d-block d-sm-none">
-
-  {% unless page.index %}
-    <div class="row">
-      <div class="col-sm-10 offset-sm-1">
-  {% endunless %}
-  
-  <div id="content-mobile" style="padding-top: 10px !important; padding-bottom: 10px !important;">
-  
-  <!-- banner de la page -->
-  {% if page.banner %}
-    <div class="row">
-      <div class="col-md-12">
-        <img src="{{ page.banner }}" alt="{{ page.banner }}" style="border-radius: 15px; height: auto; width: 100%; margin: -5% !important;">
-      </div>
-    </div>
-  {% endif %}
-  
-  <div style="margin: 5% !important;">
-    {{ content }}
-  </div>
-  
-  {% if page.menu %}
-    {% include menus/menu_left_{{ page.menu }}.html %}
-    {% include menus/menu_left_end.html %}
-  {% endif %}
-  </div>
-  
-  {% unless page.index %}
-    </div>
-  </div>
-  {% endunless %}
-</div>
-<!-- END MOBILE -->
   
   {% include themes/bootstrap/footer.html %}
 
