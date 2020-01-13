@@ -362,7 +362,7 @@ activites:
         infos: 
         inscription: 
         categorie: artistiques
-        online: non
+        online: 
     -
         name: "Parkour"
         age: 9-16 ans
@@ -428,4 +428,4 @@ activites:
         infos:  Pour les enfants sachant nager 25 mètres
         inscription: 
         categorie: sportives
-        online: non
+        online: 
