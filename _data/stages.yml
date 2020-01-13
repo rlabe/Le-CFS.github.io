@@ -521,7 +521,7 @@ stages:
         age: 10-16 ans
         img: "/stages/activitesfun/evasion.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "BXL: Ce stage propose un menu alléchant: une journée à Aqualibi, des New games, une après-midi à Koezio, une initiation à la moto (via des motos électriques) ainsi que des Escapes Games. BRT:Le stage Evasion propose une journée de ski/snowboard au SnowWorld de Peer, une journée au parc d’attraction Walibi (& Aqualibi - n’oubliez pas votre maillot), une journée dédiée à la découverte des New Games (Bubble soccer, Vortex) et une journée à la patinoire de Leuven. La semaine se termine par des jeux dans les bois (chasse à l’homme, Stratégo géant...) et par un barbecue."
+        description: "<strong>BXL:</strong> Ce stage propose un menu alléchant: une journée à Aqualibi, des New games, une après-midi à Koezio, une initiation à la moto (via des motos électriques) ainsi que des Escapes Games.<hr><strong>BRT:</strong> Le stage Evasion propose une journée de ski/snowboard au SnowWorld de Peer, une journée au parc d’attraction Walibi (& Aqualibi - n’oubliez pas votre maillot), une journée dédiée à la découverte des New Games (Bubble soccer, Vortex) et une journée à la patinoire de Leuven. La semaine se termine par des jeux dans les bois (chasse à l’homme, Stratégo géant...) et par un barbecue."
         infos: Certaines activités demandent un déplacement en car ou en transport en commun assurés par nos soins.
         inscription: 
         categorie: fun
