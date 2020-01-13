@@ -11,7 +11,7 @@ activites:
         img: "/boutonsactivites/extrascolaires/psychodecouverte.png"
         lieu: 
             - "Laeken - Institut Christ-Roi"
-        description: "Ce stage réuni un mix de différentes facettes de psychomotricité : jeux de coopération, parcours d'adresse, d'audace, exercices de latéralité, éveil artistique, découverte de la nature environnante et du rythme."
+        description: "Ce stage réuni un mélange de différentes facettes de la psychomotricité : jeux de coopération, parcours d'adresse, d'audace, exercices de latéralité, éveil artistique, découverte de la nature environnante et du rythme."
         infos: 
         inscription: 
         categorie: bouts
@@ -158,12 +158,25 @@ activites:
         lieu: 
             - "Wavre - Collège Notre-Dame de Basse-Wavre"
             - "Rixensart - Complexe Sportif de Rixensart"
-        description: "Une combinaison dactivités fun et ludiques : New Games, Bubble Soccer, Escalade (pour Wavre)/Natation (pour Rixensart), Laser Game (une fois par mois), Arrow Games."
+        description: "Une combinaison d'activités fun et ludiques : New Games, Bubble Soccer, Escalade (pour Wavre)/Natation (pour Rixensart), Laser Game (une fois par mois), Arrow Games."
         infos: 
             - "L'agenda peut être aménagé en fonction des conditions météorologiques."
         inscription: 
         categorie: fun
         online: oui
+    -
+        name: "Fun Laser & VTT"
+        age: 8-15 ans
+        img: "/boutonsactivites/extrascolaires/funvtt.png"
+        lieu: 
+            - "Wavre - Collège Notre-Dame de Basse-Wavre"
+            - "Rixensart - Complexe Sportif de Rixensart"
+        description: "Une combinaison d'activités fun et ludiques : VTT 3x/mois et Laser Game 1x/mois"
+        infos: 
+            - "L'agenda peut être aménagé en fonction des conditions météorologiques."
+        inscription: 
+        categorie: fun
+        online: non
     -
         name: "Mini-Tennis & Multisports"
         age: 5-8 ans
@@ -339,3 +352,80 @@ activites:
         inscription: 
         categorie: artistiques
         online: oui
+    -
+        name: "Diner Parfait"
+        age: 6-12 ans
+        img: "/boutonsactivites/extrascolaires/dinerparfait.png"
+        lieu: 
+            - "Bierges - Le Provincial"
+        description: "Durant ce cours, les jeunes cuisiniers touchent à tous les domaines ayant trait au métier de chef-cuistot. Entrées, plats, desserts seront au menu. Les ingrédients pour les recettes sont compris dans le prix."
+        infos: 
+        inscription: 
+        categorie: artistiques
+        online: 
+    -
+        name: "Parkour"
+        age: 9-16 ans
+        img: "/boutonsactivites/extrascolaires/parkour.png"
+        lieu: 
+            - "Wavre - Collège Notre-Dame de Basse-Wavre"
+        description: "Cette discipline utilise le corps pour seul outil. Face à des obstacles naturels, ce sont les habilités motrices qui servent de support à l'activité. Courses, sauts, grimpes, exercices d'équilibre et de suspension sont au programme. L'activité se déroulera en salle et en milieu naturel."
+        infos: 
+        inscription: 
+        categorie: fun
+        online: oui
+    -
+        name: "Sports Raquettes"
+        age: 8-14 ans
+        img: "/boutonsactivites/extrascolaires/raquettes.png"
+        lieu: 
+            - "Ottignies - Centre Sportif des Coquerées"
+        description: "Cette activité propose une découverte et perfectionnement  pour les amateurs de sports raquettes. Activité idéale pour tous les amateurs de raquettes ou pour les enfants qui désirent découvrir les sports de raquettes. Au programme : Paddle - Badminton - Tennis - Speedminton - Ping-pong"
+        infos: 
+        inscription: 
+        categorie: sportives
+        online: oui
+    -
+        name: "Tennis"
+        age: 6-18 ans
+        img: "/boutonsactivites/extrascolaires/tennis.png"
+        lieu: 
+            - "Ottignies - Club de Tennis TC Ottintois"
+        description: "Cours d’initiation de tennis pour les enfants de 6 à 14 ans. Groupe max de 5 enfants. Le droit d'inscription comprend: cotisation, terrain intérieur, moniteur, balles adaptées (mousse/molle/dure), prêt de raquette et assurance. Pour les enfants de 12 à 18 ans : Cours de perfectionnement de tennis: minimum 2 ans d'expérience. Groupe max de 4 enfants. Le droit d'inscription comprend: cotisation, terrain intérieur, moniteur, balles adaptées (mousse/molle/dure), prêt de raquette et assurance."
+        infos: Cours d'initiation ou perfectionnement
+        inscription: 
+        categorie: sportives
+        online: oui
+    -
+        name: "Théâtre"
+        age: 7-14 ans
+        img: "/boutonsactivites/extrascolaires/theatre.png"
+        lieu: 
+            - "Wavre - Collège Notre-Dame de Basse-Wavre"
+        description: "A l’issue de la formation, l’élève sera capable de se concentrer sur un objectif, avoir confiance en lui/elle, trouver un rythme, un ton, mémoriser un texte imposé, connaître le vocabulaire théâtral et ses règles, connaître les principes de l’impro, les aspects techniques de la scène et enfin, jouer sur scène une courte pièce."
+        infos: Représentation en fin d'année
+        inscription: 
+        categorie: artistiques
+        online: oui
+    -
+        name: "VTT"
+        age: 8-15 ans
+        img: "/boutonsactivites/extrascolaires/vtt.png"
+        lieu: 
+            - "Wavre - Collège Notre-Dame de Basse-Wavre et Ottignies - Centre Sportif des coquerées"
+        description: "Perfectionnement  pour les passionnés de la pratique du VTT. Trip dans les bois, parcours de la région! Le planning pourra être adapté en fonction des conditions météorologiques (en cas de forte intempérie, activité en salle). Maximum 10 enfants par groupe."
+        infos:  Le jeune doit avoir son propre VTT, un casque et une chambre à air de rechange. Il y a deux niveaux deux niveaux - Pro ou Initiation !
+        inscription: 
+        categorie: sportives
+        online: oui
+    -
+        name: "Multi Aqua"
+        age: 5-8 ans
+        img: "/boutonsactivites/extrascolaires/multiaqua.png"
+        lieu: 
+            - "Woluwé-Saint-Pierre - Sport City"
+        description: "Tous les mercredis, vos enfants se consacreront à une heure de piscine et une heure de multisports."
+        infos:  Pour les enfants sachant nager 25 mètres
+        inscription: 
+        categorie: sportives
+        online: 
