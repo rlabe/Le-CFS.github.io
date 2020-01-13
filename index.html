@@ -5,68 +5,52 @@ index: index
 css: 
 js: sliders.js
 ---
-  <!-- sliders -->
-  <div id="sliders">
-    <div class="full-width">
-      <!-- light slider -->
-      <div id="light-slider" class="carousel slide">
-        <div id="carousel-area">
-          <div id="carousel-slider" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-              <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
-              <li data-target="#carousel-slider" data-slide-to="1"></li>
-              <li data-target="#carousel-slider" data-slide-to="2"></li>
-            </ol>
-            <div class="carousel-inner" role="listbox">
-              <div class="carousel-item active">
-                <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559" target="_blank"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/bonneannee2020bis.png" alt=""></a>
-              </div>
-              <div class="carousel-item">
-                <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&Categorie=4&Groupe=1" target="_blank"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/carnavalpaques.png" alt=""></a>
-              </div>
-              <div class="carousel-item">
-                <a href="activites/ecole_de_natation"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/ecoledenatation.png" alt=""></a>
-              </div>
-            </div>
-            <a class="carousel-control-prev" href="#carousel-slider" role="button" data-slide="prev">
-              <span class="carousel-control carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Précédent</span>
-            </a>
-            <a class="carousel-control-next" href="#carousel-slider" role="button" data-slide="next">
-              <span class="carousel-control carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="sr-only">Suivant</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- End sliders -->
+<!-- DESKTOP PAGE -->
+<div class="d-none d-sm-block">
 
-      <!-- 3 blocs de 4 images -->
-      {% include accueil/bloc_bulles.html %}
-      <!-- Fin -->
+  {% include accueil/slider.html %}
 
-    <div class="mb-60"></div>
+  {% include accueil/selection.html %}
 
-    <!-- Banner anniversaire -->
-    {% comment %} La banner est dans accueil/bloc_bulles.html
-    <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt=""></a>
-    {% endcomment %}
-    <!-- End banner anniversaire -->
+  <div class="mb-60"></div>
 
-<div id="img/slider-carousel">
-        <div class="container">
-          <div class="sub-title text-center">
-      <span>Partenaires</span>
-    </div>
-          <div id="image-carousel" class="owl-carousel">
-            {% for partenaire in site.data.partenaires.liste %}
-            <div class="item"><a href="{{ partenaire.href }}" target="_blank"> <img src="{{ partenaire.logo }}" alt="{{ partenaire.name }}"></a></div>
-            {% endfor %}
-          </div>
-        </div>
-      </div>
+  <div class="slogan">Le CFS, à votre service depuis 1981.</div>
 
-<!-- Content area end -->
+  <div class="mb-60"></div>
+
+  {% include accueil/une.html %}
+
+  <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt="Je réserve mon anniversaire"></a>
+
+  {% include accueil/activites.html %}
+
+  {% include accueil/partenaires.html %}
+
 </div>
+<!-- END DESKTOP PAGE -->
+
+<!-- MOBILE PAGE -->
+<div class="d-block d-sm-none">
+
+  {% include accueil/slider.html mobile="oui" %}
+
+  {% include accueil/selection.html %}
+
+  <div class="mb-60"></div>
+
+  <div class="slogan"><strong>Le CFS, à votre service depuis 1981.</strong></div>
+
+  <div class="mb-60"></div>
+
+  {% include accueil/une.html %}
+  
+  <div style="margin: -5% !important">
+    <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt="Je réserve mon anniversaire"></a>
+  </div>
+
+  {% include accueil/activites.html %}
+
+  {% include accueil/partenaires.html %}
+
+</div>
+<!-- END MOBILE PAGE -->

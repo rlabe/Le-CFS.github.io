@@ -1,4 +1,10 @@
-{% assign menu_principal = site.data.menus.brochures %}
+{% capture menu_page %}
+{% case {{ page.menu }} %}{% when 'stages' %}stages_enfants{% endcase %}
+{% endcapture %}
+
+{% capture menu_principal %}
+site.data.menus.{{ menu_page }}
+{% endcapture %}
 
 <section class="blog">
     <div class="container">

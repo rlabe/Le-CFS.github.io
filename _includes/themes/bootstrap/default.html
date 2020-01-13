@@ -35,11 +35,6 @@
     <meta property="og:url" content="{{ BASE_PATH }}">
     <meta name="twitter:card" content="summary_large_image">
 
-	<!--[if IE]>
-		<script type="text/javascript">
-			 var console = { log: function() {} };
-		</script>
-	<![endif]-->
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
     <!-- Google ADS mobile block-->
@@ -54,26 +49,18 @@
     {% endif %}
   </head>
   <body>
-  <div class="wrapper">	  	  
-      <!--Home page style--> 
+
+    <div class="wrapper">
       {% include themes/bootstrap/nav-bar.html %}
-      {% unless page.index %}
-      <!-- breadcrumbs
-      <div class="row">
-        <div class="col-md-5 offset-md-3">
-          {% include breadcrumbs.html %}
-        </div>
-      </div>
-       -->
-      {% endunless %}
-      <!-- titre -->
+
       {% if page.menu %}
       <div class="row">
         <div class="col-md-10 offset-md-1">
           <div class="row">
-            <div class="col-md-9 offset-md-3 col-sm-9 offset-sm-3 col-lg-9 offset-lg-3">
-          {% endif %}
-      <div class="page-header-title">
+            <div class="col-md-9 offset-md-3">
+      {% endif %}
+      
+      <div class="page-header-title" style="padding-bottom: 0px !important^; padding-top: 10px !important;">
         <h2 class="heading-title text-center"
           {% if {{page.url}} contains 'stages/activites/petits_bouts' %}style="color: #98C01E !important;"{% endif %}
           {% if {{page.url}} contains 'stages/activites/decouvertes_sportives_et_culturelles' %}style="color: #0095D5 !important;"{% endif %}
@@ -82,54 +69,99 @@
           {% if {{page.url}} contains 'stages/activites/activites_sportives' %}style="color: #FABB00 !important;"{% endif %}
           {% if {{page.url}} contains 'stages/activites/activites_artistiques_et_loisirs' %}style="color: #E2071B !important;"{% endif %}
         >{{ page.title }}</h2>
+      </div>
+
       {% if page.menu %}
             </div>
           </div>
         </div>
       </div>
       {% endif %}
-        </div>
-      {% include JB/setup %}
-      {% unless page.index %}
-      <div class="row">
-      <div class="col-md-10 offset-md-1">
-      <!-- Content Area Start -->
-      {% endunless %}
-      <div id="content">
-      {% if page.menu %}
-      {% include menus/menu_left_{{ page.menu }}.html %}
-      {% endif %}
 
-      <!-- banner de la page -->
-      {% if page.banner %}
-        <div class="row">
-          <div class="col-md-12">
-            <img src="{{ page.banner }}" alt="{{ page.banner }}" style="border-radius: 15px; height: auto; width: 100%;">
-          </div>
+    </div>
+  
+  {% include JB/setup %}
+
+<!-- DESKTOP -->
+<div class="d-none d-sm-block">
+  
+  {% unless page.index %}
+    <div class="row">
+      <div class="col-md-10 offset-md-1">
+  {% endunless %}
+  <div id="content-desktop">
+
+    {% if page.menu %}
+      {% include menus/menu_left_{{ page.menu }}.html %}
+    {% endif %}
+
+    <!-- banner de la page -->
+    {% if page.banner %}
+      <div class="row">
+        <div class="col-md-12">
+          <img src="{{ page.banner }}" alt="{{ page.banner }}" style="border-radius: 15px; height: auto; width: 100%;">
         </div>
-        <div class="mb-60"></div>
-      {% endif %}
-      <span id="after_menu"></span>
-      {{ content }}
-      
-      {% if page.menu %}
+      </div>
+      <div class="mb-60"></div>
+    {% endif %}
+
+    {{ content }}
+    
+    {% if page.menu %}
       {% include menus/menu_left_end.html %}
-      {% endif %}
-      </div>
-      <!-- Content Area End -->
-      {% unless page.index %}
-      </div>
-      </div>
-      {% endunless %}
-      <br />
-      {% include themes/bootstrap/footer.html %}
+    {% endif %}
+
   </div>
+  <!-- Content Area End -->
+  {% unless page.index %}
+    </div>
+  </div>
+  {% endunless %}
+</div>
+<!-- END DESKTOP -->
+
+<!-- MOBILE -->
+<div class="d-block d-sm-none">
+
+  {% unless page.index %}
+    <div class="row">
+      <div class="col-sm-10 offset-sm-1">
+  {% endunless %}
+  
+  <div id="content-mobile" style="padding-top: 10px !important; padding-bottom: 10px !important;">
+  
+  <!-- banner de la page -->
+  {% if page.banner %}
+    <div class="row">
+      <div class="col-md-12">
+        <img src="{{ page.banner }}" alt="{{ page.banner }}" style="border-radius: 15px; height: auto; width: 100%; margin: -5% !important;">
+      </div>
+    </div>
+  {% endif %}
+  
+  <div style="margin: 5% !important;">
+    {{ content }}
+  </div>
+  
+  {% if page.menu %}
+    {% include menus/menu_left_{{ page.menu }}.html %}
+    {% include menus/menu_left_end.html %}
+  {% endif %}
+  </div>
+  
+  {% unless page.index %}
+    </div>
+  </div>
+  {% endunless %}
+</div>
+<!-- END MOBILE -->
+  
+  {% include themes/bootstrap/footer.html %}
+
   {% include JB/analytics %}
   {% if site.JB.comments.disqus.short_name == true %}
   <script id="dsq-count-scr" src="//{{ site.JB.comments.disqus.short_name }}.disqus.com/count.js" async></script>
   {% endif %}
-
-
 
 
         <!-- JS includes -->
@@ -140,7 +172,7 @@
         <script src="{{ BASE_PATH }}/assets/js/form-validator.min.js"></script>	  
         <script src="{{ BASE_PATH }}/assets/js/contact-form-script.js"></script>
         <script src="{{ BASE_PATH }}/assets/js/jasny-bootstrap.min.js"></script>
-        <script src="{{ BASE_PATH }}/assets/js/jquery.mixitup.js"></script>	  
+        <script src="{{ BASE_PATH }}/assets/js/jquery.mixitup.js"></script>
         <script src="{{ BASE_PATH }}/assets/js/jquery.countTo.js"></script>
         <script src="{{ BASE_PATH }}/assets/js/jquery.easing.min.js"></script>
         <script src="{{ BASE_PATH }}/assets/js/main.js"></script>	

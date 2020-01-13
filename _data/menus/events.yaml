@@ -5,7 +5,16 @@ menu:
 docs:
 
 - title: "Anniversaires"
-  url: /anniversaires/
+  url: /events/anniversaires/
+  sousmenu:
+    - title: À mon domicile 
+      url: /events/anniversaires/domicile
+    - title: Lieu sportif et fun
+      url: /events/anniversaires/lieu_sportif_et_fun/
+    - title: À la piscine
+      url: /events/anniversaires/piscine
+    - title: En savoir plus
+      url: /events/anniversaires/en_savoir_plus
 
 - title: "EVG"
   url: /events/evg/

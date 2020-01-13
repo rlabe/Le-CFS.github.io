@@ -7,7 +7,16 @@
 
   <!-- image carousel -->
     $(document).ready(function() {
-      $("#image-carousel").owlCarousel({
+      $("#image-carousel-desktop").owlCarousel({
+        items: 4,
+        itemsDesktop: [1199, 3],
+        itemsDesktopSmall: [979, 3]
+      });
+
+    });
+
+    $(document).ready(function() {
+      $("#image-carousel-mobile").owlCarousel({
         items: 4,
         itemsDesktop: [1199, 3],
         itemsDesktopSmall: [979, 3]
@@ -26,7 +35,6 @@
     });
 
   <!-- posts carousel 3col -->
-  <script>
     $(document).ready(function() {
       $("#posts-carousel-3col").owlCarousel({
         items: 3,
@@ -37,7 +45,6 @@
     });
 
   <!-- image slider -->
-  <script>
     $(document).ready(function() {
       $("#image-slider").owlCarousel({
         navigation: false, // Show next and prev buttons
@@ -49,7 +56,6 @@
     });
 
   <!-- testimonial carousel -->
-  <script>
     $(document).ready(function() {
       $("#single-testimonial-item").owlCarousel({
         items: 1,
