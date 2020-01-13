@@ -3340,7 +3340,18 @@ ul.nav-tabs li a{
 .panel-group.tabbed .panel-heading .panel-title.collapsed:after{
     float:right
 }
+.slogan{
+    color: white;
+    background-color: #4da5e2;
+    font-size: 28px;
+    padding: 20px;
+    font-style: bold;
+    text-align: center;
+}
 @media (min-width: 768px) and (max-width: 1024px){
+    .mobile{
+        display: none;
+    }
     .fact-title{
         font-size:14px
     }
@@ -3419,6 +3430,9 @@ ul.nav-tabs li a{
     }
 }
 @media (max-width: 640px){
+    .mobile{
+        display: none;
+    }
     .page-header-title .heading-title{
         font-size:24px
     }
@@ -3507,6 +3521,9 @@ ul.nav-tabs li a{
     }
 }
 @media (max-width: 480px){
+    .desktop{
+        display: none;
+    }
     .navbar-brand img{
         max-width:120px
     }
@@ -3608,6 +3625,9 @@ ul.nav-tabs li a{
     }
     .list-group{
         margin-bottom:30px
+    }
+    .slogan{
+        margin: -5%;
     }
 }
 body{
