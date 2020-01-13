@@ -497,8 +497,8 @@ stages:
         age: 8-14 ans
         img: "/stages/activitesfun/aventure.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Le stage Aventure est l'un des stages phares du CFS. Il met au programme des sports et activités ludiques aussi variés que le Laser Game, les New Games, l'escalade, l'escrime et des Escape Game."
-        infos: 
+        description: "<strong>BXL:</strong> Le stage Aventure est l'un des stages phares du CFS. Il met au programme des sports et activités ludiques aussi variés que le Laser Game, les New Games, l’escalade, l’escrime et des Escape Game.<hr><strong>BRT:</strong> Ce stage met au programme des sports aussi variés que le Laser Game, Arrow Game, les New Games et FUN activités ainsi qu’une journée au Parc Aventure de Wavre. La semaine se clôture par des jeux dans les bois et un barbecue."
+        infos: BRT - Prévoir une paire de bottines ainsi que des vêtements adaptés aux activités d’extérieur. Certaines activités demandent un déplacement en navette assuré par nos soins. 
         inscription: 
         categorie: fun
         online: oui
