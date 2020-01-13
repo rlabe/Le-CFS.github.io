@@ -3348,9 +3348,20 @@ ul.nav-tabs li a{
     font-style: bold;
     text-align: center;
 }
+.mobile{
+    display: block;
+}
+.desktop{
+    display: block;
+}
+@media (min-width: 1024px){
+    .mobile{
+        display: none !important;
+    }
+}
 @media (min-width: 768px) and (max-width: 1024px){
     .mobile{
-        display: none;
+        display: none !important;
     }
     .fact-title{
         font-size:14px
@@ -3431,7 +3442,7 @@ ul.nav-tabs li a{
 }
 @media (max-width: 640px){
     .mobile{
-        display: none;
+        display: none !important;
     }
     .page-header-title .heading-title{
         font-size:24px
@@ -3523,6 +3534,9 @@ ul.nav-tabs li a{
 @media (max-width: 480px){
     .desktop{
         display: none;
+    }
+    .mobile{
+        display: block !important;
     }
     .navbar-brand img{
         max-width:120px
