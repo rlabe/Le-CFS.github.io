@@ -377,7 +377,7 @@ stages:
         age: 6-8 ans
         img: "/stages/decouvertesportiveetculturelle/lanta.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocatching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage!"
+        description: "<strong>BXL:</strong> Ce stage propose un menu alléchant: une journée à Aqualibi, des New games, une après-midi à Koezio, une initiation à la moto (via des motos électriques) ainsi que des Escapes Games.<hr><strong>BRT:</strong> Le stage Evasion propose une journée de ski/snowboard au SnowWorld de Peer, une journée au parc d’attraction Walibi (& Aqualibi - n’oubliez pas votre maillot), une journée dédiée à la découverte des New Games (Bubble soccer, Vortex) et une journée à la patinoire de Leuven. La semaine se termine par des jeux dans les bois (chasse à l’homme, Stratégo géant...) et par un barbecue."
         infos: 
         inscription: 
         categorie: decouvertes
@@ -494,7 +494,7 @@ stages:
         stage_une:
     -
         name: "Aventure"
-        age: 8-14 ans
+        age: 8-12 ans
         img: "/stages/activitesfun/aventure.png"
         lieu: "Bruxelles - Brabant Wallon"
         description: "<strong>BXL:</strong> Le stage Aventure est l'un des stages phares du CFS. Il met au programme des sports et activités ludiques aussi variés que le Laser Game, les New Games, l’escalade, l’escrime et des Escape Game.<hr><strong>BRT:</strong> Ce stage met au programme des sports aussi variés que le Laser Game, Arrow Game, les New Games et FUN activités ainsi qu’une journée au Parc Aventure de Wavre. La semaine se clôture par des jeux dans les bois et un barbecue."
@@ -518,7 +518,7 @@ stages:
         stage_une:
     -
         name: "Evasion"
-        age: 10-16 ans
+        age: Bruxelles 10-14 ans / Brabant 10-16 ans
         img: "/stages/activitesfun/evasion.png"
         lieu: "Bruxelles - Brabant Wallon"
         description: "<strong>BXL:</strong> Ce stage propose un menu alléchant: une journée à Aqualibi, des New games, une après-midi à Koezio, une initiation à la moto (via des motos électriques) ainsi que des Escapes Games.<hr><strong>BRT:</strong> Le stage Evasion propose une journée de ski/snowboard au SnowWorld de Peer, une journée au parc d’attraction Walibi (& Aqualibi - n’oubliez pas votre maillot), une journée dédiée à la découverte des New Games (Bubble soccer, Vortex) et une journée à la patinoire de Leuven. La semaine se termine par des jeux dans les bois (chasse à l’homme, Stratégo géant...) et par un barbecue."
@@ -581,7 +581,7 @@ stages:
         age: 8-12 ans 
         img: "/stages/activitesfun/lanta.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocatching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage !"
+        description: "Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocaching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage !"
         infos: 
         inscription: 
         categorie: fun
