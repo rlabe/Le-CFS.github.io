@@ -5,8 +5,6 @@ index: index
 css: 
 js: sliders.js
 ---
-<!-- DESKTOP PAGE -->
-<div class="d-none d-sm-block">
 
   {% include accueil/slider.html %}
 
@@ -20,37 +18,14 @@ js: sliders.js
 
   {% include accueil/une.html %}
 
-  <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt="Je réserve mon anniversaire"></a>
+  <div class="desktop">
+    <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt="Je réserve mon anniversaire"></a>
+  </div>
 
-  {% include accueil/activites.html %}
-
-  {% include accueil/partenaires.html %}
-
-</div>
-<!-- END DESKTOP PAGE -->
-
-<!-- MOBILE PAGE -->
-<div class="d-block d-sm-none">
-
-  {% include accueil/slider.html mobile="oui" %}
-
-  {% include accueil/selection.html %}
-
-  <div class="mb-60"></div>
-
-  <div class="slogan"><strong>Le CFS, à votre service depuis 1981.</strong></div>
-
-  <div class="mb-60"></div>
-
-  {% include accueil/une.html %}
-  
-  <div style="margin: -5% !important">
+  <div class="mobile" style="margin: -5% !important">
     <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt="Je réserve mon anniversaire"></a>
   </div>
 
   {% include accueil/activites.html %}
 
   {% include accueil/partenaires.html %}
-
-</div>
-<!-- END MOBILE PAGE -->
