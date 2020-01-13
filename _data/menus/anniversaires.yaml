@@ -13,5 +13,8 @@ docs:
 - title: "À la piscine"
   url: /anniversaires/piscine/
 
+- title: "Réservation"
+  url: /anniversaires/reservation/
+
 - title: "En savoir plus"
   url: /anniversaires/en_savoir_plus/
