@@ -857,7 +857,7 @@ stages:
         age: 10-16 ans
         img: "/stages/activitessportives/parkour.png"
         lieu: "Brabant Wallon"
-        description: "Coming soon."
+        description: "Cette discipline utilise le corps pour seul outil. Face à des obstacles naturels, ce sont les habilités motrices qui servent de support à l'activité. Courses, sauts, grimpes, exercices d'équilibre et de suspension sont au programme."
         infos: 
         inscription: 
         categorie: sportives
@@ -929,7 +929,7 @@ stages:
         age: 7-14 ans
         img: "/stages/activitessportives/selfdefense.png"
         lieu: "Brabant Wallon"
-        description: "Coming soon."
+        description: "Durant ce stage, l'accent sera mis sur la maîtrise de soi, le respect de l'autre et l'art de se défendre en toute simplicité."
         infos: 
         inscription: 
         categorie: sportives
@@ -950,10 +950,10 @@ stages:
         stage_une:
     -
         name: "Tennis"
-        age: 7-16 ans
+        age: Bruxelles 7-14 ans / Brabant 7-16 ans
         img: "/stages/activitessportives/tennis.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Coming soon."
+        description: "<strong>BRUXELLES:</strong> Apprentissage ou perfectionnement des coups à plats, slicés, liftés et la prise de revers au service. Les enfants sont répartis par  âge et par niveau (max. 8 enfants/groupe). La journée est divisée en 3 périodes de tennis et une période de multisports.<hr><strong>BRABANT:</strong> Apprentissage ou perfectionnement des coups à plat, slicés, liftés et la pris de revers au service. a journée est divisée en 3 périodes de tennis et 1 période de multisports. Les enfants sont répartis en fonction de l'âge et du niveau (max. 8 enfants/groupe)."
         infos: 
         inscription: 
         categorie: sportives
