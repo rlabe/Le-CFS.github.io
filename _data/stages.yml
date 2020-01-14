@@ -281,7 +281,19 @@ stages:
         age: 4-7 ans
         img: "/stages/decouvertesportiveetculturelle/cirquemomes.png"
         lieu: "Brabant Wallon"
-        description: "Coming soon."
+        description: "Durant ce stage, les enfants sont amenés à découvrir la variété des arts du cirque au travers de différents jeux : apprendre à jongler avec toutes sortes d'objets, s’amuser entre équilibre et déséquilibre sur une boule, un rola bola ou encore un câble, construire des pyramides humaines ensemble et s’essayer au clown de théâtre ! Une semaine pleine de découvertes, de rires et de bons souvenirs ! En fin de stage, un spectacle, basé sur les activités menées pendant la semaine, est présenté aux parents."
+        infos: 
+        inscription: 
+        categorie: decouvertes
+        online: oui
+        nouveau: oui
+        stage_une:
+    -
+        name: "Cirque"
+        age: 9-14 ans
+        img: "/stages/decouvertesportiveetculturelle/cirque.png"
+        lieu: "Bruxelles"
+        description: "Ce stage propose l’approche de diverses disciplines issues du monde du cirque : équilibre (câbles, échasses, monocycle), acrobatie (pyramides, trampoline et trapèze), jonglerie (foulards, balles, quilles), adresse (diabolos, bâtons du diable)."
         infos: 
         inscription: 
         categorie: decouvertes
@@ -305,7 +317,7 @@ stages:
         age: 5-7 ans
         img: "/stages/decouvertesportiveetculturelle/psychomusique.png"
         lieu: "Brabant Wallon"
-        description: "Coming soon."
+        description: "Ce stage propose une initiation aux sports ballons, raquettes et jeux collectifs pendant une demi-journée. L'autre demi-journée est consacrée à des activités musicales tant sur l'écoute de sons que la manipulation d'instruments."
         infos: 
         inscription: 
         categorie: decouvertes
@@ -389,7 +401,7 @@ stages:
         age: 4-6 ans
         img: "/stages/decouvertesportiveetculturelle/princessesetpirates.png"
         lieu: Bruxelles
-        description: "Coming soon."
+        description: "Ce stage permet aux enfants d’entrer dans le monde magique des contes de fées, de mettre en scène des histoires féeriques, de faire du bricolage et des dessins sur ce thème, de se déguiser, de danser sur les chansons préférées des princesses & pirates. Les enfants peuvent venir au stage avec un déguisement (dans un sac). Il faut prévoir une tenue adaptée en cas de bricolages et peintures."
         infos: 
         inscription: 
         categorie: decouvertes
