@@ -7,7 +7,7 @@
 activites:
     -
         name: "Psycho Découverte"
-        age: 2-3 ans
+        age: 3-4 ans
         img: "/boutonsactivites/extrascolaires/psychodecouverte.png"
         lieu: 
             - "Laeken - Institut Christ-Roi"
@@ -18,7 +18,7 @@ activites:
         online: oui
     -
         name: "Psycho Grimpette"
-        age: 2-3 ans
+        age: 3-4 ans
         img: "/boutonsactivites/extrascolaires/psychogrimpette.png"
         lieu: 
             - "Jette - Salle Omnisport"
