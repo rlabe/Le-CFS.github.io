@@ -281,7 +281,19 @@ stages:
         age: 4-7 ans
         img: "/stages/decouvertesportiveetculturelle/cirquemomes.png"
         lieu: "Brabant Wallon"
-        description: "Coming soon."
+        description: "Durant ce stage, les enfants sont amenés à découvrir la variété des arts du cirque au travers de différents jeux : apprendre à jongler avec toutes sortes d'objets, s’amuser entre équilibre et déséquilibre sur une boule, un rola bola ou encore un câble, construire des pyramides humaines ensemble et s’essayer au clown de théâtre ! Une semaine pleine de découvertes, de rires et de bons souvenirs ! En fin de stage, un spectacle, basé sur les activités menées pendant la semaine, est présenté aux parents."
+        infos: 
+        inscription: 
+        categorie: decouvertes
+        online: oui
+        nouveau: oui
+        stage_une:
+    -
+        name: "Cirque"
+        age: 9-14 ans
+        img: "/stages/decouvertesportiveetculturelle/cirque.png"
+        lieu: "Bruxelles"
+        description: "Ce stage propose l’approche de diverses disciplines issues du monde du cirque : équilibre (câbles, échasses, monocycle), acrobatie (pyramides, trampoline et trapèze), jonglerie (foulards, balles, quilles), adresse (diabolos, bâtons du diable)."
         infos: 
         inscription: 
         categorie: decouvertes
@@ -293,8 +305,8 @@ stages:
         age: 5-7 ans
         img: "/stages/decouvertesportiveetculturelle/decsportive.png"
         lieu: "Brabant Wallon"
-        description: "Coming soon."
-        infos: 
+        description: "Ce stage propose un premier contact avec le sport et les jeux collectifs, par lesquels votre enfant développe les différentes facettes de la motricité, le respect des règles et la vie en groupe. Ce stage propose une initiation aux sports ballons, raquettes, jeux collectifs et aux New Games (Uni Hoc, Base-Ball, Kinball et Badminton)."
+        infos: A Rixensart, ces activités sportives sont combinées avec des activités en piscine.
         inscription: 
         categorie: decouvertes
         online: oui
@@ -305,7 +317,7 @@ stages:
         age: 5-7 ans
         img: "/stages/decouvertesportiveetculturelle/psychomusique.png"
         lieu: "Brabant Wallon"
-        description: "Coming soon."
+        description: "Ce stage propose une initiation aux sports ballons, raquettes et jeux collectifs pendant une demi-journée. L'autre demi-journée est consacrée à des activités musicales tant sur l'écoute de sons que la manipulation d'instruments."
         infos: 
         inscription: 
         categorie: decouvertes
@@ -377,7 +389,7 @@ stages:
         age: 6-8 ans
         img: "/stages/decouvertesportiveetculturelle/lanta.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "<strong>BXL:</strong> Ce stage propose un menu alléchant: une journée à Aqualibi, des New games, une après-midi à Koezio, une initiation à la moto (via des motos électriques) ainsi que des Escapes Games.<hr><strong>BRT:</strong> Le stage Evasion propose une journée de ski/snowboard au SnowWorld de Peer, une journée au parc d’attraction Walibi (& Aqualibi - n’oubliez pas votre maillot), une journée dédiée à la découverte des New Games (Bubble soccer, Vortex) et une journée à la patinoire de Leuven. La semaine se termine par des jeux dans les bois (chasse à l’homme, Stratégo géant...) et par un barbecue."
+        description: "<strong>BRUXELLES:</strong> Ce stage propose un menu alléchant: une journée à Aqualibi, des New games, une après-midi à Koezio, une initiation à la moto (via des motos électriques) ainsi que des Escapes Games.<hr><strong>BRABANT:</strong> Le stage Evasion propose une journée de ski/snowboard au SnowWorld de Peer, une journée au parc d’attraction Walibi (& Aqualibi - n’oubliez pas votre maillot), une journée dédiée à la découverte des New Games (Bubble soccer, Vortex) et une journée à la patinoire de Leuven. La semaine se termine par des jeux dans les bois (chasse à l’homme, Stratégo géant...) et par un barbecue."
         infos: 
         inscription: 
         categorie: decouvertes
@@ -389,7 +401,7 @@ stages:
         age: 4-6 ans
         img: "/stages/decouvertesportiveetculturelle/princessesetpirates.png"
         lieu: Bruxelles
-        description: "Coming soon."
+        description: "Ce stage permet aux enfants d’entrer dans le monde magique des contes de fées, de mettre en scène des histoires féeriques, de faire du bricolage et des dessins sur ce thème, de se déguiser, de danser sur les chansons préférées des princesses & pirates. Les enfants peuvent venir au stage avec un déguisement (dans un sac). Il faut prévoir une tenue adaptée en cas de bricolages et peintures."
         infos: 
         inscription: 
         categorie: decouvertes
@@ -497,8 +509,8 @@ stages:
         age: 8-12 ans
         img: "/stages/activitesfun/aventure.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "<strong>BXL:</strong> Le stage Aventure est l'un des stages phares du CFS. Il met au programme des sports et activités ludiques aussi variés que le Laser Game, les New Games, l’escalade, l’escrime et des Escape Game.<hr><strong>BRT:</strong> Ce stage met au programme des sports aussi variés que le Laser Game, Arrow Game, les New Games et FUN activités ainsi qu’une journée au Parc Aventure de Wavre. La semaine se clôture par des jeux dans les bois et un barbecue."
-        infos: BRT - Prévoir une paire de bottines ainsi que des vêtements adaptés aux activités d’extérieur. Certaines activités demandent un déplacement en navette assuré par nos soins. 
+        description: "<strong>BRUXELLES:</strong> Le stage Aventure est l'un des stages phares du CFS. Il met au programme des sports et activités ludiques aussi variés que le Laser Game, les New Games, l’escalade, l’escrime et des Escape Game.<hr><strong>BRABANT:</strong> Ce stage met au programme des sports aussi variés que le Laser Game, Arrow Game, les New Games et FUN activités ainsi qu’une journée au Parc Aventure de Wavre. La semaine se clôture par des jeux dans les bois et un barbecue."
+        infos: BRABANT - Prévoir une paire de bottines ainsi que des vêtements adaptés aux activités d’extérieur. Certaines activités demandent un déplacement en navette assuré par nos soins. 
         inscription: 
         categorie: fun
         online: oui
@@ -521,7 +533,7 @@ stages:
         age: Bruxelles 10-14 ans / Brabant 10-16 ans
         img: "/stages/activitesfun/evasion.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "<strong>BXL:</strong> Ce stage propose un menu alléchant: une journée à Aqualibi, des New games, une après-midi à Koezio, une initiation à la moto (via des motos électriques) ainsi que des Escapes Games.<hr><strong>BRT:</strong> Le stage Evasion propose une journée de ski/snowboard au SnowWorld de Peer, une journée au parc d’attraction Walibi (& Aqualibi - n’oubliez pas votre maillot), une journée dédiée à la découverte des New Games (Bubble soccer, Vortex) et une journée à la patinoire de Leuven. La semaine se termine par des jeux dans les bois (chasse à l’homme, Stratégo géant...) et par un barbecue."
+        description: "<strong>BRUXELLES:</strong> Ce stage propose un menu alléchant: une journée à Aqualibi, des New games, une après-midi à Koezio, une initiation à la moto (via des motos électriques) ainsi que des Escapes Games.<hr><strong>BRABANT:</strong> Le stage Evasion propose une journée de ski/snowboard au SnowWorld de Peer, une journée au parc d’attraction Walibi (& Aqualibi - n’oubliez pas votre maillot), une journée dédiée à la découverte des New Games (Bubble soccer, Vortex) et une journée à la patinoire de Leuven. La semaine se termine par des jeux dans les bois (chasse à l’homme, Stratégo géant...) et par un barbecue."
         infos: Certaines activités demandent un déplacement en car ou en transport en commun assurés par nos soins.
         inscription: 
         categorie: fun
@@ -557,7 +569,7 @@ stages:
         age: 10-16 ans
         img: "/stages/activitesfun/funvtt.png"
         lieu: "Bruxelles"
-        description: "Coming soon."
+        description: "Le Stage Fun VTT propose aux Jeunes 2 jours de VTT (Prévoir son VTT et Casques) une journée de Laser Game une journée au Parc Trampoline Jump XL (pas en Pâques 2) et une journée de Painball et initation a la moto (électrique)."
         infos: 
         inscription: 
         categorie: fun
@@ -665,7 +677,7 @@ stages:
         age: 7-12 ans
         img: "/stages/activitessportives/aquafun.png"
         lieu: "Brabant Wallon"
-        description: "Coming soon."
+        description: "Pour les jeunes sachant nager 50m: jeux nautiques, techniques de sauvetage et nage avec palmes. 2h de piscine et 4h de multisports par jour."
         infos: 
         inscription: 
         categorie: sportives
@@ -734,10 +746,10 @@ stages:
         stage_une:
     -
         name: "Football Euro 2020"
-        age: 5-14 ans
+        age: Bruxelles 7-14 ans / Brabant 5-14 ans
         img: "/stages/activitessportives/footballeuro2020.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Coming soon."
+        description: "<strong>BRUXELLES:</strong> Apprentissage des 4 thèmes fondamentaux (contrôle de balle, passe, dribble et tir au but), psychomotricité et coordination des membre, développement des qualités morales indispensables à l’équilibre du jeune footballeur, assimilation du respect du jeu et du FAIR-PLAY. Un grand tournoi est organisé en fin de semaine.<hr><strong>BRABANT:</strong> Notre Ecole de Football vous propose un stage entièrement dédié au football et dirigé par des entraîneurs dîplomés de l'URBFSA. Au programme : apprentissage des 4 thèmes fondamentaux (contrôle de balle, passe, drible et tir au but), psychomotricité et coordination des membres, développement des qualités morales indispensables à l'équilibre du jeune footballeur, assimilation et respect du jeu. En fin de stage : grand tournoi, debriefing, évaluation et remise de dîplome."
         infos: 
         inscription: 
         categorie: sportives
@@ -793,6 +805,18 @@ stages:
         nouveau:
         stage_une:
     -
+        name: "Futsal Euro 2020"
+        age: 6-14 ans
+        img: "/stages/activitessportives/futsal2020.png"
+        lieu: "Bruxelles"
+        description: "Apprentissage des 4 thèmes fondamentaux (contrôle de balle, passe, dribble et tir au but), psychomotricité et coordination des membre, développement des qualités morales indispensables à l’équilibre du jeune footballeur, assimilation du respect du jeu et du FAIR-PLAY. Un grand tournoi est organisé en fin de semaine."
+        infos: "Stage en collaboration avec CB Futsal Jette Bxl Cap"
+        inscription: 
+        categorie: sportives
+        online: oui
+        nouveau: oui
+        stage_une:
+    -
         name: "Mini-Foot"
         age: 6-12 ans
         img: "/stages/activitessportives/minifoot.png"
@@ -833,7 +857,7 @@ stages:
         age: 10-16 ans
         img: "/stages/activitessportives/parkour.png"
         lieu: "Brabant Wallon"
-        description: "Coming soon."
+        description: "Cette discipline utilise le corps pour seul outil. Face à des obstacles naturels, ce sont les habilités motrices qui servent de support à l'activité. Courses, sauts, grimpes, exercices d'équilibre et de suspension sont au programme."
         infos: 
         inscription: 
         categorie: sportives
@@ -905,7 +929,7 @@ stages:
         age: 7-14 ans
         img: "/stages/activitessportives/selfdefense.png"
         lieu: "Brabant Wallon"
-        description: "Coming soon."
+        description: "Durant ce stage, l'accent sera mis sur la maîtrise de soi, le respect de l'autre et l'art de se défendre en toute simplicité."
         infos: 
         inscription: 
         categorie: sportives
@@ -926,10 +950,10 @@ stages:
         stage_une:
     -
         name: "Tennis"
-        age: 7-16 ans
+        age: Bruxelles 7-14 ans / Brabant 7-16 ans
         img: "/stages/activitessportives/tennis.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Coming soon."
+        description: "<strong>BRUXELLES:</strong> Apprentissage ou perfectionnement des coups à plats, slicés, liftés et la prise de revers au service. Les enfants sont répartis par  âge et par niveau (max. 8 enfants/groupe). La journée est divisée en 3 périodes de tennis et une période de multisports.<hr><strong>BRABANT:</strong> Apprentissage ou perfectionnement des coups à plat, slicés, liftés et la pris de revers au service. a journée est divisée en 3 périodes de tennis et 1 période de multisports. Les enfants sont répartis en fonction de l'âge et du niveau (max. 8 enfants/groupe)."
         infos: 
         inscription: 
         categorie: sportives
