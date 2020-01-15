@@ -755,13 +755,13 @@ stages:
         categorie: sportives
         online: oui
         nouveau: oui
-        stage_une: oui
+        stage_une: 
     -
         name: "Football Euro 2020"
         age: 5-14 ans
         img: "/stages/euro20202.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Coming soon."
+        description: "<strong>BRUXELLES:</strong> Apprentissage des 4 thèmes fondamentaux (contrôle de balle, passe, dribble et tir au but), psychomotricité et coordination des membre, développement des qualités morales indispensables à l’équilibre du jeune footballeur, assimilation du respect du jeu et du FAIR-PLAY. Un grand tournoi est organisé en fin de semaine.<hr><strong>BRABANT:</strong> Notre Ecole de Football vous propose un stage entièrement dédié au football et dirigé par des entraîneurs dîplomés de l'URBFSA. Au programme : apprentissage des 4 thèmes fondamentaux (contrôle de balle, passe, drible et tir au but), psychomotricité et coordination des membres, développement des qualités morales indispensables à l'équilibre du jeune footballeur, assimilation et respect du jeu. En fin de stage : grand tournoi, debriefing, évaluation et remise de dîplome."
         infos: 
         inscription: 
         categorie: sportives
@@ -1079,13 +1079,13 @@ stages:
         categorie: artistiques
         online: oui
         nouveau: oui
-        stage_une: oui
+        stage_une:
     -
         name: "Débrouillard"
         age: 10-13 ans
         img: "/stages/debrouillard2.png"
         lieu: "Brabant Wallon"
-        description: "Coming soon."
+        description: "Aider un enfant à se débrouiller dans la vie de tous les jours. Une semaine de stage avec 10 ateliers pédagogiques mais sous forme de jeux. Les enfants pourront reprendre leurs petits carnet en fin de stage. Voici les thèmes abordés lors de ce stage: Entretenir et réparer son vélo / trottinette, les premiers secours, faire des nœuds et construire un abri, bricolage  notion d’outils et d’électricité, cuisiner, allumer et éteindre un feu, retrouver son chemin, s’orienter et lire une carte, escalader."
         infos: 
         inscription: 
         categorie: artistiques
