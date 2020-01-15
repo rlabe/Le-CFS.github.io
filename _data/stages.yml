@@ -755,7 +755,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau: oui
-        stage_une: 
+        stage_une: oui
     -
         name: "Football Euro 2020"
         age: 5-14 ans
@@ -989,7 +989,7 @@ stages:
         age: 6-14 ans
         img: "/stages/activitesartistiquesetloisirs/apprentisavant.png"
         lieu: "Bruxelles"
-        description: "Coming soon."
+        description: "Lors de ce stage, nos petits scientifiques vont découvrir par des petites expériences physiques, chimiques et biologiques le monde des sciences. La journée est composée de 3h de sciences et 3h de sport."
         infos: 
         inscription: 
         categorie: artistiques
@@ -1049,7 +1049,7 @@ stages:
         age: 8-16 ans
         img: "/stages/activitesartistiquesetloisirs/comediemusicale.png"
         lieu: "Brabant Wallon"
-        description: "Coming soon."
+        description: "Ce stage propose une combinaison de danses, chants et jeux de rôles sous forme théâtrale. Echauffement, exercices de vocalise, création de petites scénettes sont au programme. Spectacle en fin de semaine à ne pas manquer!"
         infos: 
         inscription: 
         categorie: artistiques
@@ -1073,13 +1073,13 @@ stages:
         age: 10-13 ans
         img: "/stages/activitesartistiquesetloisirs/debrouillard.png"
         lieu: "Brabant Wallon"
-        description: "Coming soon."
+        description: "Aider un enfant à se débrouiller dans la vie de tous les jours. Une semaine de stage avec 10 ateliers pédagogiques mais sous forme de jeux. Les enfants pourront reprendre leurs petits carnet en fin de stage. Voici les thèmes abordés lors de ce stage: Entretenir et réparer son vélo / trottinette, les premiers secours, faire des nœuds et construire un abri, bricolage  notion d’outils et d’électricité, cuisiner, allumer et éteindre un feu, retrouver son chemin, s’orienter et lire une carte, escalader."
         infos: 
         inscription: 
         categorie: artistiques
         online: oui
         nouveau: oui
-        stage_une: 
+        stage_une: oui
     -
         name: "Débrouillard"
         age: 10-13 ans
@@ -1169,7 +1169,7 @@ stages:
         age: 8-14 ans
         img: "/stages/activitesartistiquesetloisirs/magietcirque.png"
         lieu: "Brabant Wallon"
-        description: "Coming soon."
+        description: "Ce stage propose, d'une part, l’approche de diverses disciplines issues du monde du cirque : équilibre (échasses, monocycle), acrobatie (pyramides, trampoline), jonglerie (foulards, balles, quilles) et adresse (diabolos, bâtons du diable). D'autre part, concernant la partie « magie », les enfants sont rassemblés par petit groupe pour apprendre à maîtriser les tours selon leur niveau d’habilité et de concentration!"
         infos: 
         inscription: 
         categorie: artistiques
@@ -1301,7 +1301,7 @@ stages:
         age: 10-14 ans
         img: "/stages/activitesartistiquesetloisirs/videoreportage.png"
         lieu: "Bruxelles"
-        description: "Coming soon."
+        description: "Stage mêlant le jeu d'acteur, la vidéo (prise avec des appareils photos numériques) et une approche du vidéo-montage (sur pc, durant deux après-midis). Par petits groupes, les participants réalisent une vidéo composée de reportages, lipdubs, clips, émissions TV et/ou sketches. Après l'écriture des scénarios, place au tournage des scènes. La troisième partie du stage est consacrée au montage des séquences sur pc (montage vidéo simple, son et titrages, etc.). Matériel fourni : un appareil numérique et un ordinateur pour 4 stagiaires (le double pour 8 et le triple pour 12)."
         infos: 
         inscription: 
         categorie: artistiques
