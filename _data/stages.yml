@@ -18,7 +18,7 @@ stages:
         img: "/stages/lespetitsbouts/prepsycho.png"
         lieu: "Bruxelles - Brabant Wallon"
         description: "Ce stage propose un éveil psychomoteur adapté aux plus petits. Par le jeu, les enfants vont apprendre à percevoir leur corps et à coordonner leurs membres. Une sieste est prévue et encadrée."
-        infos: "Attention, il n'y a pas de garderie pour ce stage. Il faut apporter un lange de rechange si nécessaire."
+        infos: "Attention, il n'y a pas de garderie pour ce stage. Il faut apporter un lange de rechange si nécessaire. Prévoyez également une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online: oui
@@ -30,7 +30,7 @@ stages:
         img: "/stages/lespetitsbouts/psychodecouverte.png"
         lieu: "Bruxelles - Brabant Wallon"
         description: "Ce stage propose un mélange de différentes facettes de la psychomotricité : jeux de coopération, parcours d'adresse, exercices de latéralité, éveil artistique, découverte de la nature environnante et du rythme."
-        infos: 
+        infos: "Prévoir une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online: oui
@@ -42,7 +42,7 @@ stages:
         img: "/stages/lespetitsbouts/psychogrimpette.png"
         lieu: "Bruxelles - Brabant Wallon"
         description: "Ce stage vise le développement d'aspects essentiels de la motricité tels que l'audace, l'équilibre et le 'grimper' chez l'enfant (espaliers, parcours d'obstacles, etc.). Le reste de la journée est consacrée à des activités de psychomotricité."
-        infos: 
+        infos: "Prévoir une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online: oui
@@ -54,7 +54,7 @@ stages:
         img: "/stages/lespetitsbouts/psychoaqua.png"
         lieu: "Brabant Wallon"
         description: "Ce stage de psychomotricité est agrémenté, quotidiennement, d'une heure d'accoutumance à l'eau. Une aubaine pour les petits qui auront l'occasion de faire connaissance avec les joies de la piscine, en toute sécurité."
-        infos: "Bonnet de bain obligatoire"
+        infos: "Bonnet de bain obligatoire. Prévoyez également une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online: oui
@@ -66,7 +66,7 @@ stages:
         img: "/stages/lespetitsbouts/psychonatation.png"
         lieu: "Brabant Wallon"
         description: "Apprentissage des mouvements de base de la natation par le biais d'activités ludiques (1h/j). Accoutumance au milieu aquatique dans une ambiance décontractée. En piscine, 2 moniteurs pour 6 enfants. Le reste de la journée est consacré à des activités de psychomotricité. NB : Les enfants doivent être propres. Sinon, nous vous conseillons de les inscrire en pré-psycho."
-        infos: "Dès le premier jour, prévoir maillot, bonnet et essuie de bain."
+        infos: "Dès le premier jour, prévoir maillot, bonnet et essuie de bain. Prévoyez également une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online: oui
@@ -78,7 +78,7 @@ stages:
         img: "/stages/lespetitsbouts/psychomusique.png"
         lieu: "Brabant Wallon"
         description: "Découverte du rythme par le biais d'exercices ciblant l'éveil musical ainsi que la manipulation d'instruments basiques. Le reste de la journée est consacré à des activités de psychomotricité."
-        infos: 
+        infos: "Prévoir une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online:
@@ -90,7 +90,7 @@ stages:
         img: "/stages/lespetitsbouts/psychonature.png"
         lieu: "Brabant Wallon"
         description: "Chaque matin, les enfants partiront dans les alentours de leur centre : découverte et sensibilisation à la nature seront au programme de leur balade. Une fois revenus, ils réaliseront un bricolage avec les richesses ramenées lors de leur expédition. A chaque jour son nouveau thème ! Le reste de la journée est consacré à des activités de psychomotricité."
-        infos: 
+        infos: "Prévoir une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online: oui
@@ -102,7 +102,7 @@ stages:
         img: "/stages/lespetitsbouts/psychosport.png"
         lieu: "Bruxelles"
         description: "Votre enfant souhaite découvrir des activités sportives? Le stage de psycho sport permet une transition idéale entre la psychomotricité et la découverte sportive! Durant la semaine, les enfants s’initient à différents sports individuels, collectifs et gymniques de manière ludique afin qu’ils progressent à leur rythme tout en respectant leur développement moteur. Le reste de la journée est consacré à un mélange des différentes activités du stage « psycho découverte »."
-        infos: 
+        infos: "Prévoir une tenue adaptée en cas de bricolages et peintures."
         inscription:
         categorie: bouts
         online: oui
@@ -114,7 +114,7 @@ stages:
         img: "/stages/lespetitsbouts/psychovelo.png"
         lieu: "Brabant Wallon"
         description: "Initiation au vélo via des exercices d'équilibre et de prise de confiance. Les règles de sécurité sont abordées. Le CFS met ses Balance Bikes à disposition. L'enfant peut aussi apporter son propre vélo."
-        infos: 
+        infos: "Prévoir une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online: oui
@@ -126,7 +126,7 @@ stages:
         img: "/stages/lespetitsbouts/psychobricolage.png"
         lieu: "Brabant Wallon"
         description: "Un stage de psychomotricité qui sera agrémenté quotidiennement d'un éveil artistique par le biais du bricolage et de la peinture."
-        infos: 
+        infos: "Prévoir une tenue adaptée pour le bricolage et la peinture."
         inscription: 
         categorie: bouts
         online: oui
@@ -138,7 +138,7 @@ stages:
         img: "/stages/lespetitsbouts/psychocuisine.png"
         lieu: Brabant Wallon
         description: "Ce stage est agrémenté, quotidiennement, de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité."
-        infos: 
+        infos: "Prévoir une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online: 
