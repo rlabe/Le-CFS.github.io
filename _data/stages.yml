@@ -41,7 +41,7 @@ stages:
         age: 3-4 ans
         img: "/stages/lespetitsbouts/psychogrimpette.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Ce stage vise le développement d'aspects essentiels de la motricité tels que l'audace, l'équilibre et le 'grimper' chez l'enfant (espaliers, parcours d'obstacles, etc.). Le reste de la journée est consacrée à des activités de psychomotricité."
+        description: "<strong>BRUXELLES:</strong> Ce stage propose une séance de grimpette chaque jour afin de développer chez l’enfant des facettes essentielles de la motricité telles que l’audace, l’équilibre et le « GRIMPER ». Le reste de la journée est consacré à un mix des différentes activités du stage « Psycho Découverte ». Les stages pour les plus petits tendent au développement harmonieux des enfants au travers d’activités adaptées à leur âge. L’enfant développe de nouvelles aptitudes tout en jouant : il apprend les règles du jeu et de groupe, développe sa sociabilité et explore les différentes facettes de la motricité. Le rythme de l’enfant est respecté et une sieste est prévue pour les enfants qui en ont besoin. Il y a maximum 12 enfants par groupe (8 enfants pour la Pré-Psychomotricité). Pour chaque stage, il y a une base commune de psychomotricité (jeux de coopération,parcours d’adresse, d’audace, exercices de latéralité) et bien sûr un apprentissage spécifique en fonction du thème proposé. Il est demandé aux parents de prévoir un sac avec une tenue de rechange pour leur enfant. Pour les stages commençant à 3 ans (PSYCHO) : les enfants doivent être propres. Le cas échéant, il faut inscrire votre petit-bout en pré-psycho.<hr><strong>BRABANT:</strong> Ce stage vise le développement des capacités d'audace et d'équilibre chez nos petits bouts. Ils grimpent sur des espaliers, des parcours d'obstacles ainsi que sur notre nouveau mur d'escalade gonflable ! Le reste de la journée est consacré à de la psychomotricité."
         infos: "Prévoir une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
@@ -245,7 +245,7 @@ stages:
         age: 4-6 ans
         img: "/stages/decouvertesportiveetculturelle/babyponey.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Ce stage est une pleine participation à la vie du manège : soins aux poneys et bien sûr, initiation à l'équitation."
+        description: "<strong>BRUXELLES:</strong> Stage en partenariat avec Le Manège à Winterjumping à Asse. Ce stage est une pleine participation à la vie du manège : soins aux poneys et bien sûr, initiation à l'équitation.<hr><strong>BRABANT:</strong> Stage en partenariat avec le Manège Horse's Corner de Bierges. Pour les plus petits, nous commençons par leur enseigner les bases nécessaires à une bonne tenue en selle. Les enfants progressent grâce à une pédagogie par le jeu. L'enfant développe une relation privilégiée avec son poney tout au long du stage. Les enfants se préparent également pour l'examen Licol. Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue large) et des bottes. Le manège met à disposition tout le matériel adéquat pour les petits cavaliers."
         infos: 
         inscription: 
         categorie: decouvertes
@@ -590,10 +590,10 @@ stages:
         stage_une:
     -
         name: "Koh Lanta"
-        age: 8-12 ans 
+        age: Bruxelles 9-12 ans / Brabant 8-12 ans 
         img: "/stages/activitesfun/lanta.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocaching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage !"
+        description: "<strong>BRUXELLES:</strong> Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocaching et jeux d’escape Games. La semaine est agrémentée d'une journée inoubliable au Parc Aventure de Wavre. Fair-Play et esprit de coopération sont requis pour ce stage !<hr><strong>BRABANT:</strong> Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocatching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage !"
         infos: 
         inscription: 
         categorie: fun
@@ -602,10 +602,10 @@ stages:
         stage_une: 
     -
         name: "Koh Lanta"
-        age: 8-12 ans 
+        age: Bruxelles 9-12 ans / Brabant 8-12 ans  
         img: "/stages/kohlanta2.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocatching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage !"
+        description: "<strong>BRUXELLES:</strong> Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocaching et jeux d’escape Games. La semaine est agrémentée d'une journée inoubliable au Parc Aventure de Wavre. Fair-Play et esprit de coopération sont requis pour ce stage !<hr><strong>BRABANT:</strong> Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocatching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage !"
         infos: 
         inscription: 
         categorie: fun
@@ -710,10 +710,10 @@ stages:
         stage_une:
     -
         name: "Equitation"
-        age: 7-16 ans
+        age: Bruxelles 7-15 ans / Brabant 7-16 ans
         img: "/stages/activitessportives/equitation.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Ce stage fait découvrir tous les aspects d’une pratique de l’équitation : participation à la vie du Manège de la Motte, soins aux chevaux, dressage, cours théoriques et pratique équestre, promenades..."
+        description: "<strong>BRUXELLES:</strong> Stage en partenariat avec Le Manège de La Motte. Ce stage fait découvrir tous les aspects d’une pratique de l’équitation : participation à la vie du Manège de la Motte, soins aux chevaux, dressage, cours théoriques et pratique équestre, promenades...<hr><strong>BRABANT:</strong> Stage en partenariat avec le Manège Horse's Corner de Bierges. Un programme riche en émotions attend vos enfants pour ce stage d'équitation : obstacle, dressage, voltige et horse ball. Les futurs cavaliers se préparent également pour les examens Etrier d'Or et 1er degré. L'enfant bénéficie d'une relation privilégiée avec son cheval tout au long de la semaine. Nous accompagnons également vos enfants à la découverte du monde équin et de ses usages : règles de sécurité, entretien du matériel, pansage des chevaux, soins spéciaux, organisation et entretien de l'écurie. L'encadrement se fait par des professeurs d'équitation diplômés, soucieux du bien-être de la relation cheval-enfant."
         infos: 
         inscription: 
         categorie: sportives
@@ -986,7 +986,7 @@ stages:
         stage_une:
     -
         name: "Apprenti Savant"
-        age: 6-14 ans
+        age: 8-14 ans
         img: "/stages/activitesartistiquesetloisirs/apprentisavant.png"
         lieu: "Bruxelles"
         description: "Lors de ce stage, nos petits scientifiques vont découvrir par des petites expériences physiques, chimiques et biologiques le monde des sciences. La journée est composée de 3h de sciences et 3h de sport."
