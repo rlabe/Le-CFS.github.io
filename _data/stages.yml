@@ -18,7 +18,7 @@ stages:
         img: "/stages/lespetitsbouts/prepsycho.png"
         lieu: "Bruxelles - Brabant Wallon"
         description: "Ce stage propose un éveil psychomoteur adapté aux plus petits. Par le jeu, les enfants vont apprendre à percevoir leur corps et à coordonner leurs membres. Une sieste est prévue et encadrée."
-        infos: "Attention, il n'y a pas de garderie pour ce stage. Il faut apporter un lange de rechange si nécessaire."
+        infos: "Attention, il n'y a pas de garderie pour ce stage. Il faut apporter un lange de rechange si nécessaire. Prévoyez également une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online: oui
@@ -30,7 +30,7 @@ stages:
         img: "/stages/lespetitsbouts/psychodecouverte.png"
         lieu: "Bruxelles - Brabant Wallon"
         description: "Ce stage propose un mélange de différentes facettes de la psychomotricité : jeux de coopération, parcours d'adresse, exercices de latéralité, éveil artistique, découverte de la nature environnante et du rythme."
-        infos: 
+        infos: "Prévoir une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online: oui
@@ -41,8 +41,8 @@ stages:
         age: 3-4 ans
         img: "/stages/lespetitsbouts/psychogrimpette.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Ce stage vise le développement d'aspects essentiels de la motricité tels que l'audace, l'équilibre et le 'grimper' chez l'enfant (espaliers, parcours d'obstacles, etc.). Le reste de la journée est consacrée à des activités de psychomotricité."
-        infos: 
+        description: "<strong>BRUXELLES:</strong> Ce stage propose une séance de grimpette chaque jour afin de développer chez l’enfant des facettes essentielles de la motricité telles que l’audace, l’équilibre et le « GRIMPER ». Le reste de la journée est consacré à un mix des différentes activités du stage « Psycho Découverte ». Les stages pour les plus petits tendent au développement harmonieux des enfants au travers d’activités adaptées à leur âge. L’enfant développe de nouvelles aptitudes tout en jouant : il apprend les règles du jeu et de groupe, développe sa sociabilité et explore les différentes facettes de la motricité. Le rythme de l’enfant est respecté et une sieste est prévue pour les enfants qui en ont besoin. Il y a maximum 12 enfants par groupe (8 enfants pour la Pré-Psychomotricité). Pour chaque stage, il y a une base commune de psychomotricité (jeux de coopération,parcours d’adresse, d’audace, exercices de latéralité) et bien sûr un apprentissage spécifique en fonction du thème proposé. Il est demandé aux parents de prévoir un sac avec une tenue de rechange pour leur enfant. Pour les stages commençant à 3 ans (PSYCHO) : les enfants doivent être propres. Le cas échéant, il faut inscrire votre petit-bout en pré-psycho.<hr><strong>BRABANT:</strong> Ce stage vise le développement des capacités d'audace et d'équilibre chez nos petits bouts. Ils grimpent sur des espaliers, des parcours d'obstacles ainsi que sur notre nouveau mur d'escalade gonflable ! Le reste de la journée est consacré à de la psychomotricité."
+        infos: "Prévoir une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online: oui
@@ -54,7 +54,7 @@ stages:
         img: "/stages/lespetitsbouts/psychoaqua.png"
         lieu: "Brabant Wallon"
         description: "Ce stage de psychomotricité est agrémenté, quotidiennement, d'une heure d'accoutumance à l'eau. Une aubaine pour les petits qui auront l'occasion de faire connaissance avec les joies de la piscine, en toute sécurité."
-        infos: "Bonnet de bain obligatoire"
+        infos: "Bonnet de bain obligatoire. Prévoyez également une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online: oui
@@ -66,7 +66,7 @@ stages:
         img: "/stages/lespetitsbouts/psychonatation.png"
         lieu: "Brabant Wallon"
         description: "Apprentissage des mouvements de base de la natation par le biais d'activités ludiques (1h/j). Accoutumance au milieu aquatique dans une ambiance décontractée. En piscine, 2 moniteurs pour 6 enfants. Le reste de la journée est consacré à des activités de psychomotricité. NB : Les enfants doivent être propres. Sinon, nous vous conseillons de les inscrire en pré-psycho."
-        infos: "Dès le premier jour, prévoir maillot, bonnet et essuie de bain."
+        infos: "Dès le premier jour, prévoir maillot, bonnet et essuie de bain. Prévoyez également une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online: oui
@@ -78,7 +78,7 @@ stages:
         img: "/stages/lespetitsbouts/psychomusique.png"
         lieu: "Brabant Wallon"
         description: "Découverte du rythme par le biais d'exercices ciblant l'éveil musical ainsi que la manipulation d'instruments basiques. Le reste de la journée est consacré à des activités de psychomotricité."
-        infos: 
+        infos: "Prévoir une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online:
@@ -90,7 +90,7 @@ stages:
         img: "/stages/lespetitsbouts/psychonature.png"
         lieu: "Brabant Wallon"
         description: "Chaque matin, les enfants partiront dans les alentours de leur centre : découverte et sensibilisation à la nature seront au programme de leur balade. Une fois revenus, ils réaliseront un bricolage avec les richesses ramenées lors de leur expédition. A chaque jour son nouveau thème ! Le reste de la journée est consacré à des activités de psychomotricité."
-        infos: 
+        infos: "Prévoir une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online: oui
@@ -102,7 +102,7 @@ stages:
         img: "/stages/lespetitsbouts/psychosport.png"
         lieu: "Bruxelles"
         description: "Votre enfant souhaite découvrir des activités sportives? Le stage de psycho sport permet une transition idéale entre la psychomotricité et la découverte sportive! Durant la semaine, les enfants s’initient à différents sports individuels, collectifs et gymniques de manière ludique afin qu’ils progressent à leur rythme tout en respectant leur développement moteur. Le reste de la journée est consacré à un mélange des différentes activités du stage « psycho découverte »."
-        infos: 
+        infos: "Prévoir une tenue adaptée en cas de bricolages et peintures."
         inscription:
         categorie: bouts
         online: oui
@@ -114,7 +114,7 @@ stages:
         img: "/stages/lespetitsbouts/psychovelo.png"
         lieu: "Brabant Wallon"
         description: "Initiation au vélo via des exercices d'équilibre et de prise de confiance. Les règles de sécurité sont abordées. Le CFS met ses Balance Bikes à disposition. L'enfant peut aussi apporter son propre vélo."
-        infos: 
+        infos: "Prévoir une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online: oui
@@ -126,7 +126,7 @@ stages:
         img: "/stages/lespetitsbouts/psychobricolage.png"
         lieu: "Brabant Wallon"
         description: "Un stage de psychomotricité qui sera agrémenté quotidiennement d'un éveil artistique par le biais du bricolage et de la peinture."
-        infos: 
+        infos: "Prévoir une tenue adaptée pour le bricolage et la peinture."
         inscription: 
         categorie: bouts
         online: oui
@@ -138,7 +138,7 @@ stages:
         img: "/stages/lespetitsbouts/psychocuisine.png"
         lieu: Brabant Wallon
         description: "Ce stage est agrémenté, quotidiennement, de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité."
-        infos: 
+        infos: "Prévoir une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online: 
@@ -245,7 +245,7 @@ stages:
         age: 4-6 ans
         img: "/stages/decouvertesportiveetculturelle/babyponey.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Ce stage est une pleine participation à la vie du manège : soins aux poneys et bien sûr, initiation à l'équitation."
+        description: "<strong>BRUXELLES:</strong> Stage en partenariat avec Le Manège à Winterjumping à Asse. Ce stage est une pleine participation à la vie du manège : soins aux poneys et bien sûr, initiation à l'équitation.<hr><strong>BRABANT:</strong> Stage en partenariat avec le Manège Horse's Corner de Bierges. Pour les plus petits, nous commençons par leur enseigner les bases nécessaires à une bonne tenue en selle. Les enfants progressent grâce à une pédagogie par le jeu. L'enfant développe une relation privilégiée avec son poney tout au long du stage. Les enfants se préparent également pour l'examen Licol. Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue large) et des bottes. Le manège met à disposition tout le matériel adéquat pour les petits cavaliers."
         infos: 
         inscription: 
         categorie: decouvertes
@@ -590,10 +590,10 @@ stages:
         stage_une:
     -
         name: "Koh Lanta"
-        age: 8-12 ans 
+        age: Bruxelles 9-12 ans / Brabant 8-12 ans 
         img: "/stages/activitesfun/lanta.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocaching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage !"
+        description: "<strong>BRUXELLES:</strong> Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocaching et jeux d’escape Games. La semaine est agrémentée d'une journée inoubliable au Parc Aventure de Wavre. Fair-Play et esprit de coopération sont requis pour ce stage !<hr><strong>BRABANT:</strong> Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocatching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage !"
         infos: 
         inscription: 
         categorie: fun
@@ -602,10 +602,10 @@ stages:
         stage_une: 
     -
         name: "Koh Lanta"
-        age: 8-12 ans 
+        age: Bruxelles 9-12 ans / Brabant 8-12 ans  
         img: "/stages/kohlanta2.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocatching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage !"
+        description: "<strong>BRUXELLES:</strong> Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocaching et jeux d’escape Games. La semaine est agrémentée d'une journée inoubliable au Parc Aventure de Wavre. Fair-Play et esprit de coopération sont requis pour ce stage !<hr><strong>BRABANT:</strong> Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocatching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage !"
         infos: 
         inscription: 
         categorie: fun
@@ -710,10 +710,10 @@ stages:
         stage_une:
     -
         name: "Equitation"
-        age: 7-16 ans
+        age: Bruxelles 7-15 ans / Brabant 7-16 ans
         img: "/stages/activitessportives/equitation.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Ce stage fait découvrir tous les aspects d’une pratique de l’équitation : participation à la vie du Manège de la Motte, soins aux chevaux, dressage, cours théoriques et pratique équestre, promenades..."
+        description: "<strong>BRUXELLES:</strong> Stage en partenariat avec Le Manège de La Motte. Ce stage fait découvrir tous les aspects d’une pratique de l’équitation : participation à la vie du Manège de la Motte, soins aux chevaux, dressage, cours théoriques et pratique équestre, promenades...<hr><strong>BRABANT:</strong> Stage en partenariat avec le Manège Horse's Corner de Bierges. Un programme riche en émotions attend vos enfants pour ce stage d'équitation : obstacle, dressage, voltige et horse ball. Les futurs cavaliers se préparent également pour les examens Etrier d'Or et 1er degré. L'enfant bénéficie d'une relation privilégiée avec son cheval tout au long de la semaine. Nous accompagnons également vos enfants à la découverte du monde équin et de ses usages : règles de sécurité, entretien du matériel, pansage des chevaux, soins spéciaux, organisation et entretien de l'écurie. L'encadrement se fait par des professeurs d'équitation diplômés, soucieux du bien-être de la relation cheval-enfant."
         infos: 
         inscription: 
         categorie: sportives
@@ -755,13 +755,13 @@ stages:
         categorie: sportives
         online: oui
         nouveau: oui
-        stage_une: oui
+        stage_une: 
     -
         name: "Football Euro 2020"
         age: 5-14 ans
         img: "/stages/euro20202.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "Coming soon."
+        description: "<strong>BRUXELLES:</strong> Apprentissage des 4 thèmes fondamentaux (contrôle de balle, passe, dribble et tir au but), psychomotricité et coordination des membre, développement des qualités morales indispensables à l’équilibre du jeune footballeur, assimilation du respect du jeu et du FAIR-PLAY. Un grand tournoi est organisé en fin de semaine.<hr><strong>BRABANT:</strong> Notre Ecole de Football vous propose un stage entièrement dédié au football et dirigé par des entraîneurs dîplomés de l'URBFSA. Au programme : apprentissage des 4 thèmes fondamentaux (contrôle de balle, passe, drible et tir au but), psychomotricité et coordination des membres, développement des qualités morales indispensables à l'équilibre du jeune footballeur, assimilation et respect du jeu. En fin de stage : grand tournoi, debriefing, évaluation et remise de dîplome."
         infos: 
         inscription: 
         categorie: sportives
@@ -986,7 +986,7 @@ stages:
         stage_une:
     -
         name: "Apprenti Savant"
-        age: 6-14 ans
+        age: 8-14 ans
         img: "/stages/activitesartistiquesetloisirs/apprentisavant.png"
         lieu: "Bruxelles"
         description: "Lors de ce stage, nos petits scientifiques vont découvrir par des petites expériences physiques, chimiques et biologiques le monde des sciences. La journée est composée de 3h de sciences et 3h de sport."
@@ -1079,13 +1079,13 @@ stages:
         categorie: artistiques
         online: oui
         nouveau: oui
-        stage_une: oui
+        stage_une:
     -
         name: "Débrouillard"
         age: 10-13 ans
         img: "/stages/debrouillard2.png"
         lieu: "Brabant Wallon"
-        description: "Coming soon."
+        description: "Aider un enfant à se débrouiller dans la vie de tous les jours. Une semaine de stage avec 10 ateliers pédagogiques mais sous forme de jeux. Les enfants pourront reprendre leurs petits carnet en fin de stage. Voici les thèmes abordés lors de ce stage: Entretenir et réparer son vélo / trottinette, les premiers secours, faire des nœuds et construire un abri, bricolage  notion d’outils et d’électricité, cuisiner, allumer et éteindre un feu, retrouver son chemin, s’orienter et lire une carte, escalader."
         infos: 
         inscription: 
         categorie: artistiques
