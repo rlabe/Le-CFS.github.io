@@ -613,12 +613,12 @@ stages:
         nouveau: oui
         stage_une: Oui
     -
-        name: "Pilote"
+        name: "Pilote Academy"
         age: 10-14 ans
         img: "/stages/activitesfun/pilote.png"
         lieu: "Brabant Wallon"
-        description: "Ce stage permet de découvrir les sensations d’un vrai pilote… Concentration, adrénaline et amusement ! Au programme, apprentissage et maîtrise des différents véhicules : motos, quads et trottinettes. Mais également des courses de cuistax et tricycles dans notre circuit gonflable. Les plus aguerris ont l’occasion de rouler avec des quads thermiques. Afin de sensibiliser les jeunes au respect du matériel, des ateliers de mécano sont également prévus durant la semaine."
-        infos: 
+        description: "Au matin : simulateur de cours, entrainement physique et coordination oeil-main. Le programme de l'après-midi est entièrement consacré au Karting : les apprentis pilotes sont encadrés pas un formateur du WIK qui leur apprend les différentes techniques de pilotage, trajectoire, exercices évolutifs avec cônes sur la piste et une analyse vidéo est prévue. Déplacement au WIK assuré par le CFS."
+        infos: Accueil à 13h00 au WIK en face du Walibi (Boulevard de l'Europe 117 - 1300 Wavre).
         inscription: 
         categorie: fun
         online: oui
