@@ -50,11 +50,11 @@ stages:
         stage_une:
     -
         name: "Psycho Aqua"
-        age: 3-4 ans
+        age: Brabant 3-4 ans / Liège 3-5 ans
         img: "/stages/lespetitsbouts/psychoaqua.png"
-        lieu: "Brabant Wallon"
-        description: "Ce stage de psychomotricité est agrémenté, quotidiennement, d'une heure d'accoutumance à l'eau. Une aubaine pour les petits qui auront l'occasion de faire connaissance avec les joies de la piscine, en toute sécurité."
-        infos: "Bonnet de bain obligatoire. Prévoyez également une tenue adaptée en cas de bricolages et peintures."
+        lieu: "Brabant Wallon - Liège"
+        description: "<strong>BRABANT:</strong> Ce stage de psychomotricité est agrémenté, quotidiennement, d'une heure d'accoutumance à l'eau. Une aubaine pour les petits qui auront l'occasion de faire connaissance avec les joies de la piscine, en toute sécurité.<hr><strong>LIEGE:</strong>Ce stage de psychomotricité est agrémenté, quotidiennement, d’une heure d’accoutumance à l’eau. Une aubaine pour les petits qui auront l’occasion de faire connaissance avec les joies de la piscine, en toute sécurité."
+        infos: "BRABANT : Bonnet de bain obligatoire. Prévoyez également une tenue adaptée en cas de bricolages et peintures."
         inscription: 
         categorie: bouts
         online: oui
@@ -134,11 +134,11 @@ stages:
         stage_une:
     -
         name: "Psycho Cuisine"
-        age: 
+        age: 3-5 ans
         img: "/stages/lespetitsbouts/psychocuisine.png"
-        lieu: Brabant Wallon
-        description: "Ce stage est agrémenté, quotidiennement, de quelques recettes culinaires de base, préparées par nos petits cuistots. Le reste de la journée est consacré à des activités de psychomotricité."
-        infos: "Prévoir une tenue adaptée en cas de bricolages et peintures."
+        lieu: "Liège"
+        description: "Exercices et jeux basés sur les différents axes de la psychomotricité (latéralité, équilibre, éveil sensori-moteur, adresse, audace, coopération, rythme,etc.). Ce stage de psychomotricité sera agrémenté quotidiennement de quelques recettes culinaires de base, préparées par nos petits stagiaires."
+        infos: "L’enfant doit apporter son tablier."
         inscription: 
         categorie: bouts
         online: 
@@ -268,8 +268,8 @@ stages:
         name: "Baby Tennis"
         age: 4-6 ans
         img: "/stages/decouvertesportiveetculturelle/babytennis.png"
-        lieu: "Bruxelles - Brabant Wallon"
-        description: "Une découverte du tennis, complétée par des ateliers de psychomotricité et de multisports. Les enfants découvrent la raquette en tant que prolongement du bras et apprennent à coordonner la vue avec le mouvement de la raquette."
+        lieu: "Bruxelles - Brabant Wallon - Liège"
+        description: "<strong>BRUXELLES & BRABANT:</strong> Une découverte du tennis, complétée par des ateliers de psychomotricité et de multisports. Les enfants découvrent la raquette en tant que prolongement du bras et apprennent à coordonner la vue avec le mouvement de la raquette.<hr><strong>LIEGE:</strong>Une découverte du tennis sous forme ludique avec un matériel spécialement adapté aux petits, complétée par des ateliers de psychomotricité et de multisports."
         infos: 
         inscription: 
         categorie: decouvertes
@@ -293,7 +293,7 @@ stages:
         age: 9-14 ans
         img: "/stages/decouvertesportiveetculturelle/cirque.png"
         lieu: "Bruxelles"
-        description: "Ce stage propose l’approche de diverses disciplines issues du monde du cirque : équilibre (câbles, échasses, monocycle), acrobatie (pyramides, trampoline et trapèze), jonglerie (foulards, balles, quilles), adresse (diabolos, bâtons du diable)."
+        description: "<strong>BRUXELLES:</strong>Ce stage propose l’approche de diverses disciplines issues du monde du cirque : équilibre (câbles, échasses, monocycle), acrobatie (pyramides, trampoline et trapèze), jonglerie (foulards, balles, quilles), adresse (diabolos, bâtons du diable).<hr><strong>LIEGE:</strong>Découverte des différentes techniques du Cirque telles que la jonglerie (foulards, diabolos, assiettes chinoises, balles, quilles...); l’équilibre (monocycles, échasses, rola-bola...); l’acrobatie.Les 3 heures de Cirque sont complétées par 3 heures de multisports. "
         infos: 
         inscription: 
         categorie: decouvertes
@@ -436,7 +436,7 @@ stages:
         name: "Danse"
         age: 6-10 ans
         img: "/stages/danseetgymnastique/danse.png"
-        lieu: "Bruxelles - Brabant Wallon"
+        lieu: "Bruxelles - Brabant Wallon - Liège"
         description: "Ce stage prévoit une initiation et/ou un perfectionnement de la danse Jazz. (musique, tempos, mouvements, danses en groupe). Les enfants réalisent également des chorégraphies. Un petit spectacle est prévu à la fin de la semaine!"
         infos: 
         inscription: 
@@ -509,7 +509,7 @@ stages:
         age: 8-12 ans
         img: "/stages/activitesfun/aventure.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "<strong>BRUXELLES:</strong> Le stage Aventure est l'un des stages phares du CFS. Il met au programme des sports et activités ludiques aussi variés que le Laser Game, les New Games, l’escalade, l’escrime et des Escape Game.<hr><strong>BRABANT:</strong> Ce stage met au programme des sports aussi variés que le Laser Game, Arrow Game, les New Games et FUN activités ainsi qu’une journée au Parc Aventure de Wavre. La semaine se clôture par des jeux dans les bois et un barbecue."
+        description: "<strong>BRUXELLES:</strong>Le stage Aventure est l'un des stages phares du CFS. Il met au programme des sports et activités ludiques aussi variés que le Laser Game, les New Games, l’escalade, l’escrime et des Escape Game.<hr><strong>BRABANT:</strong>Ce stage met au programme des sports aussi variés que le Laser Game, Arrow Game, les New Games et FUN activités ainsi qu’une journée au Parc Aventure de Wavre. La semaine se clôture par des jeux dans les bois et un barbecue."
         infos: BRABANT - Prévoir une paire de bottines ainsi que des vêtements adaptés aux activités d’extérieur. Certaines activités demandent un déplacement en navette assuré par nos soins. 
         inscription: 
         categorie: fun
@@ -713,7 +713,7 @@ stages:
         age: Bruxelles 7-15 ans / Brabant 7-16 ans
         img: "/stages/activitessportives/equitation.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "<strong>BRUXELLES:</strong> Stage en partenariat avec Le Manège de La Motte. Ce stage fait découvrir tous les aspects d’une pratique de l’équitation : participation à la vie du Manège de la Motte, soins aux chevaux, dressage, cours théoriques et pratique équestre, promenades...<hr><strong>BRABANT:</strong> Stage en partenariat avec le Manège Horse's Corner de Bierges. Un programme riche en émotions attend vos enfants pour ce stage d'équitation : obstacle, dressage, voltige et horse ball. Les futurs cavaliers se préparent également pour les examens Etrier d'Or et 1er degré. L'enfant bénéficie d'une relation privilégiée avec son cheval tout au long de la semaine. Nous accompagnons également vos enfants à la découverte du monde équin et de ses usages : règles de sécurité, entretien du matériel, pansage des chevaux, soins spéciaux, organisation et entretien de l'écurie. L'encadrement se fait par des professeurs d'équitation diplômés, soucieux du bien-être de la relation cheval-enfant."
+        description: "<strong>BRUXELLES:</strong>Stage en partenariat avec Le Manège de La Motte. Ce stage fait découvrir tous les aspects d’une pratique de l’équitation : participation à la vie du Manège de la Motte, soins aux chevaux, dressage, cours théoriques et pratique équestre, promenades...<hr><strong>BRABANT:</strong> Stage en partenariat avec le Manège Horse's Corner de Bierges. Un programme riche en émotions attend vos enfants pour ce stage d'équitation : obstacle, dressage, voltige et horse ball. Les futurs cavaliers se préparent également pour les examens Etrier d'Or et 1er degré. L'enfant bénéficie d'une relation privilégiée avec son cheval tout au long de la semaine. Nous accompagnons également vos enfants à la découverte du monde équin et de ses usages : règles de sécurité, entretien du matériel, pansage des chevaux, soins spéciaux, organisation et entretien de l'écurie. L'encadrement se fait par des professeurs d'équitation diplômés, soucieux du bien-être de la relation cheval-enfant."
         infos: 
         inscription: 
         categorie: sportives
@@ -736,7 +736,7 @@ stages:
         name: "Football"
         age: 6-14 ans
         img: "/stages/activitessportives/football.png"
-        lieu: "Bruxelles - Brabant Wallon"
+        lieu: "Bruxelles - Brabant Wallon - Liège"
         description: "Ce stage prévoit une alternance entre entraînements et petits matchs. Les mordus du ballon rond s'exercent aux techniques de ballon et de jeu. Chaque entraînement est abordé de manière ludique afin d'allier football et plaisir. La journée est répartie en 3 périodes de football et une période de multisports."
         infos: Stage en collaboration avec CB Futsal Jette BXL Cap
         inscription: 
@@ -830,11 +830,11 @@ stages:
         stage_une:
     -
         name: "Multi Natation"
-        age: 5-7 ans
+        age: Bruxelles 5-7 ans / Liège 5-12 ans
         img: "/stages/activitessportives/multinatation.png"
         lieu: "Bruxelles"
-        description: "Une période par jour de natation. Le reste de la journée est consacré à des activités multisports."
-        infos: 
+        description: "<strong>BRUXELLES:</strong>Une période par jour de natation. Le reste de la journée est consacré à des activités multisports.<hr><strong>LIEGE:</strong>Ce stage propose une initiation aux sports et aux jeux collectifs (basket, foot, volley, hand-ball, unihoc, base-ball,etc.). De plus, les enfants iront quotidiennement à la piscine, dans le but d’améliorer la technique des 4 nages (+/- 1h30 dans l’eau). L’enfant doit obligatoirement savoir nager dans le grand bassin pour participer au stage."
+        infos: Bruxelles et Liège - Dès le premier jour, prévoir un bonnet, maillot et essuie de bain. Liège - Les trajets se font à pieds avec le moniteur, du hall de l’Agri à la piscine de Huy (+/- 15 minutes).
         inscription: 
         categorie: sportives
         online: oui
@@ -1306,5 +1306,29 @@ stages:
         inscription: 
         categorie: artistiques
         online: oui
+        nouveau:
+        stage_une:
+    -
+        name: "New Games"
+        age: 8-12 ans
+        img: "/stages/activitesfun/newgames.png"
+        lieu: "Liège"
+        description: "Votre enfant va découvrir toute une série de nouveaux sports FUN tels que  le POULL-BALL, le BONKERBALL, le GOURET, le BUMBALL, le KIN-BALL, le FLAG FOOT/RUGBY et le SCRATCH-BALL. Ces sports nouveaux sont destinés aux garçons comme aux filles. La moitié du temps sera consacrée à la pratique du multisports."
+        infos: 
+        inscription: 
+        categorie: fun
+        online: 
+        nouveau:
+        stage_une:
+    -
+        name: "Vélo-évolution"
+        age: 6-8 ans
+        img: "/stages/decouvertesportiveetculturelle/veloevolution.png"
+        lieu: "Liège"
+        description: "Votre enfant va découvrir toute une série de nouveaux sports FUN tels que  le POULL-BALL, le BONKERBALL, le GOURET, le BUMBALL, le KIN-BALL, le FLAG FOOT/RUGBY et le SCRATCH-BALL. Ces sports nouveaux sont destinés aux garçons comme aux filles. La moitié du temps sera consacrée à la pratique du multisports."
+        infos: 
+        inscription: 
+        categorie: decouvertes
+        online: 
         nouveau:
         stage_une:
