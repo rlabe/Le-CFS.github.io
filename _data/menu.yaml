@@ -285,8 +285,5 @@ menu:
       - title: "Anniversaires"
         url: /brochures/anniversaires/
 
-      - title: "Cours Adultes"
-        url: /brochures/adultes/
-
   - titre: "Contact"
     url: /contact/
