@@ -267,7 +267,7 @@ liste:
         name: "My Lab"
         categorie: Partenaires pédagogiques
         logo: /assets/images/partenaires/photoargentique.png
-        href: 
+        href: https://www.myriamandries.be/
         online: oui
         bouton: Site Web
         couleur_bouton: 
