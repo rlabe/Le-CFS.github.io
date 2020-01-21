@@ -3,6 +3,7 @@
       <div class="image">
         <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}"><img src="{{ BASE_PATH }}/assets/images{{ stage.img }}"></a>
       </div>
+      <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}">
       <div class="card-block">
         <h3 class="card-title">{{ stage.name }}</h3>
         <div class="meta">
@@ -13,11 +14,14 @@
           <center><a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}"><span class="label label-pill label-info-filled">Plus d'info</span></a></center>
         </div>
       </div>
+      </a>
+      <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}">
       <div class="extra">
         <span>
           <i class="fa fa-map-marker"> {{ stage.lieu }}</i>
         </span>
       </div>
+      </a>
     </div>
 </div>
 <div class="modal fade" id="{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
