@@ -146,7 +146,7 @@ anniversaires:
         name: "Théâtre"
         age: 6 +
         img: "/anniversaires/activites/theatre.png"
-        lieu: "Auderghem"
+        lieu: "Auderghem / Wavre"
         href: 
         prix: 175 €
         description: "Contactez-nous pour en savoir plus."
@@ -178,7 +178,7 @@ anniversaires:
         href: 
         prix: 300 €
         description: "Une activité fun outdoor, dans les bois, à effectuer entre amis! Une activité à la fois sportive, ludique, stratégique et divertissante dans laquelle plusieurs joueurs ou unités s’affrontent. Nous organisons l’anniversaire en plusieurs étapes : Découverte et fonctionnement des lasers, consignes de sécurité, création des équipes, déroulement de l’activité (jeux variés). Tout au long de l’anniversaire, nous mettons en place des jeux variés et ludiques."
-        infos: "25€/enfant supplémentaire"
+        infos:
         bouton: 
         categorie: domicile fun
         online: oui
@@ -286,13 +286,13 @@ anniversaires:
         name: "Time’s Up"
         age: 10 +
         img: "/anniversaires/activites/timesup.png"
-        lieu: A domicile
+        lieu: A domicile & dans les centres
         href: 
         prix: 225 €
         description: "Découvre avec tes amis le jeu Time's up. C'est un jeu dans lequel vous devrez deviner et faire deviner l'identité de 836 personnalités variées (réelles ou fictives). Il faudra être malin et rapide et ne pas avoir peur de vous marrer ! Le jeu se joue en équipes et se déroule en trois manches."
         infos:
         bouton: 
-        categorie: domicile fun
+        categorie: domicile fun 
         online: oui
         nouveau: oui
         anniversaire_une: oui     
