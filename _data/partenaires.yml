@@ -263,3 +263,11 @@ liste:
         online: oui
         bouton: Site Web
         couleur_bouton: 
+    -
+        name: "My Lab"
+        categorie: Partenaires pédagogiques
+        logo: /assets/images/partenaires/photoargentique.png
+        href: https://www.myriamandries.be/
+        online: oui
+        bouton: Site Web
+        couleur_bouton: 
