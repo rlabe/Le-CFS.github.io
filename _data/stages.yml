@@ -977,11 +977,11 @@ stages:
         age: 
         img: "/stages/activitessportives/volleydecouverte.png"
         lieu: "Brabant Wallon"
-        description: "Coming soon."
-        infos: 
+        description: "Ce stage permettra aux enfants de découvrir les sensations que procure un quad. La matinée, ils découvrent les joies des quads électriques de notre circuit gonflable. Ils ont également l'occasion de se perfectionner en vélo l'après-midi en dévalant les descentes et en découvrant les sauts. Tout cela, en maîtrisant une bonne trajectoire. Sensation de vitesse garantie tout au long de la semaine."
+        infos: Les enfants doivent apporter leur VTT, gilet fluo, un cadenas, un casque ainsi qu'une chambre à air de rechange dès le premier jour de stage ! 
         inscription: 
         categorie: sportives
-        online:
+        online: oui
         nouveau:
         stage_une:
     -
