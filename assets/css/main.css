@@ -3439,7 +3439,7 @@ ul.nav-tabs li a{
         padding:0
     }
 }
-@media (min-width: 640px){
+@media (min-width: 640px) and (max-width: 768px){
     .desktop {
         display: none !important;
     }
