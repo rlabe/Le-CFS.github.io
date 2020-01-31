@@ -12,7 +12,8 @@ centres:
         centre: "Wavre"
         adresse: "Avenue du centre sportif 22 • 1300 Wavre"
         img: 
-            - ""
+            - "centresportif_wavre_1.jpg"
+            - "centresportif_wavre_2.jpg"
         carte: 
         stage: 
         online: oui
@@ -21,7 +22,7 @@ centres:
         centre: "Wavre"
         adresse: "Rue du Calvaire 4 - 1300 Wavre"
         img: 
-            - "/assets/images/centres/bassewavre.png"
+            - "bassewavre_1.jpg"
         carte: 
         stage: 
         online: oui
@@ -30,16 +31,14 @@ centres:
         centre: "Bierges"
         adresse: "Rue Provinciale 225 • 1301 Bierges"
         img: 
-            - ""
         carte: 
         stage: 
         online: oui
     -
         name: "Horse's Corner Bierges"
-        centre: "Bierges"
+        centre: "Bierges Horse's Corner"
         adresse: "Rue de Rosières 10 • 1301 Bierges"
         img: 
-            - ""
         carte: 
         stage: 
         online: oui
@@ -48,7 +47,7 @@ centres:
         centre: "Rixensart"
         adresse: "Avenue de Clermont Tonnerre 26/A • 13"
         img: 
-            - ""
+            - "centresportif_rixensart.jpg"
         carte: 
         stage: 
         online: oui
@@ -57,7 +56,8 @@ centres:
         centre: "Ottignies"
         adresse: "Rue des Coquerées 50/A • 1340 Ottignies"
         img: 
-            - ""
+            - "ottignies_coquerees.jpg"
+            - "ottignies_coquerees2.jpg"
         carte: 
         stage: 
         online: oui
@@ -66,16 +66,16 @@ centres:
         centre: "Ottignies"
         adresse: "Rue du Renivaux 25 • 1340 Ottignies"
         img: 
-            - ""
+            - "christroi_ottignies.jpg"
+            - "christroi_ottignies2.jpg"
         carte: 
         stage: 
         online: oui
     -
         name: "Salle de Gym 'La Courtoise'"
-        centre: "Cse"
+        centre: "Court-Saint-Etienne"
         adresse: "Avenue des Combattants 140 • 1490 Court-St-Etienne"
         img: 
-            - ""
         carte: 
         stage: 
         online: oui
@@ -84,7 +84,7 @@ centres:
         centre: "Walhain"
         adresse: "Rue Chapelle-Ste-Anne 14 • 1457 Walhain"
         img: 
-            - ""
+            - "centresportif_walhain.jpg"
         carte: 
         stage: 
         online: oui
@@ -93,16 +93,17 @@ centres:
         centre: "Beauvechain"
         adresse: "Rue de la Grande Lecke 1/Z • 1320 Beauvechain"
         img: 
-            - ""
+            - "beauvechain_2.jpg"
         carte: 
         stage: 
         online: oui
     -
         name: "Horse's Valley Dream"
-        centre: "Dion"
+        centre: "Dion-Valmont"
         adresse: "Taille Thérèse 8 • 1325 Dion-Valmont"
         img: 
-            - ""
+            - "dion.jpg"
+            - "dion_2.jpg"
         carte: 
         stage: 
         online: oui
@@ -111,7 +112,6 @@ centres:
         centre: "Wemmel"
         adresse: "Dijck 34 • 1780 Wemmel "
         img: 
-            - ""
         carte: 
         stage: 
         online: oui
@@ -120,7 +120,7 @@ centres:
         centre: "Asse"
         adresse: "Z.3 Doornveld 50 • 1731 Asse"
         img: 
-            - ""
+            - "bomaco_asse.jpg"
         carte: 
         stage: 
         online: oui
@@ -129,8 +129,8 @@ centres:
         centre: "Jette"
         adresse: "Section maternelle entrée Rue Joseph Loossens • 1090 Jette"
         img: 
-            - ""
-            - ""
+            - "jacquesbrel_jette.jpg"
+            - "jacquesbrel_jette2.jpg"
         carte: 
         stage: 
         online: oui
@@ -139,7 +139,7 @@ centres:
         centre: "Laeken"
         adresse: "Avenue Wannecouter 113 • 1020 Laeken"
         img: 
-            - ""
+            - "laeken_christroi.jpg"
         carte: 
         stage: 
         online: oui
@@ -148,7 +148,7 @@ centres:
         centre: "Schaerbeek"
         adresse: "Boulevard Général Wahis 1 • 1030 Schaerbeek"
         img: 
-            - ""
+            - "schaerbeek_tennis.jpg"
         carte: 
         stage: 
         online: oui
@@ -157,7 +157,7 @@ centres:
         centre: "Woluwé-Saint-Lambert"
         adresse: "Avenue E. Mounier 87 • 1200 Woluwé-Saint-Lambert"
         img: 
-            - ""
+            - "mounier_wsl.jpg"
         carte: 
         stage: 
         online: oui
@@ -166,7 +166,7 @@ centres:
         centre: "Woluwé-Saint-Pierre"
         adresse: "Avenue Salomé 2 • 1150 Woluwé-Saint-Pierre"
         img: 
-            - ""
+            - "wsp.jpg"
         carte: 
         stage: 
         online: oui
@@ -175,16 +175,55 @@ centres:
         centre: "Auderghem"
         adresse: "Avenue de l'Eglise St-Julien 24 • 1160 Auderghem"
         img: 
-            - ""
+            - "stjulien_auderghem.jpg"
         carte: 
         stage: 
         online: oui
     -
-        name: "Salle Omnisport de Jette"
-        centre: "Jette"
-        adresse: "Avenue du Comté de Jette, 3 • 1090 Jette"
+        name: "Hall Omnisports"
+        centre: "Amay"
+        adresse: "Chaussée de Tongres, 235 • 4540 Amay"
         img: 
-            - "/assets/images/stages/lespetitsbouts/psychodecouverte.png"
-        carte: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5034.3693798212635!2d4.333372000000001!3d50.883292!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c3cedeb09d89%3A0x70469259b3d1f887!2sAvenue%20du%20Comt%C3%A9%20de%20Jette%203%2C%201090%20Jette%2C%20Belgium!5e0!3m2!1sen!2sus!4v1577359408093!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+        carte: 
+        stage: 
+        online: oui
+    -
+        name: "Hall Omnisports"
+        centre: "Awans"
+        adresse: "Rue de l'Église, 21 • 4340 Awans"
+        img: 
+        carte: 
+        stage: 
+        online: oui
+    -
+        name: "I.T.C.F. (École d'Agriculture)"
+        centre: "Huy"
+        adresse: "Rue Saint-Victor, 5 • 4500 Huy"
+        img: 
+        carte: 
+        stage: 
+        online: oui
+    -
+        name: "Hall Omnisports"
+        centre: "Verlaine"
+        adresse: "Rue de la Station, 37 • 4537 Verlaine"
+        img: 
+        carte: 
+        stage: 
+        online: oui
+    -
+        name: "Collège Saint-Pierre"
+        centre: "Uccle"
+        adresse: "Avenue Coghen, 205 • 11180 Uccle"
+        img: 
+        carte: 
+        stage: 
+        online: oui
+    -
+        name: "Hall Omnisports"
+        centre: "Villers-le-Bouillet"
+        adresse: "Rue de Waremme, 5A • 4530 Villers-le-Bouillet"
+        img: 
+        carte: 
         stage: 
         online: oui
