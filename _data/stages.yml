@@ -194,7 +194,7 @@ stages:
         stage_une:
     -
         name: "Baby Foot"
-        age: 4-6 ans
+        age: Bruxelles 4-6 ans - Brabant Wallon 5-6 ans
         img: "/stages/decouvertesportiveetculturelle/babyfoot.png"
         lieu: "Bruxelles - Brabant Wallon"
         description: "Premier contact avec le ballon rond par des apprentissages techniques et des jeux. Le stage est complété par de la psychomotricité (jeux de coopérations, parcours d'adresse, d'audace)."
