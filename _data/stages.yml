@@ -545,7 +545,7 @@ stages:
         age: 12-16 ans
         img: "/stages/activitesfun/funado.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "<strong>BRUXELLES:</strong> Un menu taillé pour nos plus grands : une journée à Profondeville (bouée tractée, canoë, pédalo, padel et kayak),une journée consacrée aux New games (tchoukball, kinball, base ball, flag foot...), une journée au parc de loisir de Koézio, une journée au parc à trampolines Jump XL de Bruxelles et une journée au parc aventure de Wavre... avec le fameux jump en fin de journée!<hr><strong>BRABANT:</strong> UNE SUPERBE SEMAINE POUR VOS ADOS! Activités fun garanties! PROGRAMME: une journée à Walibi, une journée à Profondville (bouée tracté, canoë, paddle, kayak), bubble soccer et new games, bowling, Koezio. Attention, le programme change pour les semaines plus courtes."
+        description: "<strong>BRUXELLES:</strong> Amusement garanti pour cette semaine de folie! PROGRAMME CARNAVAL: new games, Koezio, Paintball/moto, Jump XL/KO, Aqualibi. PROGRAMME PAQUES: new games, Koezio, Walibi, Jump XL/KO, paintball*moto. PROGRAMME ETE: new games, Koezio, Paintball/moto, Parc Aventure à Wavre, Walibi (pas E4). Les déplacements se font en transports en commun.<hr><strong>BRABANT:</strong>UNE SUPERBE SEMAINE POUR VOS ADOS! Activités fun garanties! PROGRAMME: une journée à Walibi, une journée à Profondville (bouée tracté, canoë, paddle, kayak), bubble soccer et new games, bowling, Koezio. Attention, le programme change pour les semaines plus courtes."
         infos: Pour Koézio, le taille minimale est d'1,40m. Les navettes sont assurées par le CFS. 
         inscription: 
         categorie: fun
@@ -569,8 +569,8 @@ stages:
         age: 10-16 ans
         img: "/stages/activitesfun/funvtt.png"
         lieu: "Bruxelles"
-        description: "Le Stage Fun VTT propose aux Jeunes 2 jours de VTT (Prévoir son VTT et Casques) une journée de Laser Game une journée au Parc Trampoline Jump XL (pas en Pâques 2) et une journée de Painball et initation a la moto (électrique)."
-        infos: 
+        description: "Un super mélange entre activités fun et VTT. Un programme super alléchant! PROGRAMME CARNAVAL: VTT, paintball/moto, Jumps XL/Ko, laser game. PROGRAMME PAQUES: VTT, paintball/moto, laser game, Jump XL/KO (pas E4). PROGRAMME ETE: VTT, paintball/moto, laser game, Jump XL/KO"
+        infos: Une bonne condition physique est indispensable. Attention, il faut un VTT, un gilet fluo, un cadenas ainsi qu'une chambre à air de rechange le premier jour du stage ! 
         inscription: 
         categorie: fun
         online: oui
@@ -593,8 +593,8 @@ stages:
         age: Bruxelles 9-12 ans / Brabant 8-12 ans 
         img: "/stages/activitesfun/lanta.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "<strong>BRUXELLES:</strong> Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocaching et jeux d’escape Games. La semaine est agrémentée d'une journée inoubliable au Parc Aventure de Wavre. Fair-Play et esprit de coopération sont requis pour ce stage !<hr><strong>BRABANT:</strong> Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocatching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage !"
-        infos: 
+        description: "<strong>BRUXELLES:</strong> Equipe jaune ou équipe rouge? Viens vivre une semaine dans la peau des aventuriers de Koh Lanta : compositions des tribus, épreuves en binôme et par équipe (avec les mythiques course d'orientation et épreuve des poteaux!), fabrication de campement, et dégustation d’insectes pour les plus courageux., une journée au Parc Aventure à Wavre.<hr><strong>BRABANT:</strong> Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocatching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage !"
+        infos: Fair-play et esprit de coopération sont requis pour ce stage ! 
         inscription: 
         categorie: fun
         online: oui
