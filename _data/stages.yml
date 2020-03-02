@@ -685,6 +685,42 @@ stages:
         nouveau:
         stage_une:
     -
+        name: "Aventure Camp"
+        age: 12-17 ans
+        img: "/stages/activitesfun/aventurecamp.jpg"
+        lieu: Espagne - Playa de Aro - Hotel Platja Park"
+        description: "Sports et activités aventure sous le soleil de l'Espagne (Platja d'Aro - Costa Brava) , le tout dans un hôtel 4 étoiles offrant tout le confort. Trekking, journée Vtt, course d'orientation, kayak de mer, snorkeling, activités Koh-Lanta, beach sports,... Le tout encadré par nos moniteurs brevetés. L'occasion de vivre une semaine détente-vacances : sports, piscine, plage et mer. Excursions (Aquapark et sortie bateau) possibles et visite de Barcelone comprise dans le séjour."
+        infos: "Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve. Les stagiaires logent tous au même étage de l'hôtel et sont encadrés par le staff de moniteurs 24h sur 24. Tous les repas de l'hôtel sont servis sous forme de buffets avec eau à table. Les boissons pétillantes sont payantes."
+        inscription: 
+        categorie: fun
+        online: oui
+        nouveau:
+        stage_une:
+    -
+        name: "Nauti Camp"
+        age: 12-17 ans
+        img: "/stages/activitesfun/nauticamp.jpg"
+        lieu: Espagne - Playa de Aro - Hotel Platja Park"
+        description: "Envie de découvrir ce nouveau sport dérivé du tennis qui fait fureur sous le soleil de l'Espagne (Platja d'Aro - Costa Brava)? Le stage Padel-Tennis Camp est pour vous ! 2 séances de Padel-Tennis chaque jour + Beach sports, snorkeling (nage avec palmes et tuba), trekking,... L'occasion de vivre une semaine détente-vacances : sports, piscine, plage et mer. Excursions (Aquapark et sortie bateau) possibles et visite de Barcelone comprise dans le séjour. Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve. Les stagiaires logent tous au même étage de l'hôtel et sont encadrés par le staff de moniteurs 24h sur 24."
+        infos: "Tous les repas de l'hôtel sont servis sous forme de buffets avec eau à table. Les boissons pétillantes sont payantes. Ce stage est à caractère sportif (sports d’eau,…). Savoir nager 50m est indispensable."
+        inscription: 
+        categorie: fun
+        online: oui
+        nouveau:
+        stage_une:
+    -
+        name: "Sport Aventure & Quad"
+        age: 10-15 ans
+        img: "/stages/activitesfun/sportaventureetquad.jpg"
+        lieu: Belgique - Stoumont"
+        description: "Du Fun et aussi la découverte d’une région magnifique près de la cascade de Coo. Sports Aventure avec : Quad, VTT, Initiation aventurier, Tir à l’arc, Tir à la carabine, Parcours explo-raid, Super journée aventure dans un site spécialisé avec parcours de cordes et ponts de singe. Piscine et sports détente au cours de la semaine. Encadrement par des éducateurs et professeurs sportifs. Accueil des stagiaires le dimanche après-midi à partir de 14h00 au Centre Forêt et Sports de Stoumont. Retour le samedi matin à partir de 10h00. Les chambres très agréables et lumineuses sont prévues pour 4 à 6 personnes. Nous disposons de très belles infrastructures sur place : salle de sports, salle de cinéma et salle de détente."
+        infos: "Les repas sont prévus par le traiteur du centre. Ce stage nécessite un VTT en parfait état de marche ainsi qu'un casque (location VTT et casque possible)"
+        inscription: 
+        categorie: fun
+        online: oui
+        nouveau:
+        stage_une:
+    -
         name: "Aqua Fun"
         age: 7-12 ans
         img: "/stages/activitessportives/aquafun.png"
@@ -1007,6 +1043,42 @@ stages:
         categorie: sportives
         online: oui
         nouveau:
+        stage_une:
+    -
+        name: "Football Camp"
+        age: 12-17 ans
+        img: "/stages/activitessportives/footcamp.jpg"
+        lieu: "Espagne - Playa de Aro - Hotel Platja Park"
+        description: "Pour les "Fan's du ballon rond", filles et garçons, débutants et joueurs confirmés, trois camps de football sous le soleil de l'Espagne (Platja d'Aro - Costa Brava). Encadrés par notre équipe de moniteurs placée sous la direction de Philippe Dupan (Diplômé / entraîneur Heysel), venez vous perfectionner tout en profitant de moments 100% vacances! Deux séances d'entraînement par jour aux heures moins torrides et des activités annexes (plage, piscine, ...). Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve. Les stagiaires logent tous au même étage de l'hôtel et sont encadrés par le staff de moniteurs 24h sur 24."
+        infos: Tous les repas de l'hôtel sont servis sous forme de buffets avec eau à table. Les boissons pétillantes sont payantes.
+        inscription: 
+        categorie: sportives
+        online: oui
+        nouveau: oui
+        stage_une:
+    -
+        name: "Ski"
+        age: 12-17 ans
+        img: "/stages/activitessportives/ski.jpg"
+        lieu: "France - CHÂTEL- Haute Savoie - Porte du Soleil"
+        description: "Initiation et perfectionnement ski à Châtel (France) avec cours et matériel fournis, le forfait remontées mécaniques, le trajet aller-retour en autocar de luxe et l’encadrement par des moniteurs spécialisés. Des groupes d’âge adaptés, logement en pension complète au châlet « Le Nid Alpin » situé en plein coeur du village montagnard et des « after ski » sympas : soirée karaoké, soirée dansante, tournoi de ping-pong, soirée blanche, soirée jeux,... Châtel offre 276 pistes et un snowpark composé de 9 entités. Une station de rêve : un coeur de village animé, une architecture montagnarde et des paysages majestueux. Ici, l'ambiance exprime un savoureux mélange de douceur de vivre, de convivialité et de fête."
+        infos: Uniquement pendant les stages de Pâques.
+        inscription: 
+        categorie: sportives
+        online: oui
+        nouveau: oui
+        stage_une:
+    -
+        name: "Padel Tennis Camp"
+        age: 12-17 ans
+        img: "/stages/activitessportives/padeltenniscamp.jpg"
+        lieu: "Espagne - Playa de Aro - Hotel Platja Park"
+        description: "Envie de découvrir ce nouveau sport dérivé du tennis qui fait fureur sous le soleil de l'Espagne (Platja d'Aro - Costa Brava)? Le stage Padel-Tennis Camp est pour vous ! 2 séances de Padel-Tennis chaque jour + Beach sports, snorkeling (nage avec palmes et tuba), trekking,... L'occasion de vivre une semaine détente vacances : sports, piscine, plage et mer. Excursions (Aquapark et sortie bateau) possibles et visite de Barcelone comprise dans le séjour."
+        infos: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve. Les stagiaires logent tous au même étage de l'hôtel et sont encadrés par le staff de moniteurs 24h sur 24. Tous les repas de l'hôtel sont servis sous forme de buffets avec eau à table. Les boissons pétillantes sont payantes !
+        inscription: 
+        categorie: sportives
+        online: oui
+        nouveau: oui
         stage_une:
     -
         name: "Apprenti Savant"
