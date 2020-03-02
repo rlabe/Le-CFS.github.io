@@ -1067,7 +1067,7 @@ stages:
         categorie: sportives
         online: oui
         nouveau: oui
-        stage_une:
+        stage_une: oui
     -
         name: "Padel Tennis Camp"
         age: 12-17 ans
