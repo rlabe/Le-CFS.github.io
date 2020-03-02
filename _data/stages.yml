@@ -421,6 +421,18 @@ stages:
         nouveau:
         stage_une:
     -
+        name: "Krav Maga découverte"
+        age: 6-8 ans
+        img: "/stages/decouvertesportiveetculturelle/kravmagadecouverte.png"
+        lieu: Bruxelles
+        description: "Demi-journée quotidienne d’initiation et découverte du Krav maga qui allie différents type de combat et d’auto défense. Les enfants auront l'occasion de participer à des initiations à plusieurs sports de self-défense et d'arts martiaux différents durant la semaine. Toutes les activités seront encadrées par des moniteurs professionnels de Krav Maga Bruxelles. L’autre demi-journée est complétée par des activités funs, des jeux collectifs et du multisport."
+        infos: "En partenariait avec Krav Maga Bruxelles -  Le Krav Maga n’encourage pas la violence, il s’agit une pratique qui fait travailler le physique et le mental sans pour autant mettre la violence au premier plan."
+        inscription: 
+        categorie: decouvertes
+        online:
+        nouveau:
+        stage_une:
+    -
         name: "Dance For You"
         age: 8-14 ans
         img: "/stages/danseetgymnastique/danceforyou.png"
@@ -814,6 +826,18 @@ stages:
         inscription: 
         categorie: sportives
         online: oui
+        nouveau: oui
+        stage_une:
+    -
+        name: "Krav Maga"
+        age: 9-14 ans
+        img: "/stages/activitessportives/kravmaga.jpg"
+        lieu: Bruxelles
+        description: "Demi-journée quotidienne d’initiation et découverte du Krav maga qui allie différents type de combat et d’auto défense. Les enfants auront l'occasion de participer à des initiations à plusieurs sports de self-défense et d'arts martiaux différents durant la semaine. Toutes les activités seront encadrées par des moniteurs professionnels de Krav Maga Bruxelles. L’autre demi-journée est complétée par des activités funs, des jeux collectifs et du multisport."
+        infos: "En partenariait avec Krav Maga Bruxelles -  Le Krav Maga n’encourage pas la violence, il s’agit une pratique qui fait travailler le physique et le mental sans pour autant mettre la violence au premier plan."
+        inscription: 
+        categorie: sportives
+        online:
         nouveau: oui
         stage_une:
     -
