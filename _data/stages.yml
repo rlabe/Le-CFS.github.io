@@ -613,18 +613,6 @@ stages:
         nouveau: oui
         stage_une: 
     -
-        name: "Koh Lanta"
-        age: Bruxelles 9-12 ans / Brabant 8-12 ans  
-        img: "/stages/kohlanta2.png"
-        lieu: "Bruxelles - Brabant Wallon"
-        description: "<strong>BRUXELLES:</strong> Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocaching et jeux d’escape Games. La semaine est agrémentée d'une journée inoubliable au Parc Aventure de Wavre. Fair-Play et esprit de coopération sont requis pour ce stage !<hr><strong>BRABANT:</strong> Les enfants vivent une semaine dans la peau des aventuriers de Koh Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives. Initiation à la fabrication de campement, chasse aux trésors, Géocatching et jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage !"
-        infos: 
-        inscription: 
-        categorie: fun
-        online: 
-        nouveau: oui
-        stage_une: Oui
-    -
         name: "Pilote Academy"
         age: 10-14 ans
         img: "/stages/activitesfun/pilote.png"
