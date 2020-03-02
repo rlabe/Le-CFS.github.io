@@ -694,7 +694,7 @@ stages:
         inscription: 
         categorie: fun
         online: oui
-        nouveau:
+        nouveau: oui
         stage_une:
     -
         name: "Nauti Camp"
@@ -706,7 +706,7 @@ stages:
         inscription: 
         categorie: fun
         online: oui
-        nouveau:
+        nouveau: oui
         stage_une:
     -
         name: "Sport Aventure & Quad"
@@ -718,7 +718,7 @@ stages:
         inscription: 
         categorie: fun
         online: oui
-        nouveau:
+        nouveau: oui
         stage_une:
     -
         name: "Aqua Fun"
