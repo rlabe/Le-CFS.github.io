@@ -273,7 +273,7 @@ liste:
         couleur_bouton: 
     -
         name: "Krav Maga Bruxelles"
-        categorie: Partenaires de stages
+        categorie: Partenaires pédagogiques
         logo: /assets/images/partenaires/kravmaga.png
         href: https://www.kravmagabruxelles.be/
         online: oui
