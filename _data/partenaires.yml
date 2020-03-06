@@ -281,7 +281,7 @@ liste:
         couleur_bouton: 
     -
         name: "Adsl"
-        categorie: Partenaires pédagogiques
+        categorie: Partenaires de stages
         logo: /assets/images/partenaires/adsl.png
         href: https://www.adslstages.be/
         online: oui
