@@ -11,7 +11,7 @@
         <a href="{% if item.href %}{{ item.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" style="color: #fff !important;" {% if item.autre_page %}target="_blank"{% endif %} >
           <figure>
             <img src="{{ item.src }}" alt="" style="border-radius: 5%;">
-            <div class="image-overlay bulle3">
+            <div class="desktop image-overlay bulle3">
               <div class="overlay-text text-center">
                 <div class="info-text">
                   <strong>{% if item.titre_overlay%}{{ item.titre_overlay}}{% else %}{{ item.titre }}{% endif %}</strong>
